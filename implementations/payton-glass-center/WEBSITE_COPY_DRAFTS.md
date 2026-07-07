@@ -1,0 +1,1148 @@
+# Payton Glass Center Website Copy Drafts
+
+Status: Draft
+Blueprint AI Phase: Implementation Phase 2.7
+Business: Payton Glass Center
+Location: Louisville, Kentucky
+Phase Focus: First-draft website copy based on business blueprint
+Depends On: WEBSITE_CONTENT_BLUEPRINT.md, WEBSITE_PAGE_MAP.md, CURRENT_OFFER_DETAILS.md, PRICING_AND_CAPACITY_MODEL.md, LISTING_UPDATE_RECOMMENDATIONS.md
+
+---
+
+## 1. Purpose
+
+This document contains first-draft website copy for Payton Glass Center.
+
+The copy is based on the Blueprint AI implementation files created so far.
+
+This is not final website copy.
+
+This document intentionally includes placeholders where owner-confirmed information is still needed, including:
+
+- Exact prices
+- Exact active offers
+- Group size limits
+- Age limits
+- Tour duration
+- Workshop duration
+- Pickup timeline
+- Deposit policy
+- Cancellation policy
+- Current hours
+- Booking process
+- Final photos and videos
+
+The goal is to move from strategy into usable page copy while avoiding unsupported claims.
+
+---
+
+## 2. Copy Principles
+
+The website copy should be:
+
+- Clear
+- Welcoming
+- Direct
+- Search-friendly
+- AI-answer-friendly
+- Accurate
+- Practical
+- Artist-led
+- Experience-focused
+- Easy for first-time visitors to understand
+
+The copy should avoid:
+
+- Overpromising
+- Vague art language
+- Confusing offer names
+- Unconfirmed prices
+- Unconfirmed availability
+- Too much technical terminology without explanation
+- Making the business sound like only a store
+- Making the business sound like only a classroom
+- Making the business sound like only a tourist attraction
+
+---
+
+## 3. Core Copy Library
+
+### Primary Business Description
+
+Payton Glass Center is a working glass art studio in Louisville, Kentucky where guests can watch, learn, and create through hands-on glass experiences, group tours, fused glass workshops, and artist-led activities.
+
+### Short Description
+
+A working Louisville glass studio offering group tours, hands-on glass experiences, fused glass workshops, field trips, private events, custom glass, and handmade glass art.
+
+### One-Line Description
+
+Watch, learn, and create in a real working glass art studio in Louisville.
+
+### Supporting Tagline
+
+Real artists. Real glassmaking. Hands-on creative experiences.
+
+### Working Studio Statement
+
+Payton Glass Center is not just a place to look at glass art. It is a professional working studio where visitors can see the process, learn from artists, and take part in hands-on creative activities.
+
+### Flameworking Explanation
+
+Many people search for glassblowing, but much of the work at Payton Glass Center is flameworking. Flameworking is glassmaking at the torch, instead of from a furnace.
+
+### Educational Statement
+
+Visitors get a direct look at glassmaking as art, craft, skill, and livelihood. Payton Glass Center helps guests understand how creative work can become a real profession.
+
+---
+
+## 4. Home Page Draft
+
+### Draft SEO Title
+
+Payton Glass Center | Hands-On Glass Experiences in Louisville
+
+### Draft Meta Description
+
+Visit a working glass art studio in Louisville for group tours, fused glass workshops, hands-on glass experiences, field trips, private events, custom glass, and handmade glass art.
+
+---
+
+### Hero
+
+# Hands-On Glass Experiences in a Real Louisville Glass Studio
+
+Payton Glass Center is a working glass art studio where guests can watch, learn, and create through group tours, fused glass workshops, torch-based glass experiences, and artist-led activities.
+
+**Primary CTA:** Request a Group Tour
+**Secondary CTA:** Explore Glass Experiences
+
+---
+
+### Section: Watch, Learn, and Create
+
+Payton Glass Center gives visitors access to a real glass studio experience.
+
+You can watch artists work, learn how glass is shaped, create your own project, schedule a group visit, plan a field trip, or explore handmade glass art made by professional artists.
+
+Whether you are planning a family activity, school visit, private group event, or creative workshop, the studio offers a memorable way to experience glass up close.
+
+---
+
+### Section: What Can You Do Here?
+
+#### Group Tours
+
+Bring your school, team, organization, family, or group to a working glass studio for a guided experience with education, demonstration, and hands-on activity options.
+
+#### Fused Glass Workshops
+
+Create a colorful glass project using pieces of glass arranged into a design that is later kiln-fired into a finished keepsake.
+
+#### Hands-On Glass Experiences
+
+Experience torch-based glassmaking with guidance from a professional artist. These beginner-friendly experiences help guests get close to the glassmaking process safely.
+
+#### Field Trips
+
+Give students a creative educational visit where they can learn about glassmaking, studio safety, artistic skill, and creative careers.
+
+#### Private Events
+
+Plan a unique group activity for birthdays, teams, families, churches, clubs, and organizations.
+
+#### Custom Glass and Handmade Art
+
+Ask about custom glass, handmade gifts, finished glass art, and special projects.
+
+---
+
+### Section: Group Tours Are a Core Experience
+
+Group tours are one of the best ways to experience Payton Glass Center.
+
+Your group can visit a real working glass studio, learn how glass art is made, watch artists at work, and participate in a hands-on activity designed to make the visit creative, educational, and memorable.
+
+**CTA:** Request a Group Tour
+
+---
+
+### Section: A Real Working Glass Studio
+
+This is a real studio where artists make their living through glass.
+
+Payton Glass Center gives visitors a direct look at professional glass art as a working craft. The studio experience helps guests understand not only how glass is made, but how creative skill, discipline, and craftsmanship can become a real livelihood.
+
+---
+
+### Section: Plan Your Visit
+
+Payton Glass Center is located in Louisville, Kentucky.
+
+Before visiting, check current hours, appointment requirements, activity availability, and pickup details.
+
+**CTA:** Contact the Studio
+
+---
+
+### Home Page Owner Placeholders
+
+- Exact address
+- Current hours
+- Appointment/walk-in policy
+- Primary phone
+- Final homepage hero image/video
+- Final offer order
+- Whether prices appear on home page
+- Current review/testimonial quotes
+
+---
+
+## 5. Group Tours Page Draft
+
+### Draft SEO Title
+
+Group Glass Studio Tours in Louisville | Payton Glass Center
+
+### Draft Meta Description
+
+Plan a group glass studio tour in Louisville with hands-on activities, artist demonstrations, educational value, and creative experiences for schools, teams, families, and organizations.
+
+---
+
+### Hero
+
+# Group Glass Studio Tours in Louisville
+
+Bring your group to a real working glass studio where they can learn about glassmaking, watch artists at work, and take part in a hands-on creative activity.
+
+**Primary CTA:** Request a Group Tour
+**Secondary CTA:** Ask About Availability
+
+---
+
+### Section: A Creative Group Experience
+
+A Payton Glass Center group tour gives visitors a guided look inside a professional glass art studio.
+
+Your group can learn how glass is shaped, see the tools and process, watch a demonstration, ask questions, and participate in a hands-on activity based on the group’s size, age range, and schedule.
+
+This is a strong fit for groups looking for something creative, educational, and different from a typical outing.
+
+---
+
+### Section: Good For Many Group Types
+
+Group tours may be a good fit for:
+
+- Schools
+- Homeschool groups
+- Scouts and youth groups
+- Senior groups
+- Corporate teams
+- Church groups
+- Tourist groups
+- Birthday groups
+- Family groups
+- Clubs and community organizations
+
+Exact availability depends on group size, activity type, schedule, and owner confirmation.
+
+---
+
+### Section: What Happens During a Group Tour?
+
+A group tour may include:
+
+- Welcome and orientation
+- Studio introduction
+- Glassmaking explanation
+- Safety overview
+- Artist demonstration
+- Hands-on activity
+- Questions and answers
+- Time to view finished glass art
+- Pickup or completion instructions if needed
+
+The exact tour structure may vary by group.
+
+---
+
+### Section: Educational Value
+
+Payton Glass Center is a working studio, not a staged attraction.
+
+Visitors can learn what flameworking is, how glass is shaped at the torch, how artists work safely with heat and tools, and how skilled creative work can become a real career.
+
+This message is especially valuable for students and young people because it shows that craftsmanship, art, business, and livelihood can connect.
+
+---
+
+### Section: Planning a Group Tour
+
+When requesting a group tour, please include:
+
+- Group type
+- Organization name if applicable
+- Number of participants
+- Number of chaperones or observers
+- Age range or grade level
+- Preferred date
+- Preferred time
+- Backup date if possible
+- Activity interest
+- Special needs or accessibility notes
+
+**CTA:** Request a Group Tour
+
+---
+
+### Group Tours Owner Placeholders
+
+- Exact minimum group size
+- Exact maximum group size
+- Ideal group size
+- Standard duration
+- Pricing
+- Deposit policy
+- Cancellation policy
+- Activity options
+- Pickup timeline
+- Final group tour photos/videos
+
+---
+
+## 6. Fused Glass Workshops Page Draft
+
+### Draft SEO Title
+
+Fused Glass Workshops in Louisville | Payton Glass Center
+
+### Draft Meta Description
+
+Create colorful glass art in a fused glass workshop at Payton Glass Center in Louisville. Beginner-friendly activities for families, groups, and creative visitors.
+
+---
+
+### Hero
+
+# Fused Glass Workshops in Louisville
+
+Create a colorful glass project in a beginner-friendly workshop at Payton Glass Center.
+
+**Primary CTA:** Ask About Fused Glass Workshops
+**Secondary CTA:** Request a Group Activity
+
+---
+
+### Section: What Is Fused Glass?
+
+Fused glass is a creative process where pieces of glass are arranged into a design and then fired in a kiln so the glass bonds together into a finished piece.
+
+It is a colorful, hands-on way to experience glass art without needing prior experience.
+
+---
+
+### Section: Who Is It For?
+
+Fused glass workshops may be a good fit for:
+
+- Families
+- Children
+- Adults
+- School groups
+- Homeschool groups
+- Senior groups
+- Birthday groups
+- Private groups
+- Creative beginners
+- People looking for a unique Louisville activity
+
+Exact age guidance, project options, and group capacity need owner confirmation.
+
+---
+
+### Section: How the Process Works
+
+Guests choose or design a project, arrange colorful glass pieces, and prepare the piece for firing.
+
+Some fused glass projects need to be kiln-fired after the workshop and picked up later. Pickup timing depends on the project and firing schedule.
+
+---
+
+### Section: Good for Groups
+
+Fused glass can work well as a group activity because it is visual, creative, and approachable for beginners.
+
+It can be part of group tours, field trips, private events, birthday activities, or public workshops depending on schedule and availability.
+
+---
+
+### Fused Glass Owner Placeholders
+
+- Current project options
+- Pricing
+- Minimum age
+- Workshop duration
+- Group capacity
+- Kiln firing timeline
+- Pickup process
+- Shipping option
+- Final fused glass photos/videos
+
+---
+
+## 7. Hands-On Glass Experiences Page Draft
+
+### Draft SEO Title
+
+Hands-On Glass Experiences in Louisville | Payton Glass Center
+
+### Draft Meta Description
+
+Try a hands-on glass experience in Louisville with artist guidance at Payton Glass Center, a working glass art studio offering torch-based glassmaking activities.
+
+---
+
+### Hero
+
+# Hands-On Glass Experiences in Louisville
+
+Experience torch-based glassmaking with guidance from a professional artist.
+
+**Primary CTA:** Ask About Hands-On Experiences
+**Secondary CTA:** Explore Group Options
+
+---
+
+### Section: Try Glassmaking Up Close
+
+Hands-on glass experiences give guests a chance to work close to the glassmaking process with direct guidance from a professional artist.
+
+These experiences are designed for beginners and focus on safe, guided participation rather than independent studio use.
+
+---
+
+### Section: Glassblowing, Flameworking, and Torchworking
+
+Many people search for glassblowing, but much of the work at Payton Glass Center is flameworking.
+
+Flameworking, also called torchworking or lampworking, uses a torch to heat and shape glass. Furnace glassblowing uses a furnace and a larger gathering process.
+
+Payton Glass Center uses customer-friendly language while also teaching the accurate craft terms.
+
+---
+
+### Section: Who Is It For?
+
+Hands-on glass experiences may be a good fit for:
+
+- Adults
+- Couples
+- Tourists
+- Creative individuals
+- Families
+- Small groups
+- People looking for a unique date, outing, or activity
+
+Exact age limits, project options, and availability need owner confirmation.
+
+---
+
+### Section: Safety and Guidance
+
+Guests are guided through the experience by a professional artist. Safety expectations, age limits, and participation details depend on the specific activity.
+
+---
+
+### Hands-On Experiences Owner Placeholders
+
+- Current project options
+- Pricing
+- Minimum age
+- Session length
+- Maximum participants
+- Safety language
+- Cooling/pickup timeline
+- Final torch/flameworking photos/videos
+
+---
+
+## 8. Field Trips Page Draft
+
+### Draft SEO Title
+
+Educational Field Trips in Louisville | Payton Glass Center
+
+### Draft Meta Description
+
+Plan an educational glass studio field trip in Louisville with hands-on activities, artist demonstrations, and real-world creative learning at Payton Glass Center.
+
+---
+
+### Hero
+
+# Educational Glass Studio Field Trips in Louisville
+
+Bring students into a working glass art studio where they can learn about glassmaking, creative careers, studio safety, and hands-on art.
+
+**Primary CTA:** Plan a Field Trip
+**Secondary CTA:** Ask About Group Visits
+
+---
+
+### Section: A Creative Educational Visit
+
+A Payton Glass Center field trip gives students a direct look at art, science, heat, tools, design, craftsmanship, and creative entrepreneurship.
+
+Students can see glassmaking up close and learn how artists use skill, practice, and discipline to create handmade work.
+
+---
+
+### Section: What Students Can Learn
+
+Depending on the visit, students may learn:
+
+- What flameworking is
+- How glass is heated and shaped
+- How fused glass works
+- How artists use tools safely
+- How design and color affect glass projects
+- How creative skill can become a business and livelihood
+
+---
+
+### Section: Hands-On Learning
+
+Field trips may include a hands-on activity based on age range, group size, schedule, and activity availability.
+
+The goal is to give students a memorable experience that connects learning with making.
+
+---
+
+### Section: Planning a Field Trip
+
+When requesting a field trip, please include:
+
+- School or organization name
+- Grade level or age range
+- Number of students
+- Number of chaperones
+- Preferred date
+- Preferred time
+- Activity interest
+- Any special needs or accessibility notes
+
+---
+
+### Field Trips Owner Placeholders
+
+- Grade levels served
+- Pricing
+- Group size limits
+- Chaperone requirements
+- Tour duration
+- Activity options
+- Educational topics
+- Pickup process
+- Final field trip photos/videos with permission
+
+---
+
+## 9. Private Events Page Draft
+
+### Draft SEO Title
+
+Private Glass Events and Group Activities in Louisville
+
+### Draft Meta Description
+
+Plan a private glass activity in Louisville for birthdays, teams, families, and groups at Payton Glass Center, a working glass art studio with hands-on experiences.
+
+---
+
+### Hero
+
+# Private Glass Events and Creative Group Activities
+
+Plan a unique group experience in a working glass studio for birthdays, teams, families, friends, organizations, and private celebrations.
+
+**Primary CTA:** Request a Private Event
+**Secondary CTA:** Explore Group Tours
+
+---
+
+### Section: A Different Kind of Group Activity
+
+A private glass event gives your group something different from the usual outing.
+
+Guests can learn, create, watch the process, and share a memorable experience inside a working glass art studio.
+
+---
+
+### Section: Good For
+
+Private events may be a good fit for:
+
+- Birthdays
+- Family outings
+- Friend groups
+- Corporate teams
+- Church groups
+- Clubs
+- Community organizations
+- Special celebrations
+
+Exact event fit depends on group size, age range, schedule, and activity choice.
+
+---
+
+### Section: Activity Options
+
+Private events may include fused glass, demonstrations, hands-on activities, group tours, or other artist-led experiences depending on what is currently available.
+
+Final activity options need owner confirmation before public promotion.
+
+---
+
+### Private Events Owner Placeholders
+
+- Event types accepted
+- Pricing
+- Deposit policy
+- Food/drink policy
+- Group size limits
+- Age limits
+- Duration
+- Activity options
+- Final private event photos/videos
+
+---
+
+## 10. Classes Page Draft
+
+### Draft SEO Title
+
+Glass Classes in Louisville | Payton Glass Center
+
+### Draft Meta Description
+
+Explore beginner and future glass class opportunities at Payton Glass Center in Louisville, including flameworking, fused glass, evening, weekend, and deeper learning options.
+
+---
+
+### Hero
+
+# Glass Classes and Deeper Learning in Louisville
+
+Payton Glass Center is developing deeper learning opportunities for people who want more than a one-time activity.
+
+**Primary CTA:** Join the Class Interest List
+**Secondary CTA:** Ask About Current Options
+
+---
+
+### Section: Go Beyond a One-Time Experience
+
+Some visitors want to go deeper.
+
+Future class opportunities may include beginner-friendly evening workshops, weekend classes, one-day classes, two-day classes, or multi-session learning paths.
+
+These programs can give students more time to learn, practice, ask questions, and build confidence.
+
+---
+
+### Section: Possible Future Class Areas
+
+Future classes may explore:
+
+- Beginner glassmaking
+- Fused glass
+- Flameworking
+- Torch skills
+- Creative glass projects
+- Weekend workshops
+- Evening classes
+- Multi-session programs
+
+Final class offerings, pricing, dates, and enrollment limits need owner confirmation.
+
+---
+
+### Section: Join the Interest List
+
+Interested in future classes?
+
+Join the class interest list and tell us what kind of glass class you would like to take, your skill level, and whether evenings, weekends, one-day classes, or multi-session programs work best for you.
+
+---
+
+### Classes Owner Placeholders
+
+- Current class status
+- First class concepts
+- Pricing
+- Minimum enrollment
+- Maximum enrollment
+- Schedule
+- Age limits
+- Skill levels
+- Materials included
+- Final class photos/videos
+
+---
+
+## 11. Custom Glass Page Draft
+
+### Draft SEO Title
+
+Custom Glass and Handmade Glass Art in Louisville
+
+### Draft Meta Description
+
+Ask Payton Glass Center about custom glass work, handmade glass gifts, repairs, commissions, memorial pieces, and locally made glass art in Louisville.
+
+---
+
+### Hero
+
+# Custom Glass and Handmade Glass Art
+
+Ask about custom glass work, handmade glass gifts, repairs, commissions, and special projects.
+
+**Primary CTA:** Ask About Custom Glass
+**Secondary CTA:** Visit the Gallery
+
+---
+
+### Section: Handmade Glass with a Personal Touch
+
+Payton Glass Center creates and works with handmade glass art in a real professional studio.
+
+Custom requests may include gifts, special projects, repairs, memorial pieces, color requests, replacement pieces, or commissioned work depending on feasibility.
+
+---
+
+### Section: How to Request Custom Glass
+
+When asking about custom work, please include:
+
+- What you want made or repaired
+- Size
+- Color preferences
+- Deadline
+- Budget range if available
+- Reference photos if available
+- Pickup or shipping needs
+
+Not every project is possible in glass, but clear details help the studio determine whether the request is feasible.
+
+---
+
+### Custom Glass Owner Placeholders
+
+- Accepted custom work
+- Work not accepted
+- Repair policy
+- Quote process
+- Deposit policy
+- Timeline
+- Shipping option
+- Price range guidance
+- Final custom glass photos
+
+---
+
+## 12. Visit Page Draft
+
+### Draft SEO Title
+
+Visit Payton Glass Center in Louisville
+
+### Draft Meta Description
+
+Find visit information for Payton Glass Center in Louisville, including location, hours, parking, appointment expectations, project pickup, and contact details.
+
+---
+
+### Hero
+
+# Visit Payton Glass Center
+
+Find location, hours, parking, appointment, pickup, and contact information for visiting Payton Glass Center in Louisville.
+
+**Primary CTA:** Contact the Studio
+**Secondary CTA:** Get Directions
+
+---
+
+### Section: Location
+
+Payton Glass Center is located in Louisville, Kentucky.
+
+**Address:** TBD
+
+---
+
+### Section: Hours and Appointments
+
+Current hours and appointment requirements need owner confirmation.
+
+Some activities may require advance scheduling, especially group tours, field trips, private events, and hands-on experiences.
+
+---
+
+### Section: Parking and Arrival
+
+Parking and arrival details need owner confirmation.
+
+Visitors should check their appointment time, activity details, and pickup instructions before arriving.
+
+---
+
+### Section: Project Pickup
+
+Some glass projects may require cooling or kiln firing before they can be taken home.
+
+Pickup timing depends on the activity and project type.
+
+---
+
+### Visit Owner Placeholders
+
+- Exact address
+- Hours
+- Parking
+- Entrance instructions
+- Appointment policy
+- Walk-in policy
+- Pickup policy
+- Accessibility notes
+- Map embed
+- Final exterior/interior photos
+
+---
+
+## 13. FAQ Page Draft
+
+### Draft SEO Title
+
+Payton Glass Center FAQ | Glass Tours, Workshops, and Classes
+
+### Draft Meta Description
+
+Answers to common questions about Payton Glass Center group tours, fused glass workshops, hands-on glass experiences, field trips, private events, classes, pickup, and safety.
+
+---
+
+# Frequently Asked Questions
+
+## General Questions
+
+### What is Payton Glass Center?
+
+Payton Glass Center is a working glass art studio in Louisville, Kentucky where guests can watch, learn, and create through hands-on glass experiences, group tours, fused glass workshops, and artist-led activities.
+
+### Is Payton Glass Center open to the public?
+
+Payton Glass Center offers public-facing experiences, but some activities may require advance scheduling. Current hours and appointment policies need owner confirmation.
+
+### Can visitors make glass?
+
+Yes, Payton Glass Center offers hands-on glass experiences and fused glass activities depending on schedule, age range, group size, and activity availability.
+
+### Do I need an appointment?
+
+Some activities may require an appointment, especially group tours, field trips, private events, and hands-on experiences. Final appointment policy needs owner confirmation.
+
+---
+
+## Group Tours
+
+### Do you offer group tours?
+
+Yes, group tours are a major Payton Glass Center experience. Groups can inquire about guided studio visits with education, demonstration, and hands-on activity options.
+
+### What types of groups can visit?
+
+Group tours may be suitable for schools, homeschool groups, scouts, senior groups, corporate teams, churches, tourist groups, birthday groups, families, clubs, and organizations.
+
+### How do I schedule a group tour?
+
+Use the contact form and include your group type, group size, age range, preferred date, preferred time, and activity interest.
+
+---
+
+## Fused Glass
+
+### What is fused glass?
+
+Fused glass is a process where pieces of glass are arranged into a design and fired in a kiln to create a finished piece.
+
+### Is fused glass good for beginners?
+
+Yes, fused glass is generally beginner-friendly and can work well for families, groups, and first-time participants.
+
+### Do fused glass projects go home the same day?
+
+Some projects may need kiln firing and pickup later. Exact pickup timing depends on the project and firing schedule.
+
+---
+
+## Hands-On Torch Experiences
+
+### Can I try glassblowing?
+
+Many people use the word glassblowing, but Payton Glass Center focuses heavily on flameworking, which is glassmaking at the torch. Hands-on experiences may be available depending on age, schedule, and activity options.
+
+### What is flameworking?
+
+Flameworking is a form of glassmaking where glass is heated and shaped with a torch instead of being gathered from a furnace.
+
+### Is it safe for beginners?
+
+Hands-on experiences are guided by a professional artist and designed around safety. Exact age limits and participation rules need owner confirmation.
+
+---
+
+## Field Trips
+
+### Do you host school field trips?
+
+Payton Glass Center can serve educational groups and field trip inquiries. Final grade ranges, group sizes, pricing, and activity details need owner confirmation.
+
+### What do students learn?
+
+Students may learn about glassmaking, flameworking, fused glass, studio safety, tools, design, and how creative skill can become a real livelihood.
+
+---
+
+## Private Events
+
+### Can I book a private glass activity?
+
+Private group activities may be available for birthdays, teams, families, churches, clubs, and organizations depending on schedule, group size, and activity choice.
+
+### Can we bring food or drinks?
+
+Food and drink policy needs owner confirmation.
+
+---
+
+## Classes
+
+### Do you offer glass classes?
+
+Payton Glass Center is interested in deeper class opportunities, including evening, weekend, one-day, two-day, and multi-session classes. Current class availability needs owner confirmation.
+
+### Can I join a class interest list?
+
+A class interest list is recommended so interested customers can be notified when future classes are announced.
+
+---
+
+## Custom Glass
+
+### Do you make custom glass?
+
+Custom glass requests may be possible depending on the project, timeline, materials, and feasibility.
+
+### Can you repair glass?
+
+Repair policy needs owner confirmation. Customers should provide photos and details before assuming a repair is possible.
+
+---
+
+## Pickup
+
+### Do projects need to be picked up later?
+
+Some projects may require cooling or kiln firing before pickup. Exact pickup timing depends on the activity and project.
+
+---
+
+## Booking
+
+### How do I contact Payton Glass Center?
+
+Use the contact form or call the studio. Final contact method, phone number, and response expectations need owner confirmation.
+
+---
+
+## 14. Contact Page Draft
+
+### Draft SEO Title
+
+Contact Payton Glass Center | Request a Glass Tour or Workshop
+
+### Draft Meta Description
+
+Contact Payton Glass Center in Louisville to request group tours, fused glass workshops, hands-on glass experiences, field trips, private events, classes, or custom glass.
+
+---
+
+### Hero
+
+# Contact Payton Glass Center
+
+Request a group tour, fused glass workshop, hands-on glass experience, field trip, private event, class inquiry, custom glass project, or general information.
+
+**Primary CTA:** Send Request
+
+---
+
+### Section: Tell Us What You Are Planning
+
+Use the form below to tell us what you are interested in.
+
+For group requests, please include as many details as possible so the studio can respond accurately.
+
+Helpful details include:
+
+- Offer interest
+- Group type
+- Organization name
+- Number of participants
+- Age range
+- Preferred date
+- Preferred time
+- Backup date
+- Special needs or accessibility notes
+
+---
+
+### Section: What Happens Next?
+
+After you submit your request, Payton Glass Center will review your information and follow up about availability, options, pricing, and next steps.
+
+For group requests, the more details you provide, the easier it is to respond accurately.
+
+---
+
+### Recommended Form Fields
+
+- Name
+- Email
+- Phone
+- Offer interest
+- Group type
+- Organization name
+- Number of participants
+- Age range
+- Preferred date
+- Preferred time
+- Backup date
+- Message
+- How did you hear about us?
+
+---
+
+### Contact Owner Placeholders
+
+- Final phone
+- Final email
+- Final response timeframe
+- Final form tool
+- Form recipient
+- Whether text messaging is used
+- Spam protection method
+- CRM connection
+
+---
+
+## 15. Gallery / Glass Art Page Draft
+
+### Draft SEO Title
+
+Handmade Glass Art in Louisville | Payton Glass Center
+
+### Draft Meta Description
+
+Explore handmade glass art, gifts, custom work, and finished pieces from Payton Glass Center, a working glass art studio in Louisville.
+
+---
+
+### Hero
+
+# Handmade Glass Art from a Working Louisville Studio
+
+Explore finished glass art, handmade gifts, custom examples, and creative work made through Payton Glass Center.
+
+**Primary CTA:** Visit the Studio
+**Secondary CTA:** Ask About Custom Glass
+
+---
+
+### Section: See What We Create
+
+Payton Glass Center is built around real glassmaking.
+
+The studio creates handmade glass art, gifts, custom pieces, workshop projects, and finished work that reflects the skill and creativity of professional glass artists.
+
+---
+
+### Section: Gifts, Custom Work, and Finished Pieces
+
+Visitors may find handmade glass gifts, finished art, seasonal items, and examples of custom work.
+
+Availability changes over time, so contact the studio or visit to see what is currently available.
+
+---
+
+### Gallery Owner Placeholders
+
+- Product categories
+- Price ranges
+- Gift options
+- Custom examples
+- Retail availability
+- Shipping availability
+- Final gallery photos
+
+---
+
+## 16. Copy Gaps Requiring Owner Confirmation
+
+Before final website copy, Mark needs to confirm:
+
+- Exact active offers
+- Prices
+- Group sizes
+- Age limits
+- Durations
+- Pickup timelines
+- Deposit policy
+- Cancellation policy
+- Walk-in policy
+- Appointment policy
+- Public hours
+- Parking
+- Accessibility details
+- Food/drink policy
+- Repair policy
+- Custom glass policy
+- Class availability
+- Photos/videos
+- Testimonials/reviews
+- Preferred calls to action
+
+---
+
+## 17. Recommended Next Step
+
+The next recommended file is:
+
+`FIRST_BUILD_SCOPE.md`
+
+That file should define what the first website/system build should include, what should wait, and what should not be built yet.
+
+---
+
+## 18. Blueprint AI Notes
+
+This document validates Blueprint AI by moving from strategy to first-draft execution.
+
+The copy is intentionally practical, structured, and cautious.
+
+It gives Payton Glass Center a strong first website content base while protecting the business from publishing unconfirmed details.
