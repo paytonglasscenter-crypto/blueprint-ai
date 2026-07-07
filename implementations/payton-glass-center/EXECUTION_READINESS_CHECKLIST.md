@@ -1,0 +1,646 @@
+# Payton Glass Center Execution Readiness Checklist
+
+Status: Draft
+Blueprint AI Phase: Implementation Phase 3.1
+Business: Payton Glass Center
+Location: Louisville, Kentucky
+Phase Focus: Execution readiness and build decision filtering
+Depends On: PHASE_2_SUMMARY.md, FIRST_BUILD_SCOPE.md, WEBSITE_COPY_DRAFTS.md, OWNER_DATA_REQUEST.md
+
+---
+
+## 1. Purpose
+
+This document determines what Payton Glass Center is ready to build, what needs owner data, what needs media, what needs policy confirmation, what needs a platform decision, and what should wait.
+
+Implementation Phase 1 created the strategic foundation.
+
+Implementation Phase 2 created owner data requests, offer validation files, first website copy drafts, listing plans, media needs, and first build scope.
+
+Implementation Phase 3 begins execution readiness.
+
+The goal is to avoid premature building while still moving toward practical implementation.
+
+---
+
+## 2. Core Principle
+
+Build only what is ready enough to build.
+
+Do not block forever waiting for perfect information.
+
+Do not publish unsupported details.
+
+Do not automate unclear workflows.
+
+Do not build advanced features before the business foundation is working.
+
+Use this checklist to sort work into clear categories.
+
+---
+
+## 3. Readiness Status Labels
+
+Use these labels throughout this document.
+
+### Ready to Build
+
+Enough information exists to begin building or drafting.
+
+### Needs Owner Data
+
+Requires Mark to confirm facts such as prices, hours, group size, age limits, policies, or active offers.
+
+### Needs Media
+
+Requires photos, videos, screenshots, or visual assets before it can be completed well.
+
+### Needs Policy Confirmation
+
+Requires clear business rules before public copy, forms, booking, or automation.
+
+### Needs Platform Decision
+
+Requires choosing a website, form, CRM, hosting, analytics, or automation platform.
+
+### Needs Access
+
+Requires login or ownership access to a platform.
+
+### Should Wait
+
+Useful later, but not needed for the first build.
+
+### Do Not Build Yet
+
+Could create confusion, operational problems, or unnecessary complexity if built now.
+
+---
+
+## 4. Master Readiness Table
+
+| Area | Readiness Status | Reason | Next Action |
+|---|---|---|---|
+| Business identity copy | Ready to Build | Core positioning is clear | Use draft copy, verify exact NAP before launch |
+| Homepage structure | Ready to Build | Page strategy and draft copy exist | Build after platform decision |
+| Group Tours page | Needs Owner Data | Core strategy exists, details missing | Confirm price, size, duration, activity options |
+| Fused Glass page | Needs Owner Data | Draft copy exists, project details missing | Confirm projects, price, age, pickup |
+| Hands-On Experiences page | Needs Owner Data | Draft copy exists, safety/details missing | Confirm age, safety, pricing, capacity |
+| Field Trips page | Needs Owner Data | Draft copy exists, school details missing | Confirm grade levels, chaperones, pricing |
+| Private Events page | Needs Owner Data | Draft copy exists, event rules missing | Confirm accepted events, food/drink, pricing |
+| Classes page | Should Wait | Future opportunity, not fully active | Use interest-list language only |
+| Custom Glass page | Needs Owner Data | Policy and accepted work unclear | Confirm accepted/declined custom work |
+| Visit page | Needs Owner Data | Address/hours/parking must be exact | Confirm location details |
+| FAQ page | Needs Owner Data | Structure ready, factual answers need confirmation | Fill owner-confirmed answers |
+| Contact page | Needs Platform Decision | Form model exists, tool not chosen | Choose form destination |
+| Inquiry form | Needs Platform Decision | Fields defined, system not selected | Choose email/sheet/Airtable/CRM path |
+| CRM | Should Wait | Field model exists, tool not chosen | Start after inquiry workflow is tested |
+| Automation | Do Not Build Yet | Trigger model exists, workflow not confirmed | Wait until CRM/inquiry process is stable |
+| Google Business Profile updates | Needs Access | Audit framework exists, current state needed | Record current GBP before updates |
+| Bing Places updates | Needs Access | Update plan exists, current state needed | Confirm Bing access/status |
+| Apple Business Connect updates | Needs Access | Update plan exists, current state needed | Confirm Apple access/status |
+| Website media | Needs Media | Inventory created, assets not reviewed | Gather and review photos/videos |
+| Website platform | Needs Platform Decision | Scope defined, build path undecided | Create website build decision file |
+| Tracking/analytics | Needs Platform Decision | Needed for first build | Decide GA4/Search Console setup |
+| Online booking | Do Not Build Yet | Pricing/capacity/schedule not confirmed | Revisit after owner data |
+| Ecommerce | Do Not Build Yet | Product/inventory/fulfillment not confirmed | Revisit later |
+| Payment/deposit automation | Do Not Build Yet | Policies and workflow not confirmed | Revisit after CRM/booking decision |
+
+---
+
+## 5. Ready to Build Now
+
+The following items are ready enough to begin drafting, structuring, or building once the website platform decision is made.
+
+### 5.1 Core Business Positioning
+
+Ready because the core identity is clear.
+
+Approved working positioning:
+
+Payton Glass Center is a working glass art studio in Louisville, Kentucky where guests can watch, learn, and create through hands-on glass experiences, group tours, fused glass workshops, and artist-led activities.
+
+### 5.2 Core Website Architecture
+
+Ready because the page map and first build scope are complete.
+
+First build pages:
+
+- Home
+- Group Tours
+- Contact / Request a Booking
+- Fused Glass Workshops
+- Hands-On Glass Experiences
+- Field Trips
+- Private Events
+- FAQ
+- Visit
+- Gallery / Glass Art
+
+### 5.3 Draft Copy Foundation
+
+Ready because first-draft copy exists.
+
+Source file:
+
+`WEBSITE_COPY_DRAFTS.md`
+
+This copy can be used as the starting point for page drafts, but it must not be launched with placeholders.
+
+### 5.4 Inquiry Form Field Structure
+
+Ready at the planning level.
+
+Source file:
+
+`INQUIRY_FORM_MODEL.md`
+
+The form fields are defined, but the tool/destination must still be chosen.
+
+### 5.5 CRM Field Planning
+
+Ready at the planning level.
+
+Source file:
+
+`CRM_FIELD_MODEL.md`
+
+The CRM should not be fully implemented yet, but the field model is ready to guide the future choice.
+
+### 5.6 Automation Trigger Planning
+
+Ready at the planning level.
+
+Source file:
+
+`AUTOMATION_TRIGGER_MODEL.md`
+
+Automation should not be built yet, but the trigger model is documented.
+
+---
+
+## 6. Needs Owner Data Before Launch
+
+These items can be drafted but should not be finalized or published until Mark confirms details.
+
+### 6.1 Business Details
+
+Needs confirmation:
+
+- Exact business name
+- Exact address
+- Public phone
+- Public email
+- Current website URL
+- Preferred future website URL
+- Hours
+- Holiday hours
+- Walk-in policy
+- Appointment policy
+- Parking
+- Accessibility details
+
+### 6.2 Offer Details
+
+Needs confirmation:
+
+- Active offers
+- Limited/by-request offers
+- Future/planned offers
+- Retired or not-promoted offers
+- Best offer names
+- Most profitable offers
+- Offers that should be emphasized first
+
+### 6.3 Pricing
+
+Needs confirmation:
+
+- Price per person
+- Price per project
+- Group tour pricing
+- Field trip pricing
+- Private event pricing
+- Minimum charges
+- Deposits
+- Balance due timing
+- Public vs inquiry-based pricing
+
+### 6.4 Capacity
+
+Needs confirmation:
+
+- Minimum group size
+- Ideal group size
+- Maximum group size
+- Maximum daily capacity
+- Staff limits
+- Space limits
+- Parking limits
+- Kiln/cooling limits
+- Torch/activity limits
+
+### 6.5 Age Limits
+
+Needs confirmation:
+
+- Fused glass age limits
+- Torch experience age limits
+- Group tour age limits
+- Field trip grade levels
+- Birthday/private event age guidance
+- Chaperone requirements
+
+### 6.6 Policies
+
+Needs confirmation:
+
+- Booking policy
+- Deposit policy
+- Cancellation policy
+- Rescheduling policy
+- Refund policy
+- Late arrival policy
+- Pickup policy
+- Food/drink policy
+- Safety policy
+- Photo/video permission policy
+- Repair/custom glass policy
+
+---
+
+## 7. Needs Media Before Launch
+
+The website can be structured before media is complete, but a strong first launch needs real photos and videos.
+
+### 7.1 Highest Priority Media
+
+Needed:
+
+- Homepage hero image or video
+- Exterior photo
+- Interior studio photo
+- Artist at torch
+- Group tour photo
+- Fused glass workshop photo
+- Hands-on experience photo
+- Finished fused glass photo
+- Finished torch project photo
+- Handmade glass art photo
+- Owner/artist portrait
+
+### 7.2 Highest Priority Videos
+
+Needed if available:
+
+- Short studio introduction
+- Group tour overview
+- Fused glass overview
+- Hands-on torch experience overview
+- What is flameworking?
+- Artist demonstration clip
+
+### 7.3 Permission-Sensitive Media
+
+Needs review before use:
+
+- Children
+- Students
+- School groups
+- Birthday parties
+- Private events
+- Customer faces
+- Customer names
+- Custom sentimental pieces
+
+---
+
+## 8. Needs Platform Decision
+
+These items cannot be executed until a platform or tool choice is made.
+
+### 8.1 Website Platform
+
+Decision needed:
+
+- Static website
+- WordPress
+- Astro
+- Website builder
+- Custom site
+- Other platform
+
+Decision factors:
+
+- Speed to launch
+- Ease of editing
+- Hosting access
+- Cost
+- SEO structure
+- Form handling
+- Future CRM integration
+- Future AI/business system strategy
+
+### 8.2 Form Tool
+
+Decision needed:
+
+- Email-only form
+- Google Form
+- Native website form
+- Formspree or similar
+- Airtable form
+- CRM form
+- Custom form backend
+
+### 8.3 Inquiry Storage
+
+Decision needed:
+
+- Email inbox only
+- Google Sheet
+- Airtable
+- Lightweight CRM
+- Custom CRM later
+
+### 8.4 Analytics and Tracking
+
+Decision needed:
+
+- Google Analytics 4
+- Google Search Console
+- Bing Webmaster Tools
+- Call tracking if any
+- Form submission tracking
+- GBP performance tracking
+
+### 8.5 Hosting and Domain
+
+Decision needed:
+
+- Current domain registrar
+- Current hosting provider
+- Whether current site is replaced
+- Whether staging site is needed
+- Who controls DNS
+- Who controls website access
+
+---
+
+## 9. Needs Access
+
+These items require owner/platform access.
+
+### 9.1 Google Business Profile
+
+Needs:
+
+- Owner or manager access
+- Current category details
+- Current services
+- Current description
+- Current photos
+- Current Q&A
+- Current review data
+- Performance insights if available
+
+### 9.2 Bing Places
+
+Needs:
+
+- Claimed/unclaimed status
+- Login access
+- Current business details
+- Category and description review
+
+### 9.3 Apple Business Connect
+
+Needs:
+
+- Claimed/unclaimed status
+- Login access
+- Current place card details
+- Photos and action link options
+
+### 9.4 Website
+
+Needs:
+
+- Domain access
+- Hosting access
+- Current site admin access
+- Current form routing
+- Analytics/search access if any
+
+### 9.5 Social / Review Platforms
+
+Needs:
+
+- Facebook access
+- Instagram access
+- YouTube access if used
+- Yelp access if claimed
+- TripAdvisor access if claimed
+- Tourism directory access or submission path
+
+---
+
+## 10. Should Wait
+
+These are useful, but not necessary for the first build.
+
+### 10.1 Full CRM Implementation
+
+Reason to wait:
+
+The structured inquiry workflow should be tested before choosing a heavier CRM.
+
+Recommended first step:
+
+Start with a simple structured intake destination.
+
+### 10.2 Advanced Automations
+
+Reason to wait:
+
+Automation depends on confirmed workflows, policies, pricing, and CRM structure.
+
+Recommended first step:
+
+Document triggers now, automate later.
+
+### 10.3 Full Class Enrollment System
+
+Reason to wait:
+
+Classes are a growth opportunity, but current offerings need confirmation.
+
+Recommended first step:
+
+Use a class interest list.
+
+### 10.4 Ecommerce Store
+
+Reason to wait:
+
+Retail inventory, fulfillment, shipping, taxes, and product strategy are not confirmed.
+
+Recommended first step:
+
+Use gallery and inquiry-based product interest.
+
+### 10.5 Blog / Content Library
+
+Reason to wait:
+
+Core pages and local listings matter first.
+
+Recommended first step:
+
+Add FAQ-rich pages before launching a large blog.
+
+---
+
+## 11. Do Not Build Yet
+
+These should not be built in the first version.
+
+### 11.1 Online Booking
+
+Reason:
+
+Pricing, availability, capacity, age limits, schedule rules, activity types, and owner approval logic are not confirmed.
+
+Risk:
+
+Customers may book the wrong activity, wrong group size, wrong age range, or wrong time.
+
+### 11.2 Automated Deposits or Payments
+
+Reason:
+
+Deposit policy, cancellation policy, refund policy, and booking workflow are not confirmed.
+
+Risk:
+
+Creates customer service and accounting problems.
+
+### 11.3 Automated Confirmed Booking Emails
+
+Reason:
+
+The studio may need owner approval before confirming dates, capacity, activity, and pricing.
+
+Risk:
+
+Automation could confirm something the business cannot deliver.
+
+### 11.4 Full Custom CRM
+
+Reason:
+
+The first version should prove the inquiry workflow before building a custom system.
+
+Risk:
+
+Overbuilding before operational reality is understood.
+
+### 11.5 AI Agent Customer Handling
+
+Reason:
+
+The customer journey, policies, pricing, and escalation paths are not yet stable enough.
+
+Risk:
+
+AI could answer incorrectly or create commitments.
+
+---
+
+## 12. First Build Readiness Score
+
+This is a working estimate.
+
+| Area | Score | Notes |
+|---|---:|---|
+| Business positioning | 8/10 | Strong, needs exact NAP |
+| Offer structure | 7/10 | Strong categories, details missing |
+| Group tour strategy | 8/10 | High priority, needs exact operating data |
+| Website structure | 9/10 | Ready for platform decision |
+| Website copy | 7/10 | Good draft, placeholders remain |
+| Inquiry form model | 8/10 | Fields ready, tool needed |
+| CRM readiness | 5/10 | Model ready, workflow/tool not chosen |
+| Automation readiness | 4/10 | Triggers ready, execution should wait |
+| Local listing readiness | 6/10 | Plan ready, current state/access needed |
+| Media readiness | 4/10 | Inventory ready, assets need review |
+| Technical readiness | 5/10 | Scope ready, platform decision needed |
+
+Overall readiness:
+
+Ready for controlled build planning, not ready for full launch.
+
+---
+
+## 13. Recommended Execution Order
+
+Recommended order for Phase 3:
+
+1. Complete this execution readiness checklist.
+2. Create owner data completion worksheet.
+3. Decide website build path.
+4. Create website build plan.
+5. Define inquiry form build spec.
+6. Review required media.
+7. Confirm critical owner data.
+8. Build first website foundation.
+9. Prepare listing updates.
+10. Choose simple inquiry storage/CRM first step.
+11. Add safe automations later.
+
+---
+
+## 14. Immediate Next Actions
+
+### Mark Needs To Confirm
+
+- Exact NAP
+- Current hours
+- Active offers
+- Prices
+- Group size limits
+- Age limits
+- Pickup process
+- Key policies
+- Best media
+- Platform access
+
+### Blueprint AI Needs To Produce Next
+
+- Owner data completion worksheet
+- Website build decision document
+- Website build plan
+- Inquiry form build spec
+- Local listing update work order
+- CRM first-step decision
+
+---
+
+## 15. Recommended Next File
+
+The next recommended file is:
+
+`OWNER_DATA_COMPLETION_WORKSHEET.md`
+
+This file should turn the owner data request into a practical fill-in worksheet Mark can complete one section at a time.
+
+---
+
+## 16. Blueprint AI Notes
+
+This checklist validates Blueprint AI by introducing a build-readiness filter.
+
+A business system should not move directly from strategy to construction.
+
+It should pass through execution readiness first.
+
+That protects the business from building the wrong thing too quickly.
