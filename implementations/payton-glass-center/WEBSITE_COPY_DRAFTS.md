@@ -954,7 +954,7 @@ Repair policy needs owner confirmation. Customers should provide photos and deta
 
 ### Do projects need to be picked up later?
 
-Some projects may require cooling or kiln firing before pickup. Exact pickup timing depends on the activity and project.
+Fused-glass projects typically take 1–2 weeks to process after kiln firing. Torch-made pieces are annealed overnight and are usually ready the next day, generally after about 11:00 a.m. Finished work can also be shipped nationwide.
 
 ---
 
@@ -1100,28 +1100,22 @@ Availability changes over time, so contact the studio or visit to see what is cu
 
 ## 16. Copy Gaps Requiring Owner Confirmation
 
-Before final website copy, Mark needs to confirm:
+Owner review on 2026-10-13 resolved core hours, parking, walk-in/appointment guidance, fused-glass and torch pricing ranges, group-tour base pricing, food/drink policy, pickup timing, shipping, and several age/safety rules.
 
-- Exact active offers
-- Prices
-- Group sizes
-- Age limits
-- Durations
-- Pickup timelines
-- Deposit policy
-- Cancellation policy
-- Walk-in policy
-- Appointment policy
-- Public hours
-- Parking
+Remaining copy gaps:
+
+- Exact fused-glass project catalog and per-project pricing
+- Exact torch project catalog and per-project pricing
+- Field-trip-specific pricing and chaperone rules
+- Demonstration-only availability and pricing
 - Accessibility details
-- Food/drink policy
 - Repair policy
-- Custom glass policy
-- Class availability
-- Photos/videos
-- Testimonials/reviews
-- Preferred calls to action
+- Full custom commission quote/deposit/lead-time policy
+- Current class catalog, dates, prices, and enrollment limits
+- Gift certificate availability and rules
+- Final public email/contact preferences
+- Final photos/videos and testimonials/reviews
+- Preferred calls to action by offer
 
 ---
 
