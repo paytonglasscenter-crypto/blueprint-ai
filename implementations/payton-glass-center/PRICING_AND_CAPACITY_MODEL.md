@@ -451,7 +451,14 @@ To be decided.
 
 ### Current Status
 
-Needs owner confirmation.
+Active / by arrangement.
+
+### Confirmed Details
+
+- No separate prebuilt custom-event package is currently offered.
+- Existing tour and hands-on activity options can be used for birthdays, corporate groups, churches, families, friend groups, and other special events.
+- Guests may bring their own food and drink, with event details confirmed by phone.
+- Final pricing depends on the selected activity and group configuration.
 
 ### Pricing Details Needed
 
