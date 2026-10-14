@@ -77,9 +77,9 @@ Needs owner confirmation.
 
 | Offer | Status | Primary Audience | Booking Type | Public Priority | Notes |
 |---|---|---|---|---|---|
-| Group Tours + Activity | Unknown | Groups | Inquiry | High | Major revenue driver; details need confirmation |
-| Fused Glass Workshops | Unknown | Families, groups, beginners | Inquiry / possible booking | High | Need project, pricing, pickup details |
-| Hands-On Torch Experiences | Unknown | Adults, couples, small groups | Inquiry | High | Need age, safety, project details |
+| Group Tours + Activity | Active | Groups | Inquiry + phone confirmation | High | Private groups of 10–100; tour-only price $11.50/person; activity add-ons available |
+| Fused Glass Workshops | Active | Families, groups, beginners | Walk-in or booking | High | Approx. $32–$350; most projects approx. $30–$60; 1–1.5 hours average; kiln-fired |
+| Hands-On Torch Experiences | Active | Individuals, couples, families, small groups | Walk-in by availability; advance booking preferred | High | Premium guided experience with Mark Payton; $58–$158; approx. 30–40 minutes per project |
 | Educational Field Trips | Unknown | Schools, homeschool, youth groups | Inquiry | High | Likely tied to group tours |
 | Private Events | Unknown | Birthdays, teams, families, organizations | Inquiry | Medium/High | Need event fit and policies |
 | Birthday Activities | Unknown | Families, children, mixed groups | Inquiry | Medium/High | May overlap with private events |
@@ -96,7 +96,20 @@ Needs owner confirmation.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active.
+
+### Owner-Confirmed Operating Facts — 2026-10-13
+
+- Private group tours serve approximately 10–100 people.
+- Tour-only pricing is $11.50 per person.
+- Larger groups may be split between two studios.
+- Tours typically run 1–2 hours depending on group size and whether an activity is added.
+- Tours may include traditional furnace glassblowing at Flame Run and demonstrations/education at Payton Glass Center.
+- A fused-glass hands-on activity can be added.
+- Online or phone inquiry can begin the process, but final tour scheduling requires a phone conversation because guides, demonstrations, studios, and dates must be coordinated.
+- Group discount structure currently documented by the owner: 10% for 30–59 people, 15% for 60–79, and 20% for 80+.
+- Tour + activity base pricing currently documented: $32 for sun catchers; $27 for magnets or pendants, before applicable group discount.
+- Special-event food and drink policy: bring your own food and drink, subject to confirmation by phone.
 
 ### Strategic Importance
 
@@ -156,7 +169,20 @@ High after workflow is confirmed.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active.
+
+### Owner-Confirmed Operating Facts — 2026-10-13
+
+- Approximate project range: $32–$350.
+- Most fused-glass projects are approximately $30–$60.
+- Average working time is about 1–1.5 hours, but guests work at their own pace.
+- Walk-ins are accepted when available; booking ahead is recommended when the customer knows they are coming.
+- Guests design their project at a workshop table using accessory glass such as frit, stringers, and confetti.
+- Projects are kiln-fired after the visit.
+- Typical processing time is 1–2 weeks because customer work is batched by firing profile.
+- Shipping is available nationwide, with tracking provided after shipment.
+- Minimum participation age is approximately 5; adults assist children age 7 and younger.
+- Safety glasses are used when cutting glass.
 
 ### Strategic Importance
 
@@ -213,7 +239,20 @@ Medium to high, especially for pickup reminders.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active.
+
+### Owner-Confirmed Operating Facts — 2026-10-13
+
+- Premium hands-on flameworking experience guided directly by owner and glass artist Mark Payton.
+- Current price range: $58–$158.
+- Typical duration is approximately 30–40 minutes per person/per project; scheduling is generally in half-hour slots.
+- No prior glassmaking experience is required.
+- The customer attempts to make most of the piece with Mark's direct guidance while the glass is moving and melting in the flame.
+- Walk-in participation may be possible by availability, but advance booking is preferred.
+- Finished work is annealed in a kiln overnight and is usually ready the next day, generally after about 11:00 a.m.
+- Didymium safety glasses are used at the torch.
+- Young children may participate with a parent; around age 7, hand-eye coordination generally allows fuller participation.
+- Watches and bracelets should be removed when working at the torch; non-removable bracelets may need to be safely wrapped or secured.
 
 ### Strategic Importance
 
@@ -323,7 +362,14 @@ High after workflow is confirmed.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active / by arrangement.
+
+### Owner-Confirmed Operating Facts — 2026-10-13
+
+- Payton Glass Center currently does not offer a separate prebuilt custom-event package.
+- Groups can use existing tours and hands-on activity options for birthdays, corporate teams, churches, families, friend groups, and other special events.
+- Guests may bring their own food and drink, with details confirmed by phone before the event.
+- Event fit, date, capacity, and activity choice should be confirmed before promising availability.
 
 ### Strategic Importance
 
@@ -812,21 +858,23 @@ Mark should answer these questions before final website copy:
 
 ## 22. Current Gaps
 
-Still unknown:
+The 2026-10-13 owner review resolved many prior operating gaps. Remaining items still needing owner confirmation or refinement include:
 
-- Exact active offers
-- Exact prices
-- Exact capacity
-- Exact age limits
-- Exact activity names
-- Exact project names
-- Exact durations
-- Exact pickup process
-- Exact booking process
-- Exact deposit policy
-- Exact cancellation policy
-- Exact website priority based on real profit
-- Exact listing services based on real offers
+- Exact fused-glass project catalog and per-project price list
+- Ideal/max fused-glass workshop capacity outside group-tour configurations
+- Exact torch project catalog and per-project pricing
+- Field-trip-specific pricing, grade/chaperone rules, and any differences from standard group tours
+- Demonstration-only availability and pricing
+- Birthday/private-event setup and cleanup expectations
+- Current day-class catalog, exact schedules, enrollment limits, and prices
+- Custom commission deposit/quote process and typical lead-time ranges
+- Repair policy
+- Gift certificate availability and rules
+- Accessibility details for the building and individual activities
+- Final public wording for special-needs accommodations
+- Exact email address and preferred public contact channels
+- Exact website priority based on current profitability
+- Exact listing services based on the final public offer catalog
 
 ---
 
