@@ -115,9 +115,9 @@ Capacity needs owner confirmation.
 
 | Offer | Pricing Status | Price / Range | Capacity Status | Minimum | Ideal | Maximum | Duration | Age Limit | Pickup? | Public Priority |
 |---|---|---:|---|---:|---:|---:|---|---|---|---|
-| Group Tours + Activity | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | High |
-| Fused Glass Workshops | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | High |
-| Hands-On Torch Experiences | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | High |
+| Group Tours + Activity | Confirmed | $11.50/person tour-only; add-on activity pricing varies | Confirmed | 10 | Varies | 100 | 1–2 hours | Mixed ages | Activity pieces may require later pickup/shipping | High |
+| Fused Glass Workshops | Confirmed range | Approx. $32–$350; most projects approx. $30–$60 | Case-by-Case | 1 | Varies | TBD | Avg. 1–1.5 hours | Approx. 5+; adult help age 7 and under | 1–2 weeks; shipping available | High |
+| Hands-On Torch Experiences | Confirmed range | $58–$158 | Case-by-Case | 1 | Individual/small group | TBD | Approx. 30–40 min per person/project | Approx. 5+ with guided participation | Usually next day after annealing | High |
 | Educational Field Trips | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | High |
 | Private Events | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | Medium/High |
 | Birthday Activities | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | Medium |
@@ -134,7 +134,18 @@ Capacity needs owner confirmation.
 
 ### Current Status
 
-Needs owner confirmation.
+Owner-confirmed core pricing/capacity as of 2026-10-13.
+
+### Confirmed Core Details
+
+- Tour-only price: $11.50 per person.
+- Standard group size: 10–100 people.
+- Duration: approximately 1–2 hours depending on group size and activity.
+- Larger groups may be split between two studios.
+- Group discounts: 10% for 30–59 people; 15% for 60–79; 20% for 80+.
+- Tour + fused-glass activity base pricing before group discount: $32 sun catcher; $27 magnet or pendant.
+- Final group booking requires phone confirmation.
+- Special events may bring their own food and drink, with details confirmed by phone.
 
 ### Pricing Details Needed
 
@@ -217,7 +228,18 @@ Options:
 
 ### Current Status
 
-Needs owner confirmation.
+Owner-confirmed core pricing and duration as of 2026-10-13.
+
+### Confirmed Core Details
+
+- Approximate project price range: $32–$350.
+- Most projects: approximately $30–$60.
+- Average activity duration: about 1–1.5 hours at the guest's own pace.
+- Walk-ins accepted when available; booking ahead recommended.
+- Minimum age is approximately 5; adults help children age 7 and younger.
+- Projects are kiln-fired after the visit and typically take 1–2 weeks to process.
+- Nationwide shipping is available and tracking is provided when shipped.
+- Exact project catalog and per-project pricing still need to be structured.
 
 ### Pricing Details Needed
 
@@ -283,7 +305,19 @@ To be decided.
 
 ### Current Status
 
-Needs owner confirmation.
+Owner-confirmed core pricing and duration as of 2026-10-13.
+
+### Confirmed Core Details
+
+- Price range: $58–$158.
+- Typical duration: approximately 30–40 minutes per person/per project.
+- Scheduling generally uses half-hour slots per person/per piece.
+- Premium experience guided directly by Mark Payton.
+- No previous experience required.
+- Walk-in participation may be available, but advance booking is preferred.
+- Projects are annealed overnight and are usually ready the next day, generally after about 11:00 a.m.
+- Young children can participate with parent support; around age 7 fuller participation is generally possible.
+- Exact project catalog and per-project pricing still need to be structured.
 
 ### Pricing Details Needed
 
@@ -845,19 +879,23 @@ Google Business Profile, Bing Places, Apple Business Connect, and other listings
 
 ## 24. Current Gaps
 
-Still unknown:
+Core pricing, age, duration, pickup, deposit, cancellation, and tour-capacity information was partially resolved by owner review on 2026-10-13.
 
-- Exact pricing for each offer
-- Exact group sizes
-- Exact age limits
-- Exact durations
-- Exact pickup timelines
-- Exact deposit policy
-- Exact cancellation policy
-- Exact staffing limits
-- Exact public pricing strategy
-- Exact offer profitability
-- Exact capacity by activity
+Still needing confirmation or structured detail:
+
+- Exact fused-glass project catalog and per-project price list
+- Exact torch project catalog and per-project price list
+- Ideal/max fused-glass capacity outside tour configurations
+- Maximum torch throughput per day / staffing constraints
+- Field-trip-specific pricing and chaperone rules
+- Demonstration-only pricing and capacity
+- Birthday/private-event setup, cleanup, and any minimum charge
+- Class pricing, enrollment limits, and schedules
+- Custom commission quote/deposit rules and lead times
+- Repair pricing/policy
+- Gift certificate pricing/rules
+- Exact public pricing strategy by offer
+- Exact offer profitability and owner-time burden
 
 ---
 
