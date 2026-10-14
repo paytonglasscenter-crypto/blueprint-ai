@@ -55,6 +55,23 @@ The experience should communicate that Payton Glass Center is not only an activi
 
 ---
 
+## Owner-Confirmed Operating Details — 2026-10-13
+
+- Group tours are private.
+- Standard group size: 10–100 people.
+- Tour-only price: $11.50 per person.
+- Standard duration: approximately 1–2 hours depending on group size and whether an activity is added.
+- Larger groups may be split into two groups/studios.
+- Tours may include traditional furnace glassblowing at Flame Run and demonstrations/education at Payton Glass Center.
+- A fused-glass hands-on activity can be added.
+- Final booking requires a phone conversation because guides, demonstrations, studios, and dates must be coordinated.
+- Group discounts: 10% for 30–59 people; 15% for 60–79; 20% for 80+.
+- Tour + activity base pricing before group discount: $32 for a sun catcher; $27 for a magnet or pendant.
+- Special-event food and drink policy: guests may bring their own food and drink, subject to confirmation by phone.
+- The agent should collect group type, organization, participant count, age range, preferred date/time, activity interest, accessibility/special-needs notes, name, phone, and email before escalation when possible.
+
+---
+
 ## 4. Primary Customer Segments
 
 Group tours may serve:
