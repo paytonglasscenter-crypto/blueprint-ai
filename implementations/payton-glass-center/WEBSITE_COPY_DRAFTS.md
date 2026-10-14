@@ -359,7 +359,7 @@ Fused glass workshops may be a good fit for:
 - Creative beginners
 - People looking for a unique Louisville activity
 
-Exact age guidance, project options, and group capacity need owner confirmation.
+Owner-confirmed guidance: fused glass is approximately ages 5+, with adults helping children age 7 and younger. Most guests spend about 1–1.5 hours. Project prices range approximately $32–$350, with most projects around $30–$60. Exact project catalog and maximum workshop capacity still need to be structured.
 
 ---
 
@@ -367,7 +367,7 @@ Exact age guidance, project options, and group capacity need owner confirmation.
 
 Guests choose or design a project, arrange colorful glass pieces, and prepare the piece for firing.
 
-Some fused glass projects need to be kiln-fired after the workshop and picked up later. Pickup timing depends on the project and firing schedule.
+Fused glass projects are kiln-fired after the workshop. Typical processing time is 1–2 weeks because projects are batched by firing profile. Customers may pick up completed work or have it shipped; nationwide shipping is available and tracking is provided when shipped.
 
 ---
 
@@ -446,13 +446,13 @@ Hands-on glass experiences may be a good fit for:
 - Small groups
 - People looking for a unique date, outing, or activity
 
-Exact age limits, project options, and availability need owner confirmation.
+Owner-confirmed guidance: torch experiences are premium, beginner-friendly sessions guided directly by Mark Payton. Current pricing is $58–$158, with sessions typically taking about 30–40 minutes per person/project. Young children may participate with parent support, and around age 7 fuller participation is generally possible. Exact project catalog and per-project pricing still need to be structured.
 
 ---
 
 ### Section: Safety and Guidance
 
-Guests are guided through the experience by a professional artist. Safety expectations, age limits, and participation details depend on the specific activity.
+Guests are guided directly by a professional artist. Didymium safety glasses are used at the torch. Watches and bracelets should be removed when possible; non-removable bracelets may need to be safely wrapped or secured. No prior experience is required.
 
 ---
 
@@ -779,23 +779,19 @@ Find location, hours, parking, appointment, pickup, and contact information for 
 
 ### Section: Location
 
-Payton Glass Center is located in Louisville, Kentucky.
-
-**Address:** TBD
+Payton Glass Center is located at **815 West Market St., Louisville, Kentucky 40202**.
 
 ---
 
 ### Section: Hours and Appointments
 
-Current hours and appointment requirements need owner confirmation.
-
-Some activities may require advance scheduling, especially group tours, field trips, private events, and hands-on experiences.
+Current hours are Monday–Friday 10:00 a.m.–4:00 p.m., Saturday 10:00 a.m.–5:00 p.m., and Sunday by confirmed appointment only. The building and gallery are open for visitors during public hours. Fused glass may be walk-in when space is available; booking ahead is recommended. Torch experiences may be walk-in by availability, but advance booking is preferred. Group tours require advance scheduling and final phone confirmation.
 
 ---
 
 ### Section: Parking and Arrival
 
-Parking and arrival details need owner confirmation.
+Parking options include outdoor lots around the block, a four-story parking garage directly across the street, and metered street parking.
 
 Visitors should check their appointment time, activity details, and pickup instructions before arriving.
 
@@ -846,7 +842,7 @@ Payton Glass Center is a working glass art studio in Louisville, Kentucky where 
 
 ### Is Payton Glass Center open to the public?
 
-Payton Glass Center offers public-facing experiences, but some activities may require advance scheduling. Current hours and appointment policies need owner confirmation.
+Yes. Visitors may come in during public hours to see the building and gallery. Hands-on activities are subject to availability, and advance booking is recommended when you know you want to make something.
 
 ### Can visitors make glass?
 
@@ -854,7 +850,7 @@ Yes, Payton Glass Center offers hands-on glass experiences and fused glass activ
 
 ### Do I need an appointment?
 
-Some activities may require an appointment, especially group tours, field trips, private events, and hands-on experiences. Final appointment policy needs owner confirmation.
+Fused glass may be walk-in when space is available, but booking ahead is recommended. Torch experiences may also be available as walk-ins, but advance booking is preferred. Group tours and field trips should be scheduled ahead and require final phone confirmation.
 
 ---
 
@@ -870,7 +866,7 @@ Group tours may be suitable for schools, homeschool groups, scouts, senior group
 
 ### How do I schedule a group tour?
 
-Use the contact form and include your group type, group size, age range, preferred date, preferred time, and activity interest.
+Start online or by phone and include your group type, group size, age range, preferred date, preferred time, and activity interest. Final group-tour scheduling requires a phone conversation so guides, demonstrations, studios, and timing can be coordinated.
 
 ---
 
@@ -886,7 +882,7 @@ Yes, fused glass is generally beginner-friendly and can work well for families, 
 
 ### Do fused glass projects go home the same day?
 
-Some projects may need kiln firing and pickup later. Exact pickup timing depends on the project and firing schedule.
+Yes. Fused-glass projects are kiln-fired after the visit and typically take 1–2 weeks to process. Pickup is available, and nationwide shipping can also be arranged.
 
 ---
 
@@ -902,7 +898,7 @@ Flameworking is a form of glassmaking where glass is heated and shaped with a to
 
 ### Is it safe for beginners?
 
-Hands-on experiences are guided by a professional artist and designed around safety. Exact age limits and participation rules need owner confirmation.
+Yes. Hands-on torch experiences are guided directly by a professional artist. Didymium safety glasses are used at the torch, and no previous glassmaking experience is required. Young children can participate with parent support; around age 7 fuller participation is generally possible.
 
 ---
 
@@ -926,7 +922,7 @@ Private group activities may be available for birthdays, teams, families, church
 
 ### Can we bring food or drinks?
 
-Food and drink policy needs owner confirmation.
+Special-event guests may bring their own food and drink. Details should be confirmed by phone when the event is scheduled.
 
 ---
 
@@ -966,7 +962,7 @@ Some projects may require cooling or kiln firing before pickup. Exact pickup tim
 
 ### How do I contact Payton Glass Center?
 
-Use the contact form or call the studio. Final contact method, phone number, and response expectations need owner confirmation.
+Use the website contact options or call Payton Glass Center at 502-992-3270. For group tours, a phone conversation is required before the date is considered confirmed.
 
 ---
 
