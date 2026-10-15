@@ -10,7 +10,7 @@ Purpose: Remaining unanswered or partially answered business facts after the Ech
 
 The following are no longer open questions:
 
-- Fused-glass project range: approximately $32–$350.
+- FUSE IT! menu price response: $25–$250 overall; most projects approximately $30–$60. Quote exact listed prices from FUSE_IT_PRICE_CATALOG.md.
 - Most fused-glass projects: approximately $30–$60.
 - Torch experience range: $58–$158.
 - Tour-only pricing: $11.50 per person.
@@ -40,8 +40,8 @@ The following are no longer open questions:
 
 ## Priority A — Needed Before Echo Voice Handles These Independently
 
-1. Whether projects beyond FUSE_IT_PRICE_CATALOG.md explain the earlier broader $32–$350 range; listed exact prices and clear/colored base convention are resolved.
-2. Whether projects beyond FLAME_IT_FYO_PRICE_CATALOG.md explain the earlier broader $58–$158 range; listed exact prices and aliases are resolved.
+1. Whether additional projects exist beyond FUSE_IT_PRICE_CATALOG.md; the public general answer is resolved at $25–$250 overall, most approximately $30–$60.
+2. Whether projects exist beyond FLAME_IT_FYO_PRICE_CATALOG.md; the FYO answer is $44–$98, with most projects $68–$98 depending on complexity.
 3. Exact class-by-class catalog, dates, prices, age rules, techniques, and maximum enrollment when classes are scheduled.
 4. Exact custom-commission rules for prototype charges, rush work, revisions, and unusual payment structures.
 5. Exact alcohol-specific rules, if any, within the bring-your-own-drink policy.
@@ -110,7 +110,7 @@ An answer may move from this queue into the approved knowledge base only when:
 These are not unresolved owner questions; they are known public-site mismatches that should be corrected during the website rebuild/update.
 
 1. Current public FAQ/workshop pages still show older FLAME IT price ranges (including $48–$125 / $44–$125). Owner-confirmed current Echo Voice range is $58–$158.
-2. Current public FAQ shows older FUSE IT pricing of $14–$250. Owner-confirmed current range is approximately $32–$350, with most projects approximately $30–$60.
+2. Current public FAQ shows older FUSE IT pricing of $14–$250. Owner-confirmed current answer is $25–$250 overall, with most projects approximately $30–$60.
 3. Current public workshop copy references older appointment slot lengths and group-size rules in places; reconcile these with the current owner-confirmed 30–40 minute torch guidance and current booking policies during the new website build.
 
 Echo Voice must use the owner-confirmed current facts in ECHO_VOICE_KNOWLEDGE_V0.1.md until the public website is updated.

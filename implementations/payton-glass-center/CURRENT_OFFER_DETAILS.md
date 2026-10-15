@@ -11,9 +11,9 @@ Depends On: OWNER_DATA_REQUEST.md
 
 ## Reconciliation — 2026-10-15
 
-Reconciled against owner-confirmed `ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-001–096), `FUSE_IT_PRICE_CATALOG.md`, and `FLAME_IT_FYO_PRICE_CATALOG.md`. These facts supersede older intake prompts. Remaining questions below are operational or editorial decisions, not requests to reconfirm resolved facts.
+Reconciled against owner-confirmed `ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-001–098), `FUSE_IT_PRICE_CATALOG.md`, and `FLAME_IT_FYO_PRICE_CATALOG.md`. These facts supersede older intake prompts. Remaining questions below are operational or editorial decisions, not requests to reconfirm resolved facts.
 
-Exact photographed projects: FUSE IT! $25–$250 (clear/colored base convention); FYO $44–$98. Earlier broader owner guidance remains approximately $32–$350 for fused glass and $58–$158 for torch. Catalog completeness and the relationship of these ranges require clarification; do not treat either broader lower bound as the cheapest listed project. FUSE IT! sign says projects for all ages, cutting ages 10+ with adult supervision; earlier guidance suggests participation around age 5 and adult help through age 7. Confirm wording for under-5 participation.
+Exact photographed projects: FUSE IT! $25–$250 (clear/colored base convention); FYO $44–$98. Earlier broader torch guidance of $58–$158 may cover offers beyond the photographed FYO catalog; whether any such offers exist remains open. Catalog completeness remains open. FUSE IT! sign says projects for all ages, cutting ages 10+ with adult supervision; earlier guidance suggests participation around age 5 and adult help through age 7. Confirm wording for under-5 participation.
 
 Reservations: $30/person only where that deposit applies; activity-specific applicability remains open. Deposit refunded for cancellation more than 24 hours before reservation; within 24 hours nonrefundable. Rescheduling is to a future available time. Custom commissions instead typically use 50% down or full payment, depending on the project.
 
@@ -86,8 +86,8 @@ Needs owner confirmation.
 | Offer | Status | Primary Audience | Booking Type | Public Priority | Notes |
 |---|---|---|---|---|---|
 | Group Tours + Activity | Active | Groups | Inquiry + phone confirmation | High | Private groups of 10–100; tour-only price $11.50/person; activity add-ons available |
-| Fused Glass Workshops | Active | Families, groups, beginners | Walk-in or booking | High | Approx. $32–$350; most projects approx. $30–$60; 1–1.5 hours average; kiln-fired |
-| Hands-On Torch Experiences | Active | Individuals, couples, families, small groups | Walk-in by availability; advance booking preferred | High | Premium guided experience with Mark Payton; $58–$158; approx. 30–40 minutes per project |
+| Fused Glass Workshops | Active | Families, groups, beginners | Walk-in or booking | High | Photographed menu: $25–$250; most projects approx. $30–$60; 1–1.5 hours average; kiln-fired |
+| Hands-On Torch Experiences | Active | Individuals, couples, families, small groups | Walk-in by availability; advance booking preferred | High | FYO menu: $44–$98, most $68–$98 by complexity; approx. 30–40 minutes per project |
 | Educational Field Trips | Active | Schools, homeschool, youth groups | Inquiry + phone confirmation | High | Uses group-tour structure/pricing; teachers/chaperones free; minimum 1 teacher/chaperone per 10 participants |
 | Private Events | Active / by arrangement | Birthdays, teams, families, organizations | Inquiry | Medium/High | Existing activities; BYO food/drink; phone confirmation |
 | Birthday Activities | Active / by arrangement | Families, children, mixed groups | Inquiry | Medium/High | Uses existing tours/activities; no separate prebuilt package |
@@ -166,7 +166,7 @@ Active.
 
 ### Owner-Confirmed Operating Facts — 2026-10-13
 
-- Approximate project range: $32–$350.
+- Photographed menu range: $25–$250; most projects approximately $30–$60.
 - Most fused-glass projects are approximately $30–$60.
 - Average working time is about 1–1.5 hours, but guests work at their own pace.
 - Walk-ins are accepted when available; booking ahead is recommended when the customer knows they are coming.
@@ -225,7 +225,7 @@ Active.
 - Premium hands-on flameworking experience guided directly by owner and glass artist Mark Payton.
 - Customer-facing names FLAME IT, Flame Your Own, FYO, and flame-your-own refer to this same torch experience.
 - The owner-supplied photographed project catalog is captured in `FLAME_IT_FYO_PRICE_CATALOG.md`.
-- Current price range: $58–$158.
+- FYO menu range: $44–$98; most projects are $68–$98 depending on complexity. Other torch offers outside this menu, if any, remain a separate question.
 - Typical duration is approximately 30–40 minutes per person/per project; scheduling is generally in half-hour slots.
 - No prior glassmaking experience is required.
 - The customer attempts to make most of the piece with Mark's direct guidance while the glass is moving and melting in the flame.

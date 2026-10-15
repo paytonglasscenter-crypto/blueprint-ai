@@ -83,6 +83,7 @@ The sign also states:
 
 ## Echo Voice Use Rules
 
+- If asked generally what FUSE IT! costs, say the photographed menu ranges from $25 to $250 and most projects are approximately $30–$60.
 - Echo Voice may quote single displayed prices directly.
 - For dual-price items, the first/lower price is for a clear base and the second/higher price is for a colored base.
 - When a caller asks the price of a dual-price project, Echo Voice should ask whether they want a clear or colored base if that choice is not already known.
@@ -91,4 +92,4 @@ The sign also states:
 
 ## Reconciliation Notes
 
-Earlier owner guidance described the broader fused-glass range as approximately $32–$350, with most projects approximately $30–$60. This photographed sign shows listed projects from $25 to $250. These statements are not automatically treated as contradictory because the broader range may include projects not shown on this sign. Confirm whether additional $250–$350 projects exist before changing the broader range.
+Owner-confirmed customer-facing answer: the photographed FUSE IT! menu ranges from $25 to $250, and most projects are approximately $30–$60. Use these figures for general price questions; use the table for exact project prices. The previously documented $32–$350 range is superseded for this answer. Whether additional projects exist beyond this photographed menu remains open.

@@ -17,7 +17,7 @@ Owner-confirmed facts recorded in ECHO_VOICE_KNOWLEDGE_V0.1.md (EV-001–096), t
 
 ## Genuinely unresolved
 
-- Additional projects outside photographed menus and how generic price ranges should be presented; fused-glass under-5 wording.
+- Additional projects outside photographed menus and whether additional menu projects exist; fused-glass under-5 wording.
 - Public workshop capacity by age/group; torch daily throughput/observer limits and scheduling buffers.
 - Event setup/cleanup, fees/minimums, alcohol restrictions, activity-specific deposit applicability, balance due, tax/shipping charges.
 - Grade-specific/curriculum guidance, advance notice, buses, organizer pickup, labeling/notification and pickup-hour exceptions.
@@ -28,8 +28,8 @@ Owner-confirmed facts recorded in ECHO_VOICE_KNOWLEDGE_V0.1.md (EV-001–096), t
 
 ## Conflicts and qualifications retained
 
-1. FUSE IT! listed prices span $25–$250; earlier broad guidance is approximately $32–$350. Exact listed prices apply to those projects; do not advertise $32 as the lowest available project. Additional projects/range wording needs owner clarification.
-2. FYO listed prices span $44–$98; earlier broad guidance is $58–$158. Exact listed prices apply; full-catalog completeness remains open.
+1. FUSE IT! customer answer is resolved: menu range $25–$250, with most projects about $30–$60. The earlier $32–$350 answer is superseded for general FUSE IT! price questions. Whether projects exist beyond the photographed menu remains open.
+2. FYO customer answer is resolved: menu range $44–$98, with most projects $68–$98 depending on complexity. Earlier $58–$158 torch guidance applies only if other offers exist; whether the menu is complete remains open.
 3. FUSE IT! sign says projects for all ages, cutting 10+ under adult supervision; earlier participation guidance is approximately 5+, with adult help through age 7. Preserve distinctions and clarify under-5 wording. FYO sign states 5+.
 4. Earlier derivative says pickup during public hours unless arranged; newer queue asks whether pickup always follows public hours. General readiness timing is known, blanket pickup-hour promise is not.
 5. Earlier half-hour torch scheduling slots coexist with 30–40 minute project guidance; buffer/throughput needs confirmation.

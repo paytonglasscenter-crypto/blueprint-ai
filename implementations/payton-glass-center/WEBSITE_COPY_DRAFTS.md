@@ -11,9 +11,9 @@ Depends On: WEBSITE_CONTENT_BLUEPRINT.md, WEBSITE_PAGE_MAP.md, CURRENT_OFFER_DET
 
 ## Reconciliation — 2026-10-15
 
-Reconciled against owner-confirmed `ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-001–096), `FUSE_IT_PRICE_CATALOG.md`, and `FLAME_IT_FYO_PRICE_CATALOG.md`. These facts supersede older intake prompts. Remaining questions below are operational or editorial decisions, not requests to reconfirm resolved facts.
+Reconciled against owner-confirmed `ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-001–098), `FUSE_IT_PRICE_CATALOG.md`, and `FLAME_IT_FYO_PRICE_CATALOG.md`. These facts supersede older intake prompts. Remaining questions below are operational or editorial decisions, not requests to reconfirm resolved facts.
 
-Exact photographed projects: FUSE IT! $25–$250 (clear/colored base convention); FYO $44–$98. Earlier broader owner guidance remains approximately $32–$350 for fused glass and $58–$158 for torch. Catalog completeness and the relationship of these ranges require clarification; do not treat either broader lower bound as the cheapest listed project. FUSE IT! sign says projects for all ages, cutting ages 10+ with adult supervision; earlier guidance suggests participation around age 5 and adult help through age 7. Confirm wording for under-5 participation.
+Exact photographed projects: FUSE IT! $25–$250 (clear/colored base convention); FYO $44–$98. For FUSE IT!, give $25–$250 and say most projects are $30–$60. For FYO, give $44–$98 and say most projects are $68–$98 depending on complexity. Whether additional projects exist beyond either photographed menu remains open. FUSE IT! sign says projects for all ages, cutting ages 10+ with adult supervision; earlier guidance suggests participation around age 5 and adult help through age 7. Confirm wording for under-5 participation.
 
 Reservations: $30/person only where that deposit applies; activity-specific applicability remains open. Deposit refunded for cancellation more than 24 hours before reservation; within 24 hours nonrefundable. Rescheduling is to a future available time. Custom commissions instead typically use 50% down or full payment, depending on the project.
 
@@ -342,7 +342,7 @@ Fused glass workshops may be a good fit for:
 - Creative beginners
 - People looking for a unique Louisville activity
 
-Owner-confirmed guidance: fused glass is approximately ages 5+, with adults helping children age 7 and younger. Most guests spend about 1–1.5 hours. Project prices range approximately $32–$350, with most projects around $30–$60. Exact photographed projects and clear/colored base prices are in `FUSE_IT_PRICE_CATALOG.md`; public workshop capacity remains open. Listed prices span $25–$250; broader range above is not a minimum-price promise.
+Owner-confirmed guidance: fused glass is approximately ages 5+, with adults helping children age 7 and younger. Most guests spend about 1–1.5 hours. The photographed FUSE IT! menu ranges from $25–$250, and most projects are approximately $30–$60. Exact photographed projects and clear/colored base prices are in `FUSE_IT_PRICE_CATALOG.md`; public workshop capacity remains open.
 
 ---
 
@@ -423,7 +423,7 @@ Hands-on glass experiences may be a good fit for:
 - Small groups
 - People looking for a unique date, outing, or activity
 
-Owner-confirmed guidance: torch experiences are premium, beginner-friendly sessions guided directly by Mark Payton. Current pricing is $58–$158, with sessions typically taking about 30–40 minutes per person/project. Young children may participate with parent support, and around age 7 fuller participation is generally possible. Exact photographed project prices are in `FLAME_IT_FYO_PRICE_CATALOG.md` ($44–$98); whether additional projects account for the broader range remains open.
+Owner-confirmed guidance: torch experiences are premium, beginner-friendly sessions guided directly by Mark Payton. FYO menu prices range from $44–$98, with most projects between $68 and $98 depending on complexity. Sessions typically take about 30–40 minutes per person/project. Young children may participate with parent support, and around age 7 fuller participation is generally possible. Exact photographed project prices are in `FLAME_IT_FYO_PRICE_CATALOG.md` ($44–$98); whether other torch projects exist remains open.
 
 ---
 

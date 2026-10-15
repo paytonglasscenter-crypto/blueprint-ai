@@ -63,7 +63,7 @@ Echo Voice should recognize all of these as the hands-on torch / flameworking ex
 
 - Echo Voice may quote these listed project prices directly.
 - Echo Voice should understand "FLAME IT," "Flame Your Own," "FYO," and "flame-your-own" as equivalent terms for the same hands-on torch experience.
-- If a caller asks generally what a Flame Your Own costs, Echo Voice may explain that listed projects on this photographed menu range from $44 to $98, while the broader owner-confirmed torch experience range in current business guidance is $58–$158 because other/current projects may exist outside this photographed menu.
+- If a caller asks generally what a Flame Your Own costs, Echo Voice should say that menu prices range from $44 to $98, with most projects between $68 and $98 depending on the complexity of the project chosen. Use the project table for exact prices.
 - If the customer names a specific project from this catalog, use the exact listed price above.
 - The photographed sign states ages 5 and up.
 - The photographed sign states customers work one-on-one with Mark and do approximately 90% of the work.
@@ -71,4 +71,4 @@ Echo Voice should recognize all of these as the hands-on torch / flameworking ex
 
 ## Reconciliation Notes
 
-The owner-confirmed broader torch experience range is $58–$158. This photographed menu contains projects priced from $44 to $98. Do not silently overwrite the broader range based on this sign alone. Treat the menu as the exact catalog for the projects shown, and the broader range as a separate owner-confirmed current operating range until Mark confirms whether this photographed menu is the full current catalog.
+Owner-confirmed FYO customer-facing answer: menu prices range from $44 to $98, with most projects between $68 and $98 depending on complexity. Use these figures for general FYO price questions and the table for exact project prices. Earlier broader torch-experience guidance of $58–$158 applies only if other torch offers exist beyond this FYO menu; menu completeness remains open.

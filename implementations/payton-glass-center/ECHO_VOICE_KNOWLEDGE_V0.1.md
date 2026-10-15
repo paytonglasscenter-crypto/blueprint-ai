@@ -111,7 +111,7 @@ Confidence: HIGH
 Direct answer: YES
 
 EV-012
-Fact: Approximate fused-glass project range is $32–$350.
+Fact: When asked generally for FUSE IT! prices, give the photographed menu range of $25–$250, then explain that most projects are approximately $30–$60. Quote an exact project price from FUSE_IT_PRICE_CATALOG.md; for dual prices clarify clear versus colored base.
 Authority: OWNER_CONFIRMED
 Confidence: HIGH
 Direct answer: YES
@@ -167,7 +167,7 @@ Confidence: HIGH
 Direct answer: YES
 
 EV-021
-Fact: Current torch experience price range is $58–$158.
+Fact: Broader torch experiences were previously documented at $58–$158. For the customer-facing FYO menu answer, state $44–$98, with most projects $68–$98 depending on project complexity; use FLAME_IT_FYO_PRICE_CATALOG.md for exact listed items.
 Authority: OWNER_CONFIRMED
 Confidence: HIGH
 Direct answer: YES
@@ -598,7 +598,7 @@ Direct answer: YES
 ### FUSE IT! Project Catalog
 
 EV-088
-Fact: The owner-supplied 2026-10-15 in-studio FUSE IT! sign provides a project-by-project price catalog; use FUSE_IT_PRICE_CATALOG.md as the quick-reference source for these listed projects rather than older website pricing.
+Fact: The owner-supplied 2026-10-15 in-studio FUSE IT! sign lists projects from $25 to $250. For a general price question, state the $25–$250 range and add that most projects are about $30–$60. Use FUSE_IT_PRICE_CATALOG.md for exact project prices instead of older website pricing.
 Authority: OWNER_SUPPLIED_PHOTO
 Confidence: HIGH
 Direct answer: YES
@@ -785,6 +785,18 @@ Primary sources for v0.1:
 - Owner reconciliation answers supplied 2026-10-15
 - Current Payton Glass Center public website tour/workshop information reviewed 2026-10-15
 - Project Echo agents/agent-operating-rules.md
+
+EV-097
+Fact: The FUSE IT! menu price range is $25–$250; most projects are approximately $30–$60. When asked generally, Echo Voice should give both figures.
+Authority: OWNER_CONFIRMED + OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
+
+EV-098
+Fact: For FYO, state that menu prices range from $44 to $98, with most projects between $68 and $98 depending on complexity. Use FLAME_IT_FYO_PRICE_CATALOG.md for exact listed prices.
+Authority: OWNER_CONFIRMED + OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
 
 ## Next Version
 

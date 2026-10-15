@@ -11,9 +11,9 @@ Depends On: OWNER_DATA_REQUEST.md, CURRENT_OFFER_DETAILS.md
 
 ## Reconciliation — 2026-10-15
 
-Reconciled against owner-confirmed `ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-001–096), `FUSE_IT_PRICE_CATALOG.md`, and `FLAME_IT_FYO_PRICE_CATALOG.md`. These facts supersede older intake prompts. Remaining questions below are operational or editorial decisions, not requests to reconfirm resolved facts.
+Reconciled against owner-confirmed `ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-001–098), `FUSE_IT_PRICE_CATALOG.md`, and `FLAME_IT_FYO_PRICE_CATALOG.md`. These facts supersede older intake prompts. Remaining questions below are operational or editorial decisions, not requests to reconfirm resolved facts.
 
-Exact photographed projects: FUSE IT! $25–$250 (clear/colored base convention); FYO $44–$98. Earlier broader owner guidance remains approximately $32–$350 for fused glass and $58–$158 for torch. Catalog completeness and the relationship of these ranges require clarification; do not treat either broader lower bound as the cheapest listed project. FUSE IT! sign says projects for all ages, cutting ages 10+ with adult supervision; earlier guidance suggests participation around age 5 and adult help through age 7. Confirm wording for under-5 participation.
+Exact photographed projects: FUSE IT! $25–$250 (clear/colored base convention); FYO $44–$98. Earlier broader torch guidance of $58–$158 may cover offers beyond the photographed FYO catalog; whether any such offers exist remains open. Catalog completeness remains open. FUSE IT! sign says projects for all ages, cutting ages 10+ with adult supervision; earlier guidance suggests participation around age 5 and adult help through age 7. Confirm wording for under-5 participation.
 
 Reservations: $30/person only where that deposit applies; activity-specific applicability remains open. Deposit refunded for cancellation more than 24 hours before reservation; within 24 hours nonrefundable. Rescheduling is to a future available time. Custom commissions instead typically use 50% down or full payment, depending on the project.
 
@@ -124,8 +124,8 @@ Capacity needs owner confirmation.
 | Offer | Pricing Status | Price / Range | Capacity Status | Minimum | Ideal | Maximum | Duration | Age Limit | Pickup? | Public Priority |
 |---|---|---:|---|---:|---:|---:|---|---|---|---|
 | Group Tours + Activity | Confirmed | $11.50/person tour-only; add-on activity pricing varies | Confirmed | 10 | Varies | 100 | 1–2 hours | Mixed ages | Activity pieces may require later pickup/shipping | High |
-| Fused Glass Workshops | Confirmed range | Approx. $32–$350; most projects approx. $30–$60 | Case-by-Case | 1 | Varies | Not established for public sessions | Avg. 1–1.5 hours | Approx. 5+; adult help age 7 and under | 1–2 weeks; shipping available | High |
-| Hands-On Torch Experiences | Confirmed range | $58–$158 | Case-by-Case | 1 | Individual/small group | One-on-one; daily limit open | Approx. 30–40 min per person/project | Approx. 5+ with guided participation | Usually next day after annealing | High |
+| Fused Glass Workshops | Confirmed range | Photographed menu: $25–$250; most projects approx. $30–$60 | Case-by-Case | 1 | Varies | Not established for public sessions | Avg. 1–1.5 hours | Approx. 5+; adult help age 7 and under | 1–2 weeks; shipping available | High |
+| Hands-On Torch Experiences | Confirmed menu range | FYO $44–$98; most $68–$98 by complexity | Case-by-Case | 1 | Individual/small group | One-on-one; daily limit open | Approx. 30–40 min per person/project | Approx. 5+ with guided participation | Usually next day after annealing | High |
 | Educational Field Trips | Confirmed core structure | Uses guided-tour pricing/table; teachers/chaperones free | Confirmed core rule | 10 | Case-by-case | 100 | 1–2 hours + activity time | Mixed ages | Activity dependent | High |
 | Private Events | Activity-based | Selected tour/workshop pricing | Case-by-Case | By activity | By activity | Confirm by phone | By activity/event | By activity | By activity | Medium/High |
 | Birthday Activities | Activity-based | Selected tour/workshop pricing | Case-by-Case | By activity | By activity | Confirm by phone | By activity/event | By activity | By activity | Medium |
@@ -240,7 +240,7 @@ Owner-confirmed core pricing and duration as of 2026-10-13.
 
 ### Confirmed Core Details
 
-- Approximate project price range: $32–$350.
+- Photographed menu range: $25–$250; most projects approximately $30–$60.
 - Most projects: approximately $30–$60.
 - Average activity duration: about 1–1.5 hours at the guest's own pace.
 - Walk-ins accepted when available; booking ahead recommended.
@@ -317,7 +317,7 @@ Owner-confirmed core pricing and duration as of 2026-10-13.
 
 ### Confirmed Core Details
 
-- Price range: $58–$158.
+- FYO menu price range: $44–$98; most projects are $68–$98 depending on complexity.
 - Typical duration: approximately 30–40 minutes per person/per project.
 - Scheduling generally uses half-hour slots per person/per piece.
 - Premium experience guided directly by Mark Payton.

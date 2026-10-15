@@ -44,7 +44,7 @@ This earlier derivative is supplemented by `../../ECHO_VOICE_KNOWLEDGE_V0.1.md` 
 - Accessory glass can include frit, stringers, and confetti.
 - Safety glasses are used when cutting glass.
 - Average activity time: about 1–1.5 hours, but guests work at their own pace.
-- Approximate project price range: $32–$350.
+- Photographed menu range: $25–$250; most projects approximately $30–$60.
 - Most projects are approximately $30–$60.
 - Walk-ins are accepted when space is available.
 - Booking ahead is recommended when the customer knows they are coming.
@@ -60,7 +60,7 @@ This earlier derivative is supplemented by `../../ECHO_VOICE_KNOWLEDGE_V0.1.md` 
 - Guided directly by Mark Payton.
 - No previous glassmaking experience required.
 - Customers attempt to make most of the piece themselves with direct guidance while the glass is moving/melting in the flame.
-- Price range: $58–$158.
+- FYO menu price range: $44–$98; most projects are $68–$98 depending on complexity. Exact listed prices are in FLAME_IT_FYO_PRICE_CATALOG.md.
 - Typical duration: approximately 30–40 minutes per person/per project.
 - Scheduling generally uses half-hour slots per person/per piece.
 - Walk-ins may be possible by availability; advance booking is preferred.
