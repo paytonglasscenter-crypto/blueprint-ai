@@ -2,7 +2,7 @@
 
 Status: Initial governed quick-reference knowledge layer
 Version: 0.1
-Date: 2026-10-13
+Date: 2026-10-15
 Business: Payton Glass Center
 Owner authority: Mark Payton
 
@@ -368,6 +368,232 @@ Authority: OWNER_CONFIRMED
 Confidence: MEDIUM
 Direct answer: YES only when the booking type is known to use this deposit; otherwise clarify/escalate
 
+
+### Field Trips / Chaperones
+
+EV-053
+Fact: Field trips use the guided group-tour structure and pricing shown on the Glass Tours page unless a custom arrangement is made.
+Authority: OWNER_CONFIRMED + PUBLIC_WEBSITE
+Confidence: HIGH
+Direct answer: YES
+
+EV-054
+Fact: Teachers and chaperones are not charged for field trips/group tours.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-055
+Fact: A minimum of one teacher or chaperone is required for every 10 participants.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-056
+Fact: Individuals may watch artists working for free during regular hours; organized guided group demonstrations are part of the scheduled group-tour experience rather than a separate demonstration-only package.
+Authority: OWNER_CONFIRMED + PUBLIC_WEBSITE
+Confidence: HIGH
+Direct answer: YES
+
+### Accessibility / Special Needs
+
+EV-057
+Fact: Payton Glass Center regularly accommodates guests and groups with physical and mental disabilities, including special-needs groups.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-058
+Fact: Step-free entry is available through the rear ramp.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-059
+Fact: Wheelchair users can move through the building and participate at shorter work tables.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-060
+Fact: Guests using walkers, guests who cannot stand for long periods, and senior groups can be accommodated with seating and route planning.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-061
+Fact: Special-needs groups may participate in tours only or in hands-on activities as appropriate.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-062
+Fact: Echo Voice should ask what accommodations are needed, record the information, and confirm case-specific details with staff when needed.
+Authority: OWNER_CONFIRMED + ECHO_GOVERNANCE
+Confidence: HIGH
+Direct answer: YES
+
+### Repairs
+
+EV-063
+Fact: Payton Glass Center evaluates repairs of many types.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-064
+Fact: Repair evaluation can begin with photos sent by email or text, or the customer can bring the item in for evaluation.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-065
+Fact: Repair pricing starts at $50 and increases depending on the work required.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-066
+Fact: Some damaged pieces cannot be repaired; if evaluation shows the piece is not repairable, the customer should be told clearly.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+### Custom Commissions
+
+EV-067
+Fact: Custom commissions are discussed by phone, Zoom, or appointment; Echo Voice should collect project basics and refer detailed quoting to Mark.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES for intake; ESCALATE for detailed quote
+
+EV-068
+Fact: Custom commissions typically require 50% down or full payment up front depending on the commission and cost.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES with project-specific caveat
+
+EV-069
+Fact: A prototype charge may apply when Mark needs to test whether a design can be produced successfully, especially for multiples.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-070
+Fact: Production may need to be scheduled approximately 2–3 weeks out before work begins, depending on the production schedule.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES as general guidance; do not promise exact date
+
+EV-071
+Fact: There is no universal minimum custom-order amount; pricing depends on the project. Awards start at $450 and increase based on complexity, quantity, and deadline.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-072
+Fact: Multiples may receive modest pricing efficiencies because repeated pieces can be produced more efficiently.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES as general guidance; ESCALATE for quote
+
+### Classes
+
+EV-073
+Fact: Classes are distinct from workshops: workshops use simpler techniques accessible to most visitors, while classes go deeper into process and technique.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-074
+Fact: Classes are priced per class based on techniques, materials, complexity, and format.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-075
+Fact: A class may be a one-night class or a two-or-more-night class spread across a week or month.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-076
+Fact: About six or more enrolled participants are generally needed to justify running a class; maximum capacity is determined for each class.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-077
+Fact: No classes are currently scheduled; holiday and seasonal classes will be posted on the website Classes page.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+### Gift Certificates
+
+EV-078
+Fact: Gift certificates are currently available by phone, email, or in person; website purchase is planned with the new website.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-079
+Fact: Common gift-certificate amounts are $50, $100, $150, $200, and $250.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-080
+Fact: Gift certificates do not expire.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-081
+Fact: Any unused gift-certificate balance remains available for future visits or purchases.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-082
+Fact: If a purchase exceeds the gift-certificate balance, the customer pays the difference.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-083
+Fact: Gift certificates may be used for activities, projects, or gallery purchases even if the certificate was originally given with a particular project in mind.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+### Public Contact / Response
+
+EV-084
+Fact: Public email is info@PaytonGlassCenter.com.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-085
+Fact: Texting is an approved customer communication channel.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-086
+Fact: Mark's cell for approved escalation/callback workflows is 502-558-4049.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES for routing; do not volunteer personal cell unless workflow calls for it
+
+EV-087
+Fact: Typical response target is within one day when possible, generally within 1–2 days.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+
 ## Inquiry Data to Collect
 
 For ordinary activity inquiries:
@@ -411,7 +637,7 @@ Echo Voice should transfer or create a callback when:
 - a customer asks for an exception to a policy;
 - a complex custom commission needs artist judgment;
 - a complaint/refund dispute requires human judgment;
-- accessibility/special-needs accommodation requires case-specific confirmation;
+- accessibility/special-needs accommodation requires case-specific confirmation beyond the approved general accessibility facts;
 - the requested answer would create an unverified price, discount, safety, or scheduling commitment.
 
 Current owner escalation contact for unresolved tour/business questions:
@@ -496,6 +722,8 @@ Primary sources for v0.1:
 - implementations/payton-glass-center/AUTOMATION_TRIGGER_MODEL.md
 - implementations/payton-glass-center/WEBSITE_COPY_DRAFTS.md
 - Echo Voice 20 Customer Questions and Draft Answers, owner-edited 2026-10-13
+- Owner reconciliation answers supplied 2026-10-15
+- Current Payton Glass Center public website tour/workshop information reviewed 2026-10-15
 - Project Echo agents/agent-operating-rules.md
 
 ## Next Version
