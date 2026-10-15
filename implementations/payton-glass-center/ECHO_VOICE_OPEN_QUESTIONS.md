@@ -2,9 +2,9 @@
 
 Status: Owner review queue
 Version: 0.1
-Date: 2026-10-13
+Date: 2026-10-15
 Business: Payton Glass Center
-Purpose: Remaining unanswered or partially answered business facts after the Echo Voice source-of-truth audit and 2026-10-13 owner reconciliation.
+Purpose: Remaining unanswered or partially answered business facts after the Echo Voice source-of-truth audit and owner reconciliations through 2026-10-15.
 
 ## Already Resolved
 
@@ -27,18 +27,29 @@ The following are no longer open questions:
 - Group tours require final phone confirmation.
 - AI may collect customer name, phone number, and email address.
 
+- Field-trip teacher/chaperone rule: no charge; minimum one teacher/chaperone per 10 participants.
+- Demonstration structure: free artist viewing for individuals; guided group demonstrations are part of the group-tour structure.
+- Accessibility: rear ramp, wheelchair access, shorter work tables, seating/route accommodations, frequent special-needs groups, tours and activities supported.
+- Repairs: evaluated from photos/text/email or in person; starts at $50; some pieces are not repairable.
+- Custom commissions: 50% deposit or full payment depending on project; prototype charge may apply; production may start 2–3 weeks out; awards start at $450; Mark consultation required for detailed quote.
+- Classes: seasonal/scheduled, technique-focused, one-night or multi-night, generally ~6+ enrollment to justify running, no classes currently scheduled.
+- Gift certificates: available by phone/email/in person, no expiration, unused balance retained, usable throughout studio/gallery; website sales planned.
+- Public email: info@PaytonGlassCenter.com.
+- Texting is approved; Mark escalation/callback cell: 502-558-4049.
+- Typical response target: within one day when possible, generally within 1–2 days.
+
 ## Priority A — Needed Before Echo Voice Handles These Independently
 
 1. Exact fused-glass project catalog and price for each project.
 2. Exact torch project catalog and price for each project.
-3. Field-trip-specific pricing, minimum/maximum size, teacher/chaperone pricing, and chaperone rules.
-4. Demonstration-only policy: available or not, price, duration, and capacity.
-5. Accessibility details for the building and activities.
-6. Repair policy: what repairs are accepted, declined, minimum charge, and whether photos are required.
-7. Custom commission policy: quote process, deposit, typical lead time, revisions, rush work, and minimum order if any.
-8. Current class catalog: which classes are active now, prices, schedule, age limits, and enrollment limits.
-9. Gift certificate policy: available or not, physical/digital, amounts, expiration, redemption, and refund rules.
-10. Preferred public email address and whether text messaging should be offered as a standard customer channel.
+3. Exact class-by-class catalog, dates, prices, age rules, techniques, and maximum enrollment when classes are scheduled.
+4. Exact custom-commission rules for prototype charges, rush work, revisions, and unusual payment structures.
+5. Exact alcohol-specific rules, if any, within the bring-your-own-drink policy.
+6. Final after-hours callback policy: routine option or case-by-case.
+7. Which complaint/refund situations Echo Voice may resolve versus must escalate.
+8. Which call types must always transfer immediately to Mark or an assistant.
+9. Whether gift certificates can be issued in custom dollar amounts beyond the common amounts and how they are tracked internally.
+10. Exact repair categories, if any, that should be declined automatically before evaluation.
 
 ## Priority B — Useful for Better Routing and Sales
 
@@ -52,8 +63,8 @@ The following are no longer open questions:
 18. Preferred advance notice for tours, field trips, and private events.
 19. Balance-due timing for group tours/events.
 20. Whether deposits differ by activity or group type.
-21. Whether school/nonprofit groups receive different pricing.
-22. Whether chaperones/non-participants are charged on tours.
+21. Whether school/nonprofit groups receive any pricing beyond the current Glass Tours table.
+22. Whether non-participating guests other than teachers/chaperones are charged.
 23. Whether buses have a preferred loading/unloading location.
 
 ## Priority C — Website / FAQ Growth Questions
