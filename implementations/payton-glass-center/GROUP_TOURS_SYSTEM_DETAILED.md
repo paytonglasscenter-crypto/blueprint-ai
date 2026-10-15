@@ -148,6 +148,10 @@ This promise should appear consistently across:
 - Group discounts: 10% for 30–59 people; 15% for 60–79; 20% for 80+.
 - Online or phone inquiry can begin the booking process, but a phone conversation is required to confirm the date because guides, studios, demonstrations, and schedules must be coordinated.
 - Special-event food and drink policy: guests may bring their own food and drink, with details confirmed by phone.
+- Teacher and chaperone policy: no charge for teachers or chaperones.
+- Supervision requirement: at least one teacher or chaperone for every 10 participants.
+- Field trips use the same guided-tour structure/pricing shown on the Glass Tours page unless a custom arrangement is made.
+- Individuals may watch artists working for free during regular hours; guided group demonstrations are part of the scheduled group-tour experience.
 - Group organizers should provide group type, participant count, age range, preferred date/time, desired activity, and any accessibility or special-needs notes.
 
 ---
@@ -675,3 +679,18 @@ The Group Tours System connects:
 - Automation planning
 - Customer experience
 - Revenue growth
+
+
+---
+
+## Accessibility and Special-Needs Groups
+
+Owner-confirmed 2026-10-15:
+
+- Payton Glass Center regularly serves groups and individuals with physical and mental disabilities.
+- Special-needs groups visit frequently and may participate in tours, activities, or both.
+- Step-free entry is available through the rear ramp.
+- Wheelchair users can move through the building and use shorter work tables for activities.
+- Guests using walkers, guests who cannot stand for extended periods, and senior groups can be accommodated with seating and route planning.
+- The booking conversation should ask about mobility, seating, walker/wheelchair use, and any other support needs.
+- Case-specific accommodations should be discussed with the group before the visit.
