@@ -239,7 +239,7 @@ Owner-confirmed core pricing and duration as of 2026-10-13.
 - Minimum age is approximately 5; adults help children age 7 and younger.
 - Projects are kiln-fired after the visit and typically take 1–2 weeks to process.
 - Nationwide shipping is available and tracking is provided when shipped.
-- Exact project catalog and per-project pricing still need to be structured.
+- The current FUSE IT! project catalog is structured in `FUSE_IT_PRICE_CATALOG.md`; for dual-price items, the first/lower price is for a clear base and the second/higher price is for a colored base.
 
 ### Pricing Details Needed
 
