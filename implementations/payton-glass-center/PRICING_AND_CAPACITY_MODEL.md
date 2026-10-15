@@ -118,15 +118,15 @@ Capacity needs owner confirmation.
 | Group Tours + Activity | Confirmed | $11.50/person tour-only; add-on activity pricing varies | Confirmed | 10 | Varies | 100 | 1–2 hours | Mixed ages | Activity pieces may require later pickup/shipping | High |
 | Fused Glass Workshops | Confirmed range | Approx. $32–$350; most projects approx. $30–$60 | Case-by-Case | 1 | Varies | TBD | Avg. 1–1.5 hours | Approx. 5+; adult help age 7 and under | 1–2 weeks; shipping available | High |
 | Hands-On Torch Experiences | Confirmed range | $58–$158 | Case-by-Case | 1 | Individual/small group | TBD | Approx. 30–40 min per person/project | Approx. 5+ with guided participation | Usually next day after annealing | High |
-| Educational Field Trips | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | High |
+| Educational Field Trips | Confirmed core structure | Uses guided-tour pricing/table; teachers/chaperones free | Confirmed core rule | 10 | Case-by-case | 100 | 1–2 hours + activity time | Mixed ages | Activity dependent | High |
 | Private Events | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | Medium/High |
 | Birthday Activities | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | Medium |
-| Demonstrations | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | Medium |
-| Classes | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | Medium |
-| Custom Glass | Inquiry-Based | TBD | Case-by-Case | N/A | N/A | N/A | TBD | N/A | TBD | Medium |
+| Demonstrations | Confirmed | Free viewing for individuals; guided group demo via tour pricing | Case-by-Case | N/A | Case-by-case | Tour capacity | Tour dependent | All ages | N/A | Medium |
+| Classes | Inquiry-Based | Priced per class/technique | Case-by-Case | ~6 to run | Set per class | Set per class | One night or multi-night | Class dependent | Activity dependent | Medium |
+| Custom Glass | Inquiry-Based | Awards start at $450; other commissions quoted case-by-case | Case-by-Case | N/A | N/A | N/A | Production start may be 2–3 weeks out | N/A | Pickup/shipping by quote | Medium |
 | Handmade Glass Art / Retail | Unknown | TBD | N/A | N/A | N/A | N/A | N/A | N/A | N/A | Medium |
-| Repairs | Unknown | TBD | Case-by-Case | N/A | N/A | N/A | TBD | N/A | TBD | Low/Medium |
-| Gift Certificates | Unknown | TBD | N/A | N/A | N/A | N/A | N/A | N/A | N/A | Medium |
+| Repairs | Starting At | $50+ | Case-by-Case | N/A | N/A | N/A | Case-by-case | N/A | Case-by-case | Low/Medium |
+| Gift Certificates | Confirmed | Common amounts $50/$100/$150/$200/$250; other use flexible | N/A | N/A | N/A | N/A | N/A | N/A | N/A | Medium |
 
 ---
 
@@ -382,7 +382,16 @@ To be decided.
 
 ### Current Status
 
-Needs owner confirmation.
+Core structure owner-confirmed as of 2026-10-15.
+
+### Confirmed Details
+
+- Field trips use the guided group-tour structure/pricing shown on the Glass Tours page unless a custom arrangement is made.
+- Teachers and chaperones are not charged.
+- Minimum supervision requirement: one teacher or chaperone for every 10 participants.
+- Standard group-tour range is 10–100 people.
+- Typical guided-tour duration is 1–2 hours, with additional time depending on the selected hands-on activity.
+- Final date and logistics are confirmed by phone.
 
 ### Pricing Details Needed
 
@@ -565,7 +574,14 @@ To be decided.
 
 ### Current Status
 
-Needs owner confirmation.
+Owner-confirmed/public-site structure as of 2026-10-15.
+
+### Confirmed Details
+
+- Individuals may enter during regular hours and watch artists working without paying for a tour.
+- Guided group demonstrations are part of the scheduled group-tour experience.
+- There is no separate demonstration-only group package currently documented outside the tour structure.
+- Use guided-tour pricing for organized group demonstration visits.
 
 ### Pricing Details Needed
 
@@ -599,7 +615,15 @@ To be decided.
 
 ### Current Status
 
-Future / planned unless owner confirms active.
+Seasonal / scheduled. No classes are currently scheduled.
+
+### Confirmed Details
+
+- Classes are priced per class based on techniques, materials, complexity, and duration.
+- Classes may be one-night sessions or two-or-more-night sessions spread over a week or month.
+- About six or more enrolled participants are generally needed to justify running a class.
+- Maximum capacity is determined for each class.
+- Holiday and seasonal classes will be posted on the website Classes page.
 
 ### Pricing Details Needed
 
@@ -647,7 +671,18 @@ To be decided.
 
 ### Current Status
 
-Inquiry-based.
+Inquiry-based / owner review required.
+
+### Confirmed Details
+
+- Typical deposit is 50% down, or full payment up front depending on commission and cost.
+- A prototype charge may apply for test development, especially when multiples will be produced.
+- Production may need to be scheduled approximately 2–3 weeks out before work begins.
+- There is no single universal minimum custom-order amount.
+- Awards start at $450 and increase from there.
+- Multiples may receive modest price efficiencies.
+- Difficulty and deadline materially affect final pricing.
+- Echo Voice should collect project basics, then refer the customer to Mark for phone or Zoom consultation.
 
 ### Pricing Details Needed
 
@@ -711,7 +746,13 @@ To be decided.
 
 ### Current Status
 
-Needs owner confirmation.
+Active / evaluated case-by-case.
+
+### Confirmed Details
+
+- Repair evaluation may begin from emailed/texted photos or an in-person visit.
+- Pricing starts at $50 and increases with difficulty.
+- Some items cannot be repaired and must be declined after evaluation.
 
 ### Pricing Details Needed
 
@@ -741,7 +782,16 @@ Do not publish unless repair policy is clear.
 
 ### Current Status
 
-Needs owner confirmation.
+Active.
+
+### Confirmed Details
+
+- Purchase channels: phone, email, or in person; website purchase planned with the new site.
+- Common amounts: $50, $100, $150, $200, $250.
+- Certificates do not expire.
+- Unused balance remains available for future use.
+- Customer pays any amount above the remaining certificate balance.
+- Certificates can be used for activities, projects, or gallery purchases.
 
 ### Pricing Details Needed
 
