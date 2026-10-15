@@ -94,3 +94,14 @@ An answer may move from this queue into the approved knowledge base only when:
 1. Mark or an authorized staff member answers it, or an approved source is identified;
 2. any conflicting source is reconciled;
 3. the answer is labeled with source, date verified, confidence, and escalation behavior.
+
+
+## Website Correction Queue
+
+These are not unresolved owner questions; they are known public-site mismatches that should be corrected during the website rebuild/update.
+
+1. Current public FAQ/workshop pages still show older FLAME IT price ranges (including $48–$125 / $44–$125). Owner-confirmed current Echo Voice range is $58–$158.
+2. Current public FAQ shows older FUSE IT pricing of $14–$250. Owner-confirmed current range is approximately $32–$350, with most projects approximately $30–$60.
+3. Current public workshop copy references older appointment slot lengths and group-size rules in places; reconcile these with the current owner-confirmed 30–40 minute torch guidance and current booking policies during the new website build.
+
+Echo Voice must use the owner-confirmed current facts in ECHO_VOICE_KNOWLEDGE_V0.1.md until the public website is updated.
