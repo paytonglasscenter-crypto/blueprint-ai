@@ -906,7 +906,7 @@ Yes. Hands-on torch experiences are guided directly by a professional artist. Di
 
 ### Do you host school field trips?
 
-Payton Glass Center can serve educational groups and field trip inquiries. Final grade ranges, group sizes, pricing, and activity details need owner confirmation.
+Yes. Field trips use the guided group-tour structure and pricing shown on the Glass Tours page unless a custom arrangement is made. Teachers and chaperones are not charged, and the group must provide at least one teacher or chaperone for every 10 participants. Field trips may be tour-only or include a hands-on fused-glass activity.
 
 ### What do students learn?
 
@@ -930,7 +930,7 @@ Special-event guests may bring their own food and drink. Details should be confi
 
 ### Do you offer glass classes?
 
-Payton Glass Center is interested in deeper class opportunities, including evening, weekend, one-day, two-day, and multi-session classes. Current class availability needs owner confirmation.
+Classes are offered seasonally and are different from the simpler walk-in workshops. Classes focus more deeply on process and technique and may be a single-night class or a multi-night class spread across a week or month. There are no classes currently scheduled, but holiday and seasonal classes will be posted on the Classes page.
 
 ### Can I join a class interest list?
 
@@ -942,11 +942,11 @@ A class interest list is recommended so interested customers can be notified whe
 
 ### Do you make custom glass?
 
-Custom glass requests may be possible depending on the project, timeline, materials, and feasibility.
+Yes. Custom commissions are evaluated case-by-case. Echo Voice or staff can collect the idea, size, colors, deadline, budget, and reference images, then Mark can discuss the project by phone, Zoom, or appointment. A 50% deposit or full payment may be required depending on the commission. Awards start at $450; other custom pricing depends on the project, difficulty, quantity, and deadline.
 
 ### Can you repair glass?
 
-Repair policy needs owner confirmation. Customers should provide photos and details before assuming a repair is possible.
+Yes, Payton Glass Center evaluates many types of glass repairs. Customers can email or text photos or bring the piece in for evaluation. Repair pricing starts at $50 and increases depending on the work required. Some pieces cannot be repaired, and the studio will explain when a piece is not repairable in its current condition.
 
 ---
 
@@ -955,6 +955,22 @@ Repair policy needs owner confirmation. Customers should provide photos and deta
 ### Do projects need to be picked up later?
 
 Fused-glass projects typically take 1–2 weeks to process after kiln firing. Torch-made pieces are annealed overnight and are usually ready the next day, generally after about 11:00 a.m. Finished work can also be shipped nationwide.
+
+---
+
+## Accessibility
+
+### Are you accessible for guests with disabilities?
+
+Yes. Payton Glass Center regularly works with guests and groups with physical and mental disabilities. Step-free access is available through the rear ramp, wheelchair users can move through the building and work at shorter tables, and seating can be arranged for guests who cannot stand for long periods. Special-needs groups may participate in tours, activities, or both. Tell us what accommodations you need so we can plan appropriately.
+
+---
+
+## Gift Certificates
+
+### Do you sell gift certificates?
+
+Yes. Gift certificates can be purchased by phone, email, or in person, and website purchasing will be added to the new website. Common amounts include $50, $100, $150, $200, and $250. They do not expire, unused balances remain available for future visits, and they can be used for activities, projects, or gallery purchases.
 
 ---
 
@@ -1034,6 +1050,14 @@ For group requests, the more details you provide, the easier it is to respond ac
 
 ---
 
+### Current Public Contact
+
+- Email: info@PaytonGlassCenter.com
+- Business phone: 502-992-3270
+- Texting is an approved communication channel.
+- Approved escalation/callback cell: 502-558-4049.
+- Typical response target: within one day when possible; generally within 1–2 days.
+
 ### Contact Owner Placeholders
 
 - Final phone
@@ -1108,12 +1132,12 @@ Remaining copy gaps:
 - Exact torch project catalog and per-project pricing
 - Field-trip-specific pricing and chaperone rules
 - Demonstration-only availability and pricing
-- Accessibility details
-- Repair policy
-- Full custom commission quote/deposit/lead-time policy
-- Current class catalog, dates, prices, and enrollment limits
-- Gift certificate availability and rules
-- Final public email/contact preferences
+- Exact class-by-class catalog, dates, prices, and maximum enrollment when scheduled
+- Exact custom commission quote details for unusual projects, prototype charges, and rush work
+- Final public wording for accessibility/accommodation requests
+- Final field-trip table values if the Glass Tours page pricing table changes
+- Exact alcohol-specific rules, if any, within the bring-your-own-drink policy
+- Final after-hours callback policy
 - Final photos/videos and testimonials/reviews
 - Preferred calls to action by offer
 
