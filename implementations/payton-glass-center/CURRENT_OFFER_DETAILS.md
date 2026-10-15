@@ -80,15 +80,15 @@ Needs owner confirmation.
 | Group Tours + Activity | Active | Groups | Inquiry + phone confirmation | High | Private groups of 10–100; tour-only price $11.50/person; activity add-ons available |
 | Fused Glass Workshops | Active | Families, groups, beginners | Walk-in or booking | High | Approx. $32–$350; most projects approx. $30–$60; 1–1.5 hours average; kiln-fired |
 | Hands-On Torch Experiences | Active | Individuals, couples, families, small groups | Walk-in by availability; advance booking preferred | High | Premium guided experience with Mark Payton; $58–$158; approx. 30–40 minutes per project |
-| Educational Field Trips | Unknown | Schools, homeschool, youth groups | Inquiry | High | Likely tied to group tours |
+| Educational Field Trips | Active | Schools, homeschool, youth groups | Inquiry + phone confirmation | High | Uses group-tour structure/pricing; teachers/chaperones free; minimum 1 teacher/chaperone per 10 participants |
 | Private Events | Unknown | Birthdays, teams, families, organizations | Inquiry | Medium/High | Need event fit and policies |
 | Birthday Activities | Unknown | Families, children, mixed groups | Inquiry | Medium/High | May overlap with private events |
-| Demonstrations | Unknown | Groups, visitors, education | Inquiry / visit | Medium | Need availability and pricing |
-| Classes | Future / Planned | Adults, deeper learners | Interest list | Medium | Growth opportunity |
-| Custom Glass Work | Unknown | Custom/gift/repair customers | Inquiry | Medium | Need accepted/not accepted work |
+| Demonstrations | Active | Groups, visitors, education | Walk-in viewing / guided group tour | Medium | Individuals may watch artists working for free; guided group demonstrations are part of scheduled tours |
+| Classes | Seasonal / Scheduled | Adults, deeper learners | Scheduled | Medium | Technique/process focused; one-night or multi-night; no classes currently scheduled |
+| Custom Glass Work | Active / By Quote | Custom/gift/award/sculpture customers | Inquiry + Mark consultation | Medium | Half-down or full payment depending on project; prototype charge may apply; awards start at $450 |
 | Handmade Glass Art / Retail | Unknown | Visitors, gift buyers, collectors | Visit / inquiry | Medium | Need product categories and sales path |
-| Repairs | Unknown | Repair customers | Inquiry | Low/Medium | Need confirm whether accepted |
-| Gift Certificates | Unknown | Gift buyers | Purchase / inquiry | Medium | Need confirm availability |
+| Repairs | Active / Evaluated Case-by-Case | Repair customers | Photo/text/email/in-person evaluation | Low/Medium | Repairs of many types; starts at $50; some items are not repairable |
+| Gift Certificates | Active | Gift buyers | Phone / email / in person; website planned | Medium | No expiration; usable for anything in studio/gallery; remaining balance retained |
 
 ---
 
@@ -306,7 +306,15 @@ Medium.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active.
+
+### Owner-Confirmed Operating Facts — 2026-10-15
+
+- Field trips use the guided group-tour structure and pricing shown on the Glass Tours page unless a custom arrangement is made.
+- Teachers and chaperones are not charged.
+- A minimum of one teacher or chaperone is required for every 10 participants.
+- Field trips may include the educational tour alone or the tour plus a hands-on fused-glass activity.
+- Final scheduling is confirmed by phone because guides, studios, demonstrations, and activities must be coordinated.
 
 ### Strategic Importance
 
@@ -475,7 +483,14 @@ Medium.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active.
+
+### Owner-Confirmed / Public-Site Facts — 2026-10-15
+
+- Individuals may come in and watch artists working without purchasing a tour ticket.
+- Guided group tours are scheduled by appointment and include guided explanation of process, tools, equipment, and artist demonstrations.
+- There is no separate demonstration-only package currently documented outside the guided tour structure.
+- For groups wanting an organized demonstration experience, use the guided group-tour pricing and booking process.
 
 ### Strategic Importance
 
@@ -522,7 +537,19 @@ Low.
 
 ### Current Status
 
-Future / planned unless owner confirms active options.
+Seasonal / scheduled program. No classes are currently scheduled.
+
+### Owner-Confirmed Operating Facts — 2026-10-15
+
+- Classes are different from workshops.
+- Workshops use simpler techniques designed so most visitors can participate using the studio's accessory glass and guidance.
+- Classes go deeper into process and technique.
+- Classes are priced individually according to the techniques, materials, difficulty, and format.
+- A class may be a single-night class or a two-or-more-night class spread across a week or month.
+- A class generally needs about six or more enrolled participants to justify running it.
+- Capacity is set per specific class, rather than requiring a fixed customer minimum for all classes.
+- Holiday and seasonal classes will be offered during the year.
+- Upcoming classes will be posted on the website Classes page.
 
 ### Strategic Importance
 
@@ -576,7 +603,20 @@ Medium for class interest list.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active / quoted case-by-case.
+
+### Owner-Confirmed Operating Facts — 2026-10-15
+
+- Custom commissions are discussed by phone, Zoom, or appointment.
+- Echo Voice may collect the basic project information, then refer the customer to Mark for detailed discussion.
+- Deposit is typically 50% down, or payment in full up front, depending on the commission and cost.
+- A prototype charge may apply when Mark needs to test whether a design can be produced successfully, especially for pieces that will be made in multiples.
+- Decisions/quotes are handled as soon as practical.
+- Production may need to wait approximately 2–3 weeks before starting so the work can be fit into the production schedule.
+- There is not one universal minimum custom-order amount; pricing depends on the project.
+- Awards start at $450 and increase based on complexity and requirements.
+- Multiples may receive modest pricing efficiencies because the same process is repeated.
+- Difficulty and deadline are major pricing factors.
 
 ### Strategic Importance
 
@@ -681,7 +721,15 @@ Low to medium for seasonal campaigns.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active / evaluated case-by-case.
+
+### Owner-Confirmed Operating Facts — 2026-10-15
+
+- Payton Glass Center evaluates repairs of many types.
+- Customers may send photos by email or text, or bring the item to the studio for evaluation.
+- Repair pricing starts at $50 and increases based on the work required.
+- Some damaged pieces cannot be repaired safely or successfully.
+- When an item is not repairable in its current condition, the customer should be told clearly that the piece cannot be repaired.
 
 ### Strategic Importance
 
@@ -726,7 +774,17 @@ Low.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active.
+
+### Owner-Confirmed Operating Facts — 2026-10-15
+
+- Gift certificates can currently be purchased by phone, email, or in person.
+- Website purchase will be added with the new website.
+- Common gift-certificate amounts include $50, $100, $150, $200, and $250, but they may be used for whatever the recipient wants.
+- Gift certificates do not expire.
+- Any unused balance remains available for a future studio visit or purchase.
+- If a purchase exceeds the certificate balance, the customer pays the difference.
+- Gift certificates can be used for activities, projects, or gallery purchases even if the certificate was originally given with a particular project in mind.
 
 ### Strategic Importance
 
@@ -766,6 +824,34 @@ Medium if used.
 ### Automation Priority
 
 Medium for seasonal reminders.
+
+---
+
+## 16A. Accessibility and Accommodations
+
+### Current Status
+
+Active / routinely accommodated.
+
+### Owner-Confirmed Operating Facts — 2026-10-15
+
+- Payton Glass Center regularly serves guests with physical and mental disabilities and special-needs groups.
+- Accommodations are discussed with each individual or group before or during planning.
+- Guests who need step-free access may enter through the rear ramp.
+- Wheelchair users can move through the building and participate at shorter work tables.
+- Guests using walkers, guests who cannot stand for long periods, and senior groups can be accommodated with seating and appropriate routing.
+- Special-needs groups may participate in tours only or in hands-on activities as appropriate.
+- The agent should ask what accommodations are needed, record them, and confirm case-specific details with staff when necessary.
+
+---
+
+## 16B. Public Contact Channels
+
+- Public email: info@PaytonGlassCenter.com
+- Business phone: 502-992-3270
+- Texting is an approved customer communication channel.
+- Mark's cell for approved escalation/callback workflows: 502-558-4049.
+- Typical response target: within one day when possible; generally within 1–2 days.
 
 ---
 
