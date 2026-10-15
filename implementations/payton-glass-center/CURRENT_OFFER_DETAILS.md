@@ -9,6 +9,14 @@ Depends On: OWNER_DATA_REQUEST.md
 
 ---
 
+## Reconciliation — 2026-10-15
+
+Reconciled against owner-confirmed `ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-001–096), `FUSE_IT_PRICE_CATALOG.md`, and `FLAME_IT_FYO_PRICE_CATALOG.md`. These facts supersede older intake prompts. Remaining questions below are operational or editorial decisions, not requests to reconfirm resolved facts.
+
+Exact photographed projects: FUSE IT! $25–$250 (clear/colored base convention); FYO $44–$98. Earlier broader owner guidance remains approximately $32–$350 for fused glass and $58–$158 for torch. Catalog completeness and the relationship of these ranges require clarification; do not treat either broader lower bound as the cheapest listed project. FUSE IT! sign says projects for all ages, cutting ages 10+ with adult supervision; earlier guidance suggests participation around age 5 and adult help through age 7. Confirm wording for under-5 participation.
+
+Reservations: $30/person only where that deposit applies; activity-specific applicability remains open. Deposit refunded for cancellation more than 24 hours before reservation; within 24 hours nonrefundable. Rescheduling is to a future available time. Custom commissions instead typically use 50% down or full payment, depending on the project.
+
 ## 1. Purpose
 
 This document captures the current real-world offers at Payton Glass Center.
@@ -81,12 +89,12 @@ Needs owner confirmation.
 | Fused Glass Workshops | Active | Families, groups, beginners | Walk-in or booking | High | Approx. $32–$350; most projects approx. $30–$60; 1–1.5 hours average; kiln-fired |
 | Hands-On Torch Experiences | Active | Individuals, couples, families, small groups | Walk-in by availability; advance booking preferred | High | Premium guided experience with Mark Payton; $58–$158; approx. 30–40 minutes per project |
 | Educational Field Trips | Active | Schools, homeschool, youth groups | Inquiry + phone confirmation | High | Uses group-tour structure/pricing; teachers/chaperones free; minimum 1 teacher/chaperone per 10 participants |
-| Private Events | Unknown | Birthdays, teams, families, organizations | Inquiry | Medium/High | Need event fit and policies |
-| Birthday Activities | Unknown | Families, children, mixed groups | Inquiry | Medium/High | May overlap with private events |
+| Private Events | Active / by arrangement | Birthdays, teams, families, organizations | Inquiry | Medium/High | Existing activities; BYO food/drink; phone confirmation |
+| Birthday Activities | Active / by arrangement | Families, children, mixed groups | Inquiry | Medium/High | Uses existing tours/activities; no separate prebuilt package |
 | Demonstrations | Active | Groups, visitors, education | Walk-in viewing / guided group tour | Medium | Individuals may watch artists working for free; guided group demonstrations are part of scheduled tours |
 | Classes | Seasonal / Scheduled | Adults, deeper learners | Scheduled | Medium | Technique/process focused; one-night or multi-night; no classes currently scheduled |
 | Custom Glass Work | Active / By Quote | Custom/gift/award/sculpture customers | Inquiry + Mark consultation | Medium | Half-down or full payment depending on project; prototype charge may apply; awards start at $450 |
-| Handmade Glass Art / Retail | Unknown | Visitors, gift buyers, collectors | Visit / inquiry | Medium | Need product categories and sales path |
+| Handmade Glass Art / Retail | Active | Visitors, gift buyers, collectors | Visit / inquiry | Medium | In store, online, phone; major cards; nationwide shipping |
 | Repairs | Active / Evaluated Case-by-Case | Repair customers | Photo/text/email/in-person evaluation | Low/Medium | Repairs of many types; starts at $50; some items are not repairable |
 | Gift Certificates | Active | Gift buyers | Phone / email / in person; website planned | Medium | No expiration; usable for anything in studio/gallery; remaining balance retained |
 
@@ -117,35 +125,20 @@ High.
 
 Group tours plus activity have already been identified as a major revenue driver.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Current group tour name
-- Current tour format
-- Current price
-- Minimum group size
-- Maximum group size
-- Ideal group size
-- Standard tour length
-- Available days/times
-- Required advance notice
-- Included activity options
-- Demonstration included?
-- Hands-on activity included?
-- Fused glass included?
-- Torch activity included?
-- Educational talk included?
-- Retail/gallery time included?
-- Deposit required?
-- Cancellation policy
-- Pickup required?
-- Most common customer questions
-- Most common organizer misunderstandings
-- Most profitable group type
-- Most difficult group type
+- Ideal tour size
+- available dates
+- preferred advance notice
+- staffing and calendar buffers
+- non-participant charges beyond free teachers/chaperones
+- deposit applicability and balance due
+- organizer pickup logistics
+- profitability and common organizer questions.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Private guided glass studio tours serve 10–100 people, typically over 1–2 hours. Tour-only admission is $11.50/person; tour plus fused-glass sun catcher is $32, magnet or pendant $27 before applicable group discounts. Phone confirmation is required.
 
 ### Website Priority
 
@@ -190,32 +183,18 @@ High.
 
 Fused glass appears to be accessible, group-friendly, and useful for families, schools, private groups, and beginner-friendly workshops.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Current fused glass project options
-- Price per project
-- Price per person if applicable
-- Minimum age
-- Best age range
-- Maximum participants
-- Ideal group size
-- Time required
-- Materials included
-- Kiln firing timeline
-- Pickup timeline
-- Same-day take-home possible?
-- Shipping possible?
-- Project labeling process
-- Most popular projects
-- Most profitable projects
-- Best project for children
-- Best project for adults
-- Best project for groups
-- Projects to avoid promoting
+- Ideal/maximum public workshop capacity by age
+- labeling and notification process
+- shipping charges
+- project popularity/profitability
+- additional projects beyond the photographed catalog
+- under-5 participation wording.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Create a fused-glass design at your own pace, typically in 1–1.5 hours. Choose a project from `FUSE_IT_PRICE_CATALOG.md`; workshop price is included in project cost. Dual prices mean clear base / colored base. Work is kiln-fired after the visit, typically ready in 1–2 weeks; nationwide shipping with tracking is available.
 
 ### Website Priority
 
@@ -262,29 +241,16 @@ High.
 
 Hands-on torch experiences strongly differentiate Payton Glass Center because guests can work directly with a professional glass artist.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Current hands-on torch options are captured in `FLAME_IT_FYO_PRICE_CATALOG.md` for the owner-supplied menu
-- What participants actually do
-- What the artist does
-- What customers make
-- Price
-- Session length
-- Minimum age
-- Maximum participants at once
-- Best customer type
-- Safety requirements
-- Cooling timeline
-- Pickup timeline
-- Is this offered to children?
-- Is this offered to adults only?
-- Is this best for individuals, couples, or small groups?
-- What language should be used publicly: glassblowing, flameworking, torchworking, lampworking?
-- What should customers not expect?
+- Additional projects beyond the photographed FYO menu
+- daily throughput and observer limits
+- calendar buffers given 30–40 minute work versus half-hour slots
+- best customer format and promotion priorities.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+FLAME IT / Flame Your Own / FYO is a beginner-friendly torch experience one-on-one with Mark. Guests do approximately 90% of the work; the sign states ages 5+. Allow about 30–40 minutes per project. Use `FLAME_IT_FYO_PRICE_CATALOG.md` for exact listed prices. Pieces are annealed overnight, usually ready next day after about 11 a.m.
 
 ### Website Priority
 
@@ -324,31 +290,19 @@ High.
 
 Field trips likely overlap with group tours but should be documented as a distinct customer path for schools, homeschool groups, youth groups, and educational organizations.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Current field trip format
-- Grade levels served
-- Minimum student count
-- Maximum student count
-- Ideal student count
-- Chaperone requirements
-- Tour length
-- Hands-on activity options
-- Educational topics covered
-- STEM connections
-- Art connections
-- Career/livelihood discussion
-- Safety explanation
-- Price
-- School-year availability
-- Homeschool differences
-- Teacher preparation needs
-- Rebooking pattern
-- Most common teacher questions
+- Grade-level recommendations
+- ideal student count and any grade-specific capacity differences
+- school-year availability
+- teacher preparation and curriculum detail
+- bus logistics
+- organizer pickup and labeling
+- any school/nonprofit pricing beyond the standard tour table.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Field trips follow the private guided-tour structure: 10–100 people, approximately 1–2 hours depending on activities, $11.50 tour-only or the documented tour-plus-activity prices. Teachers/chaperones attend free; at least one per 10 participants is required. Confirm dates and logistics by phone.
 
 ### Website Priority
 
@@ -387,31 +341,19 @@ Medium to high.
 
 Private events can package existing offers into clearer paths for birthday groups, families, corporate teams, churches, friend groups, clubs, and organizations.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Event types currently accepted
-- Event types not accepted
-- Birthday availability
-- Corporate group availability
-- Church/group availability
-- Family/friend group availability
-- Food and drink policy
-- Setup/cleanup expectations
-- Price
-- Deposit policy
-- Cancellation policy
-- Group size limits
-- Age limits
-- Activity options
-- Time blocks
-- Most common private event questions
-- Which events are profitable?
-- Which events are difficult?
-- Should private events be promoted heavily?
+- Event exclusions
+- setup/cleanup expectations
+- minimum charges or special fees
+- deposit applicability and balance due
+- event-specific capacity, time blocks, age/supervision rules
+- alcohol/food restrictions
+- promotion and profitability priorities.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Arrange birthdays, corporate, church, family or friend gatherings using existing tours and hands-on activities. There is no separate prebuilt event package. Bring your own food and drink, with details and availability confirmed by phone.
 
 ### Website Priority
 
@@ -435,7 +377,7 @@ Medium.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active / by arrangement.
 
 ### Strategic Importance
 
@@ -443,25 +385,14 @@ Medium to high.
 
 Birthday activities may be a separate offer or part of private events/group activities.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Are birthday activities currently offered?
-- Are they for children, adults, or both?
-- What activities work best for birthdays?
-- Minimum age
-- Group size limits
-- Price
-- Duration
-- Food/drink policy
-- Parent/chaperone expectations
-- Deposit policy
-- Pickup process
-- Common birthday questions
-- Should birthdays have their own website section?
+- Birthday-specific capacity, parent supervision, time blocks, setup/cleanup, fees and deposit applicability
+- whether birthdays warrant their own website section. Existing activity age, price and pickup guidance applies to the selected activity.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Birthday groups can arrange existing tours and hands-on activities by phone. Select the activity before quoting price, age guidance, timing and pickup; no separate prebuilt birthday package is documented. Food and drinks may be brought with phone confirmation.
 
 ### Website Priority
 
@@ -500,22 +431,14 @@ Medium.
 
 Demonstrations support education, trust, social content, group tours, and local search.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Are demonstrations offered separately?
-- Are demonstrations included in group tours?
-- Are demonstrations available to walk-ins?
-- Are demonstrations paid or free?
-- How long do demos take?
-- What is shown?
-- What ages can watch?
-- Can groups schedule demonstrations only?
-- Should demos be promoted publicly?
-- What language should describe demos?
+- Observer capacity, safety/route limits, demonstration timing and Q&A
+- preferred public wording. Organized demonstrations use the group-tour path, not an unpriced separate package.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Individuals may watch artists working free during regular hours. Organized guided demonstrations are part of scheduled group tours and use that pricing and booking process.
 
 ### Website Priority
 
@@ -559,29 +482,15 @@ Medium.
 
 Classes are a growth opportunity, especially evening, weekend, one-day, two-day, and multi-session options.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Are any classes currently active?
-- Have classes been offered before?
-- What classes would be realistic first?
-- Beginner class ideas
-- Fused glass class ideas
-- Torch/flameworking class ideas
-- Evening availability
-- Weekend availability
-- One-day class possibility
-- Two-day class possibility
-- Multi-week class possibility
-- Minimum enrollment
-- Maximum enrollment
-- Price ideas
-- Materials/tools included
-- Safety requirements
-- Should the first website version include an interest list?
+- Next class concepts, dates, exact prices, maximum enrollment, age/skill prerequisites, materials/tools and safety rules
+- interest-list decision. No classes currently scheduled
+- about six enrolled generally needed to run.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Classes explore techniques in more depth than workshops. Seasonal classes may run one night or multiple nights, with prices and maximum capacity set per class. None are currently scheduled; future offerings will be posted on the Classes page.
 
 ### Website Priority
 
@@ -626,28 +535,17 @@ Medium.
 
 Custom glass supports the identity of Payton Glass Center as a professional working glass studio.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Types of custom work accepted
-- Types of custom work not accepted
-- Repair policy
-- Commission process
-- Quote process
-- Deposit policy
-- Timeline expectations
-- Pickup options
-- Shipping options
-- Common custom requests
-- Common repair requests
-- Common gift requests
-- Price range guidance
-- Required customer information
-- Whether reference photos should be accepted
-- Should custom glass be promoted heavily or lightly?
+- Accepted/declined custom categories
+- prototype, revision and rush charges
+- balance due
+- project-specific production and delivery timing
+- promotion priorities. Detailed quote stays with Mark.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Discuss commissions with Mark by phone, Zoom or appointment. Provide pictures/sketches, dimensions, colors, deadline and budget. Awards start at $450; other projects are quoted individually. Typically 50% down or full payment applies; prototypes may incur a charge. Production may start 2–3 weeks out, subject to schedule.
 
 ### Website Priority
 
@@ -671,7 +569,7 @@ Medium.
 
 ### Current Status
 
-Unknown / needs owner confirmation.
+Active.
 
 ### Strategic Importance
 
@@ -679,27 +577,18 @@ Medium.
 
 Retail and handmade glass art reinforce the working studio identity and can create add-on revenue from visitors.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Current retail categories
-- Gift categories
-- Seasonal products
-- Price ranges
-- Inventory process
-- In-studio sales only?
-- Online sales planned?
-- Shipping available?
-- Gift wrapping available?
-- Holiday offers
-- Ornament sales
-- Visitor purchase behavior
-- Best-selling items
-- Items that photograph well
-- Should retail have its own website page?
+- Current inventory/categories and prices
+- best sellers
+- seasonal offers
+- gift wrapping
+- shipping charges
+- selected gallery images and page priorities.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Browse glass artwork made on premises by Mark and his team during public hours. Purchase in store, online or by phone; all major credit cards are accepted and artwork ships nationwide.
 
 ### Website Priority
 
@@ -739,20 +628,15 @@ Low to medium.
 
 Repairs may create useful inquiries but can also create unsuitable requests if not clearly limited.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Are repairs accepted?
-- What types of repairs are accepted?
-- What repairs are not accepted?
-- How are repair requests evaluated?
-- Is there a minimum charge?
-- Are photos required?
-- Is repair work profitable?
-- Should repairs be promoted or only handled by request?
+- Automatic repair exclusions, evaluation fee if any, deposit and timeline
+- profitability and promotion priority. Photo or in-person evaluation is supported
+- repair starts at $50.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Send repair photos by email or text, or bring the piece in for evaluation. Repairs start at $50 and vary with the work; some pieces cannot be repaired. Evaluation does not promise a successful repair.
 
 ### Website Priority
 
@@ -760,7 +644,7 @@ Low unless repair work is intentionally offered.
 
 ### Local Search Priority
 
-Low unless confirmed as active.
+Low to medium; active, evaluated case-by-case.
 
 ### CRM Priority
 
@@ -794,22 +678,13 @@ Medium.
 
 Gift certificates may support workshops, experiences, classes, and seasonal gift campaigns.
 
-### Owner Confirmation Needed
+### Remaining Questions
 
-- Are gift certificates available?
-- Physical, digital, or both?
-- What amounts?
-- What can they be used for?
-- Expiration policy
-- Purchase method
-- Redemption process
-- Tracking method
-- Should they be promoted for holidays?
-- Should they connect to booking later?
+- Physical/digital format, custom dollar amounts, tracking/redemption mechanics, refund policy and future booking integration. Availability, common amounts, no expiry and balance rules are resolved.
 
 ### Draft Current Description
 
-To be completed after owner confirmation.
+Buy gift certificates by phone, email or in person; website sales are planned. Common amounts are $50, $100, $150, $200 and $250. Certificates do not expire, work across activities and gallery purchases, retain unused balance, and allow the recipient to pay any difference.
 
 ### Website Priority
 
@@ -872,7 +747,7 @@ Current recommended website priority, pending owner confirmation:
 9. Classes / Interest List
 10. Custom Glass
 11. Gallery / Glass Art
-12. Gifts / Gift Certificates if available
+12. Gifts / Gift Certificates
 
 ---
 
@@ -946,23 +821,9 @@ Mark should answer these questions before final website copy:
 
 ## 22. Current Gaps
 
-The 2026-10-13 owner review resolved many prior operating gaps. Remaining items still needing owner confirmation or refinement include:
+Owner reviews through 2026-10-15 resolved core offers, catalogs, field-trip/chaperone rules, demonstrations, repairs, gift certificates, accessibility and contacts.
 
-- Exact fused-glass project catalog and per-project price list
-- Ideal/max fused-glass workshop capacity outside group-tour configurations
-- Exact torch project catalog and per-project pricing
-- Field-trip-specific pricing, grade/chaperone rules, and any differences from standard group tours
-- Demonstration-only availability and pricing
-- Birthday/private-event setup and cleanup expectations
-- Current day-class catalog, exact schedules, enrollment limits, and prices
-- Custom commission deposit/quote process and typical lead-time ranges
-- Repair policy
-- Gift certificate availability and rules
-- Accessibility details for the building and individual activities
-- Final public wording for special-needs accommodations
-- Exact email address and preferred public contact channels
-- Exact website priority based on current profitability
-- Exact listing services based on the final public offer catalog
+Remaining questions are listed under each offer. Also open: final promotion order based on profitability; exact listing service selection; catalog/range and age-wording clarification described above.
 
 ---
 

@@ -9,6 +9,14 @@ Depends On: OWNER_DATA_REQUEST.md, CURRENT_OFFER_DETAILS.md
 
 ---
 
+## Reconciliation — 2026-10-15
+
+Reconciled against owner-confirmed `ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-001–096), `FUSE_IT_PRICE_CATALOG.md`, and `FLAME_IT_FYO_PRICE_CATALOG.md`. These facts supersede older intake prompts. Remaining questions below are operational or editorial decisions, not requests to reconfirm resolved facts.
+
+Exact photographed projects: FUSE IT! $25–$250 (clear/colored base convention); FYO $44–$98. Earlier broader owner guidance remains approximately $32–$350 for fused glass and $58–$158 for torch. Catalog completeness and the relationship of these ranges require clarification; do not treat either broader lower bound as the cheapest listed project. FUSE IT! sign says projects for all ages, cutting ages 10+ with adult supervision; earlier guidance suggests participation around age 5 and adult help through age 7. Confirm wording for under-5 participation.
+
+Reservations: $30/person only where that deposit applies; activity-specific applicability remains open. Deposit refunded for cancellation more than 24 hours before reservation; within 24 hours nonrefundable. Rescheduling is to a future available time. Custom commissions instead typically use 50% down or full payment, depending on the project.
+
 ## 1. Purpose
 
 This document captures pricing, capacity, age limits, duration, and operating constraints for Payton Glass Center offers.
@@ -116,15 +124,15 @@ Capacity needs owner confirmation.
 | Offer | Pricing Status | Price / Range | Capacity Status | Minimum | Ideal | Maximum | Duration | Age Limit | Pickup? | Public Priority |
 |---|---|---:|---|---:|---:|---:|---|---|---|---|
 | Group Tours + Activity | Confirmed | $11.50/person tour-only; add-on activity pricing varies | Confirmed | 10 | Varies | 100 | 1–2 hours | Mixed ages | Activity pieces may require later pickup/shipping | High |
-| Fused Glass Workshops | Confirmed range | Approx. $32–$350; most projects approx. $30–$60 | Case-by-Case | 1 | Varies | TBD | Avg. 1–1.5 hours | Approx. 5+; adult help age 7 and under | 1–2 weeks; shipping available | High |
-| Hands-On Torch Experiences | Confirmed range | $58–$158 | Case-by-Case | 1 | Individual/small group | TBD | Approx. 30–40 min per person/project | Approx. 5+ with guided participation | Usually next day after annealing | High |
+| Fused Glass Workshops | Confirmed range | Approx. $32–$350; most projects approx. $30–$60 | Case-by-Case | 1 | Varies | Not established for public sessions | Avg. 1–1.5 hours | Approx. 5+; adult help age 7 and under | 1–2 weeks; shipping available | High |
+| Hands-On Torch Experiences | Confirmed range | $58–$158 | Case-by-Case | 1 | Individual/small group | One-on-one; daily limit open | Approx. 30–40 min per person/project | Approx. 5+ with guided participation | Usually next day after annealing | High |
 | Educational Field Trips | Confirmed core structure | Uses guided-tour pricing/table; teachers/chaperones free | Confirmed core rule | 10 | Case-by-case | 100 | 1–2 hours + activity time | Mixed ages | Activity dependent | High |
-| Private Events | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | Medium/High |
-| Birthday Activities | Unknown | TBD | Unknown | TBD | TBD | TBD | TBD | TBD | TBD | Medium |
+| Private Events | Activity-based | Selected tour/workshop pricing | Case-by-Case | By activity | By activity | Confirm by phone | By activity/event | By activity | By activity | Medium/High |
+| Birthday Activities | Activity-based | Selected tour/workshop pricing | Case-by-Case | By activity | By activity | Confirm by phone | By activity/event | By activity | By activity | Medium |
 | Demonstrations | Confirmed | Free viewing for individuals; guided group demo via tour pricing | Case-by-Case | N/A | Case-by-case | Tour capacity | Tour dependent | All ages | N/A | Medium |
 | Classes | Inquiry-Based | Priced per class/technique | Case-by-Case | ~6 to run | Set per class | Set per class | One night or multi-night | Class dependent | Activity dependent | Medium |
 | Custom Glass | Inquiry-Based | Awards start at $450; other commissions quoted case-by-case | Case-by-Case | N/A | N/A | N/A | Production start may be 2–3 weeks out | N/A | Pickup/shipping by quote | Medium |
-| Handmade Glass Art / Retail | Unknown | TBD | N/A | N/A | N/A | N/A | N/A | N/A | N/A | Medium |
+| Handmade Glass Art / Retail | Item-based | Current inventory prices | N/A | N/A | N/A | N/A | N/A | N/A | N/A | Medium |
 | Repairs | Starting At | $50+ | Case-by-Case | N/A | N/A | N/A | Case-by-case | N/A | Case-by-case | Low/Medium |
 | Gift Certificates | Confirmed | Common amounts $50/$100/$150/$200/$250; other use flexible | N/A | N/A | N/A | N/A | N/A | N/A | N/A | Medium |
 
@@ -147,12 +155,12 @@ Owner-confirmed core pricing/capacity as of 2026-10-13.
 - Final group booking requires phone confirmation.
 - Special events may bring their own food and drink, with details confirmed by phone.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
-- Current price per person
+- Resolved — Current price per person: $11.50/person tour-only; tour + activity $32 sun catcher or $27 magnet/pendant before discounts.
 - Current price per group if applicable
 - Minimum group charge
-- Chaperone/non-participant pricing
+- Teachers/chaperones free; pricing for other non-participants remains open
 - School pricing if different
 - Senior group pricing if different
 - Corporate pricing if different
@@ -160,14 +168,14 @@ Owner-confirmed core pricing/capacity as of 2026-10-13.
 - Deposit amount
 - Balance due timing
 - Tax or fee considerations
-- Add-on pricing
+- Resolved — Add-on pricing: Tour + activity base prices above; upgrades beyond those remain case-by-case.
 - Activity upgrade pricing if applicable
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
-- Minimum group size
+- Resolved — Minimum group size: 10.
 - Ideal group size
-- Maximum group size
+- Resolved — Maximum group size: 100.
 - Maximum number of active participants at once
 - Maximum observers/chaperones
 - Staff needed per group size
@@ -177,9 +185,9 @@ Owner-confirmed core pricing/capacity as of 2026-10-13.
 - Group size that becomes difficult
 - Group size that requires special approval
 
-### Duration Details Needed
+### Duration Details — Resolved Answers and Remaining Questions
 
-- Standard tour length
+- Resolved — Standard tour length: 1–2 hours depending on size/activity.
 - Setup time
 - Cleanup time
 - Total calendar block needed
@@ -188,23 +196,23 @@ Owner-confirmed core pricing/capacity as of 2026-10-13.
 - Time for Q&A / gallery browsing
 - Buffer time between groups
 
-### Age Limits Needed
+### Age Limits — Resolved Answers and Remaining Questions
 
 - Minimum age
 - Best age range
 - Mixed-age group rules
-- Children/chaperone requirements
+- Resolved — Children/chaperone requirements: Minimum 1 teacher/chaperone per 10; teachers/chaperones free.
 - Activities unsuitable for younger participants
 
-### Pickup Details Needed
+### Pickup Details — Resolved Answers and Remaining Questions
 
-- Do group tour projects go home same day?
-- Do items require cooling?
-- Do items require kiln firing?
-- Standard pickup timeline
+- Fused activity pieces are kiln-fired after visit; typically 1–2 weeks processing.
+- Fused pieces require kiln processing.
+- Yes, fused pieces are kiln-fired after visit.
+- Fused pieces typically take 1–2 weeks; group handoff logistics remain open.
 - Group pickup process
 - Individual pickup process
-- Shipping option if any
+- Resolved — Shipping option if any: Nationwide shipping available; charges and organizer logistics remain open.
 
 ### Profitability Notes
 
@@ -241,22 +249,22 @@ Owner-confirmed core pricing and duration as of 2026-10-13.
 - Nationwide shipping is available and tracking is provided when shipped.
 - The current FUSE IT! project catalog is structured in `FUSE_IT_PRICE_CATALOG.md`; for dual-price items, the first/lower price is for a clear base and the second/higher price is for a colored base.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
-- Price per project
+- Resolved — Price per project: Exact listed prices in FUSE_IT_PRICE_CATALOG.md; clear/colored base convention.
 - Price per person
-- Project-based price differences
+- Resolved — Project-based price differences: See FUSE_IT_PRICE_CATALOG.md.
 - Group pricing
 - Minimum workshop charge
-- Materials included
+- Resolved — Materials included: Workshop price included in project cost per sign; special upgrades need confirmation.
 - Upgrade options
-- Kiln/firing included?
+- Resolved — Kiln/firing included?: Projects kiln-fired after visit; workshop price included in project cost.
 - Shipping cost if offered
 - Tax or fee considerations
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
-- Minimum participants
+- Individual participation supported; group-specific minimum charges remain open.
 - Ideal participants
 - Maximum participants
 - Maximum group size by age
@@ -266,30 +274,30 @@ Owner-confirmed core pricing and duration as of 2026-10-13.
 - Material prep capacity
 - Pickup tracking capacity
 
-### Duration Details Needed
+### Duration Details — Resolved Answers and Remaining Questions
 
-- Standard workshop length
+- Resolved — Standard workshop length: Average 1–1.5 hours, at own pace.
 - Setup time
 - Cleanup time
 - Time by project type
-- Kiln firing timeline
-- Pickup timeline
+- Resolved — Kiln firing timeline: Typical processing 1–2 weeks.
+- Resolved — Pickup timeline: Typically 1–2 weeks.
 
-### Age Limits Needed
+### Age Limits — Resolved Answers and Remaining Questions
 
-- Minimum age
+- Resolved — Minimum age: Sign: all ages; earlier guidance approximately 5+, help through age 7; cutting 10+ with supervision.
 - Best child age range
 - Best adult age range
 - Parent/chaperone requirements
 - Mixed-age guidance
 
-### Pickup Details Needed
+### Pickup Details — Resolved Answers and Remaining Questions
 
-- Required pickup?
-- Standard ready date
+- Later pickup or shipping required after kiln processing.
+- Typical processing 1–2 weeks; exact ready date varies.
 - Labeling process
 - Notification method
-- Shipping option
+- Resolved — Shipping option: Nationwide shipping with tracking.
 
 ### Profitability Notes
 
@@ -319,53 +327,53 @@ Owner-confirmed core pricing and duration as of 2026-10-13.
 - Young children can participate with parent support; around age 7 fuller participation is generally possible.
 - The owner-supplied Flame Your Own project catalog is structured in `FLAME_IT_FYO_PRICE_CATALOG.md`; confirm separately whether that photographed menu is the full current catalog.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
 - Price per person
 - Price per session
-- Project-based price differences
+- Resolved — Project-based price differences: Exact listed projects in FLAME_IT_FYO_PRICE_CATALOG.md.
 - Couple/small group pricing
 - Private session pricing
 - Material costs
 - Cooling/pickup included?
 - Add-on pricing if any
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
-- Minimum participants
+- Resolved — Minimum participants: 1; one-on-one with Mark.
 - Ideal participants
-- Maximum participants at once
+- Resolved — Maximum participants at once: One-on-one torch work; observer limits remain open.
 - Maximum participants per day
-- Artist time required
+- Resolved — Artist time required: Direct Mark guidance, about 30–40 min/person/project.
 - Safety limitations
 - Observer limitations
 - Best format: individual, couple, or small group
 - Activities that scale well
 - Activities that do not scale well
 
-### Duration Details Needed
+### Duration Details — Resolved Answers and Remaining Questions
 
-- Standard session length
-- Time per participant
+- Resolved — Standard session length: Approximately 30–40 min/person/project.
+- Resolved — Time per participant: Approximately 30–40 min/project.
 - Setup time
 - Cleanup time
-- Cooling time
+- Resolved — Cooling time: Annealed overnight.
 - Total calendar block needed
 
-### Age Limits Needed
+### Age Limits — Resolved Answers and Remaining Questions
 
-- Minimum age
+- Resolved — Minimum age: Sign: ages 5+; parent support for young children.
 - Adult-only activities
 - Teen suitability
-- Child suitability
+- Resolved — Child suitability: Young children with parent support; fuller participation around age 7.
 - Parent/chaperone expectations
-- Safety language needed
+- Resolved — Safety language needed: Didymium glasses; remove watches/bracelets or safely secure non-removable bracelets.
 
-### Pickup Details Needed
+### Pickup Details — Resolved Answers and Remaining Questions
 
-- Same-day pickup?
-- Cooling timeline
-- Pickup timeline
+- Resolved — Same-day pickup?: Usually next day after overnight annealing.
+- Resolved — Cooling timeline: Overnight annealing.
+- Resolved — Pickup timeline: Usually next day after about 11 a.m..
 - Shipping option
 
 ### Profitability Notes
@@ -393,34 +401,34 @@ Core structure owner-confirmed as of 2026-10-15.
 - Typical guided-tour duration is 1–2 hours, with additional time depending on the selected hands-on activity.
 - Final date and logistics are confirmed by phone.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
-- Student price
-- Group price
+- Resolved — Student price: Standard tour table: $11.50 tour-only; tour + activity $32 sun catcher, $27 magnet/pendant, before group discounts.
+- Standard tour pricing/discounts apply; any separate school/nonprofit exception remains open.
 - Minimum group charge
-- Chaperone pricing
-- Teacher pricing
+- Resolved — Chaperone pricing: Free.
+- Resolved — Teacher pricing: Free.
 - School/nonprofit pricing
 - Deposit requirements
 - Balance due timing
-- Add-on activity pricing
+- Resolved — Add-on activity pricing: Tour + activity base prices above.
 - Invoice/payment options if applicable
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
-- Minimum student count
+- Resolved — Minimum student count: Standard group range 10–100; grade-specific exceptions require review.
 - Ideal student count
-- Maximum student count
-- Chaperone ratio
+- Resolved — Maximum student count: Standard group range 10–100; grade-specific capacity remains open.
+- Resolved — Chaperone ratio: Minimum 1 per 10 participants.
 - Maximum chaperones
 - Grade-level capacity differences
 - Space limits
 - Staff limits
 - Parking/bus considerations
 
-### Duration Details Needed
+### Duration Details — Resolved Answers and Remaining Questions
 
-- Standard field trip length
+- Resolved — Standard field trip length: Typical tour 1–2 hours depending on group/activity.
 - Setup time
 - Cleanup time
 - Educational talk length
@@ -429,22 +437,22 @@ Core structure owner-confirmed as of 2026-10-15.
 - Q&A time
 - Bus arrival/departure buffer
 
-### Age / Grade Details Needed
+### Age / Grade Details — Resolved Answers and Remaining Questions
 
 - Minimum grade level
 - Best grade levels
 - Mixed-grade rules
 - Activities by age
 - Safety language
-- Chaperone requirements
+- Resolved — Chaperone requirements: Minimum 1 per 10; teachers/chaperones free.
 
-### Pickup Details Needed
+### Pickup Details — Resolved Answers and Remaining Questions
 
-- Do student projects need pickup?
+- Fused student projects require later pickup or shipping after 1–2 weeks processing.
 - Group pickup process
 - Teacher pickup process
 - Labeling process
-- Shipping option if any
+- Resolved — Shipping option if any: Nationwide shipping available; organizer arrangements and charges open.
 
 ### Profitability Notes
 
@@ -469,7 +477,7 @@ Active / by arrangement.
 - Guests may bring their own food and drink, with event details confirmed by phone.
 - Final pricing depends on the selected activity and group configuration.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
 - Base event price
 - Price per person
@@ -483,7 +491,7 @@ Active / by arrangement.
 - Setup/cleanup fee if any
 - Private rental fee if any
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
 - Minimum group size
 - Ideal group size
@@ -494,7 +502,7 @@ Active / by arrangement.
 - Food/drink space limitations
 - Staff needed
 
-### Duration Details Needed
+### Duration Details — Resolved Answers and Remaining Questions
 
 - Standard event length
 - Setup time
@@ -503,14 +511,14 @@ Active / by arrangement.
 - Buffer time
 - Private event calendar block
 
-### Age Limits Needed
+### Age Limits — Resolved Answers and Remaining Questions
 
 - Birthday age limits
 - Adult event suitability
 - Mixed-age group guidance
 - Chaperone expectations
 
-### Pickup Details Needed
+### Pickup Details — Resolved Answers and Remaining Questions
 
 - Pickup required by activity
 - Group pickup process
@@ -530,9 +538,9 @@ To be decided.
 
 ### Current Status
 
-Needs owner confirmation.
+Active / by arrangement using existing activities; no separate prebuilt package. BYO food/drink with phone confirmation. Price, age and pickup follow the selected activity; event-specific fees and logistics remain open.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
 - Birthday package price if any
 - Price per child
@@ -542,23 +550,23 @@ Needs owner confirmation.
 - Add-ons
 - Food/drink policy cost if any
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
-- Minimum participants
+- Individual participation supported; group-specific minimum charges remain open.
 - Ideal participants
 - Maximum participants
 - Parent/chaperone count
 - Best age range
 - Space limitations
 
-### Duration Details Needed
+### Duration Details — Resolved Answers and Remaining Questions
 
 - Standard party length
 - Activity time
 - Setup/cleanup time
 - Pickup timeline if applicable
 
-### Age Limits Needed
+### Age Limits — Resolved Answers and Remaining Questions
 
 - Minimum birthday age
 - Best birthday age ranges
@@ -583,22 +591,22 @@ Owner-confirmed/public-site structure as of 2026-10-15.
 - There is no separate demonstration-only group package currently documented outside the tour structure.
 - Use guided-tour pricing for organized group demonstration visits.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
-- Free, paid, or included?
-- Demo-only price
-- Group demo price
-- Add-on demo price
+- Resolved — Free, paid, or included?: Free individual viewing; organized demonstrations included in scheduled tour.
+- Resolved — Demo-only price: No separate organized demonstration-only package documented.
+- Resolved — Group demo price: Use guided-tour pricing.
+- Resolved — Add-on demo price: Included in guided tour structure.
 - Minimum charge if any
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
 - Maximum observers
 - Best group size
 - Space/safety limits
 - Staff needed
 
-### Duration Details Needed
+### Duration Details — Resolved Answers and Remaining Questions
 
 - Standard demo length
 - Setup time
@@ -625,7 +633,7 @@ Seasonal / scheduled. No classes are currently scheduled.
 - Maximum capacity is determined for each class.
 - Holiday and seasonal classes will be posted on the website Classes page.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
 - One-day class price
 - Two-day class price
@@ -636,17 +644,17 @@ Seasonal / scheduled. No classes are currently scheduled.
 - Deposit/payment requirements
 - Refund/cancellation policy
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
-- Minimum enrollment
+- Resolved — Minimum enrollment: About six or more generally needed to justify running.
 - Ideal enrollment
-- Maximum enrollment
+- Resolved — Maximum enrollment: Set per class; publish with scheduled offering.
 - Skill-level limits
 - Safety limits
 - Tools/station limits
 - Staff/instructor limits
 
-### Duration Details Needed
+### Duration Details — Resolved Answers and Remaining Questions
 
 - One-day class length
 - Two-day class schedule
@@ -654,7 +662,7 @@ Seasonal / scheduled. No classes are currently scheduled.
 - Evening class length
 - Weekend class length
 
-### Age Limits Needed
+### Age Limits — Resolved Answers and Remaining Questions
 
 - Adult classes only?
 - Teen classes?
@@ -684,11 +692,11 @@ Inquiry-based / owner review required.
 - Difficulty and deadline materially affect final pricing.
 - Echo Voice should collect project basics, then refer the customer to Mark for phone or Zoom consultation.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
-- Minimum custom order amount
-- Quote process
-- Deposit percentage
+- Resolved — Minimum custom order amount: No universal minimum; awards start at $450.
+- Resolved — Quote process: Collect project basics; Mark consults by phone, Zoom or appointment.
+- Resolved — Deposit percentage: Typically 50% down or full payment depending on commission/cost.
 - Balance due timing
 - Rush fee if any
 - Repair evaluation fee if any
@@ -696,7 +704,7 @@ Inquiry-based / owner review required.
 - Design/revision cost if any
 - Price range examples if appropriate
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
 - How many custom requests can be handled per month?
 - What types of work are worth accepting?
@@ -704,7 +712,7 @@ Inquiry-based / owner review required.
 - Seasonal limits
 - Deadline limits
 
-### Timeline Details Needed
+### Timeline Details — Resolved Answers and Remaining Questions
 
 - Standard quote response time
 - Standard production timeline
@@ -721,9 +729,9 @@ Likely inquiry-based or starting-at only.
 
 ### Current Status
 
-Needs owner confirmation.
+Active. Artwork made on premises by Mark and team; in-store, online and phone purchases; major cards accepted; nationwide shipping.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
 - Product categories
 - Price ranges
@@ -732,9 +740,9 @@ Needs owner confirmation.
 - Gift items
 - Ornament prices
 - Higher-end art prices
-- Online sales possibility
+- Resolved — Online sales possibility: Purchases available in store, online or by phone.
 - Shipping pricing
-- Gift certificate connection
+- Resolved — Gift certificate connection: Certificates redeemable for gallery purchases.
 
 ### Public Pricing Recommendation
 
@@ -754,18 +762,18 @@ Active / evaluated case-by-case.
 - Pricing starts at $50 and increases with difficulty.
 - Some items cannot be repaired and must be declined after evaluation.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
-- Are repairs accepted?
-- Minimum repair charge
+- Resolved — Are repairs accepted?: Yes, evaluated case-by-case.
+- Resolved — Minimum repair charge: $50 starting price.
 - Evaluation fee
-- Photo required before quote?
+- Resolved — Photo required before quote?: Photos by text/email or in-person evaluation supported.
 - Deposit policy
 - Accepted repair types
 - Declined repair types
 - Repair timeline
 
-### Capacity Details Needed
+### Capacity Details — Resolved Answers and Remaining Questions
 
 - How many repairs can be accepted?
 - Which repairs are profitable?
@@ -793,20 +801,20 @@ Active.
 - Customer pays any amount above the remaining certificate balance.
 - Certificates can be used for activities, projects, or gallery purchases.
 
-### Pricing Details Needed
+### Pricing Details — Resolved Answers and Remaining Questions
 
-- Available amounts
+- Resolved — Available amounts: Common $50/$100/$150/$200/$250; custom amounts remain open.
 - Custom amounts
 - Physical or digital
-- Redemption rules
-- Expiration policy
-- Purchase method
+- Resolved — Redemption rules: Activities/projects/gallery; balance retained, customer pays difference.
+- Resolved — Expiration policy: No expiration.
+- Resolved — Purchase method: Phone/email/in person; website planned.
 - Tracking method
 - Refund policy
 
 ### Public Pricing Recommendation
 
-To be decided after availability is confirmed.
+Available now by phone/email/in person. Common amounts and redemption rules above can inform copy; website purchase is planned.
 
 ---
 
@@ -904,7 +912,7 @@ Pricing and capacity details should eventually influence CRM fields such as:
 
 ## 22. Automation Implications
 
-Automation should not send pricing, deposits, confirmations, or pickup details until this model is owner-confirmed.
+Automation may use resolved facts above, with catalog/range caveats. Do not promise availability, apply a deposit to an unconfirmed booking type, or resolve policy exceptions without staff review.
 
 Future automations may use this model for:
 
@@ -936,23 +944,9 @@ Google Business Profile, Bing Places, Apple Business Connect, and other listings
 
 ## 24. Current Gaps
 
-Core pricing, age, duration, pickup, deposit, cancellation, and tour-capacity information was partially resolved by owner review on 2026-10-13.
+Owner reviews through 2026-10-15 resolved core pricing, tour capacity, field-trip/chaperone rules, demonstrations, repairs, custom deposit/consultation and gift certificates. Exact photographed catalogs are available.
 
-Still needing confirmation or structured detail:
-
-- Exact fused-glass project catalog and per-project price list
-- Flame Your Own/FYO photographed catalog is captured; confirm whether additional current FYO projects exist outside that menu
-- Ideal/max fused-glass capacity outside tour configurations
-- Maximum torch throughput per day / staffing constraints
-- Field-trip-specific pricing and chaperone rules
-- Demonstration-only pricing and capacity
-- Birthday/private-event setup, cleanup, and any minimum charge
-- Class pricing, enrollment limits, and schedules
-- Custom commission quote/deposit rules and lead times
-- Repair pricing/policy
-- Gift certificate pricing/rules
-- Exact public pricing strategy by offer
-- Exact offer profitability and owner-time burden
+Remaining: catalog completeness/range clarification; public workshop capacity and torch throughput/observers; setup/cleanup and calendar buffers; activity-specific deposit applicability, balance due, fees/tax/shipping; class-specific details when scheduled; prototype/rush/revision charges; repair exclusions and timing; certificate tracking/custom amounts/refunds; profitability and final public pricing presentation.
 
 ---
 
