@@ -627,6 +627,33 @@ Authority: OWNER_CONFIRMED + OWNER_SUPPLIED_PHOTO
 Confidence: HIGH
 Direct answer: YES
 
+
+### FLAME IT / Flame Your Own / FYO Catalog
+
+EV-093
+Fact: "FLAME IT," "Flame Your Own," "FYO," and "flame-your-own" are equivalent customer-facing names for the hands-on torch/flameworking experience.
+Authority: OWNER_CONFIRMED
+Confidence: HIGH
+Direct answer: YES
+
+EV-094
+Fact: Use FLAME_IT_FYO_PRICE_CATALOG.md as the project-by-project quick-reference source for the owner-supplied Flame Your Own menu.
+Authority: OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
+
+EV-095
+Fact: The photographed Flame Your Own sign says customers work one-on-one with Mark and do approximately 90% of the work.
+Authority: OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
+
+EV-096
+Fact: The photographed Flame Your Own sign says the experience is for ages 5 and up.
+Authority: OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
+
 ## Inquiry Data to Collect
 
 For ordinary activity inquiries:
