@@ -96,6 +96,13 @@ An answer may move from this queue into the approved knowledge base only when:
 3. the answer is labeled with source, date verified, confidence, and escalation behavior.
 
 
+## Newly Resolved From Owner-Supplied FLAME IT / FYO Sign
+
+- "FLAME IT," "Flame Your Own," "FYO," and "flame-your-own" are equivalent names for the hands-on torch experience.
+- Exact photographed project tiers and prices are captured in `FLAME_IT_FYO_PRICE_CATALOG.md`.
+- The sign states customers work one-on-one with Mark and do approximately 90% of the work.
+- The sign states ages 5 and up.
+
 ## Website Correction Queue
 
 These are not unresolved owner questions; they are known public-site mismatches that should be corrected during the website rebuild/update.
