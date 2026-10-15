@@ -317,7 +317,7 @@ Owner-confirmed core pricing and duration as of 2026-10-13.
 - Walk-in participation may be available, but advance booking is preferred.
 - Projects are annealed overnight and are usually ready the next day, generally after about 11:00 a.m.
 - Young children can participate with parent support; around age 7 fuller participation is generally possible.
-- Exact project catalog and per-project pricing still need to be structured.
+- The owner-supplied Flame Your Own project catalog is structured in `FLAME_IT_FYO_PRICE_CATALOG.md`; confirm separately whether that photographed menu is the full current catalog.
 
 ### Pricing Details Needed
 
@@ -941,7 +941,7 @@ Core pricing, age, duration, pickup, deposit, cancellation, and tour-capacity in
 Still needing confirmation or structured detail:
 
 - Exact fused-glass project catalog and per-project price list
-- Exact torch project catalog and per-project price list
+- Flame Your Own/FYO photographed catalog is captured; confirm whether additional current FYO projects exist outside that menu
 - Ideal/max fused-glass capacity outside tour configurations
 - Maximum torch throughput per day / staffing constraints
 - Field-trip-specific pricing and chaperone rules
