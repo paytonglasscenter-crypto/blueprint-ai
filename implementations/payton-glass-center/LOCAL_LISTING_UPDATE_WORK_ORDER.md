@@ -155,18 +155,18 @@ Examples:
 
 ## 6. Master Business Data Required Before Updates
 
-Before making listing updates, confirm:
+Owner-confirmed business data below is ready for preparation; platform access, existing public values, photos and publication remain unverified:
 
 | Field | Confirmed? | Correct Value |
 |---|---|---|
-| Business name | TBD | TBD |
-| Address | TBD | TBD |
-| Phone | TBD | TBD |
+| Business name | Owner confirmed 2026-10-15 | Payton Glass Center |
+| Address | Owner confirmed 2026-10-15 | 815 West Market Street, Louisville, KY 40202 |
+| Phone | Owner confirmed 2026-10-15 | 502-992-3270 |
 | Website URL | TBD | TBD |
-| Hours | TBD | TBD |
-| Appointment policy | TBD | TBD |
+| Hours | Owner confirmed 2026-10-15 | Mon–Fri 10–4; Sat 10–5; Sunday confirmed appointment |
+| Appointment policy | Owner confirmed 2026-10-15 | Gallery visits welcome; fused walk-in by space; torch advance booking preferred; tours final phone confirmation |
 | Primary description | TBD | TBD |
-| Active offers | TBD | TBD |
+| Active offers | Owner confirmed 2026-10-15 | See CURRENT_OFFER_DETAILS.md; classes seasonal, none scheduled |
 | Photos approved | TBD | TBD |
 
 Do not update public listings until these core facts are confirmed.

@@ -40,8 +40,8 @@ The following are no longer open questions:
 
 ## Priority A — Needed Before Echo Voice Handles These Independently
 
-1. Exact fused-glass project catalog and price for each project.
-2. Exact torch project catalog and price for each project.
+1. Whether projects beyond FUSE_IT_PRICE_CATALOG.md explain the earlier broader $32–$350 range; listed exact prices and clear/colored base convention are resolved.
+2. Whether projects beyond FLAME_IT_FYO_PRICE_CATALOG.md explain the earlier broader $58–$158 range; listed exact prices and aliases are resolved.
 3. Exact class-by-class catalog, dates, prices, age rules, techniques, and maximum enrollment when classes are scheduled.
 4. Exact custom-commission rules for prototype charges, rush work, revisions, and unusual payment structures.
 5. Exact alcohol-specific rules, if any, within the bring-your-own-drink policy.
@@ -50,6 +50,8 @@ The following are no longer open questions:
 8. Which call types must always transfer immediately to Mark or an assistant.
 9. Whether gift certificates can be issued in custom dollar amounts beyond the common amounts and how they are tracked internally.
 10. Exact repair categories, if any, that should be declined automatically before evaluation.
+
+Additional source-clarification questions: FUSE IT! sign says all ages versus earlier approximately age 5 guidance (cutting remains 10+ supervised); half-hour torch slots versus 30–40 minute project time; whether pickup always follows public hours (earlier derivative says public hours unless arranged).
 
 ## Priority B — Useful for Better Routing and Sales
 

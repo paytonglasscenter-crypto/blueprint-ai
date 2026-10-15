@@ -9,6 +9,10 @@ Depends On: WEBSITE_STRATEGY.md, WEBSITE_PAGE_MAP.md, WEBSITE_COPY_DRAFTS.md, IN
 
 ---
 
+## Reconciliation note — 2026-10-15
+
+The page checklists below describe required content, not a fresh unanswered intake. Core identity, contacts, hours, parking/accessibility, active offers, exact photographed catalogs, tour/field-trip pricing/supervision, pickup timing, repairs, commissions and gift certificates are resolved in OWNER_DATA_COMPLETION_WORKSHEET.md. Use its remaining decisions before asking for more owner data. Platform access and build completion are not established by this documentation pass.
+
 ## 1. Purpose
 
 This document defines the recommended first build scope for Payton Glass Center.
@@ -149,7 +153,7 @@ Secondary CTA:
 
 Explore Glass Experiences
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Final address
 - Hours
@@ -181,7 +185,7 @@ Primary CTA:
 
 Request a Group Tour
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Minimum group size
 - Maximum group size
@@ -217,7 +221,7 @@ Primary CTA:
 
 Send Request
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Form recipient
 - Public email
@@ -248,7 +252,7 @@ Primary CTA:
 
 Ask About Fused Glass Workshops
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Current project options
 - Pricing
@@ -280,7 +284,7 @@ Primary CTA:
 
 Ask About Hands-On Experiences
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Current project options
 - Pricing
@@ -306,14 +310,14 @@ Must include:
 - Group planning details
 - Hands-on activity mention
 - Teacher/group organizer CTA
-- Safety and chaperone placeholder
+- Safety guidance by activity; free teachers/chaperones, minimum one per 10 participants
 - Field trip FAQ
 
 Primary CTA:
 
 Plan a Field Trip
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Grade levels served
 - Group size limits
@@ -338,15 +342,15 @@ Must include:
 - Who it is for
 - Activity options
 - Group inquiry CTA
-- Food/drink policy placeholder
-- Capacity placeholder
+- BYO food/drink with phone confirmation; alcohol-specific rules remain open
+- Activity-specific capacity; event-specific limits remain open
 - Photos if available
 
 Primary CTA:
 
 Request a Private Event
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Event types accepted
 - Birthday policy
@@ -383,7 +387,7 @@ Must include questions about:
 - Age limits
 - Contact/booking
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Exact appointment policy
 - Pickup timeline
@@ -413,7 +417,7 @@ Must include:
 - Contact details
 - Exterior/interior photos
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Exact address
 - Hours
@@ -440,7 +444,7 @@ Must include:
 - CTA to visit or inquire
 - Photo grid
 
-Owner data needed:
+Owner data review (resolved facts are in CURRENT_OFFER_DETAILS.md and the price catalogs; only remaining exceptions need answers):
 
 - Product categories
 - Price ranges if public

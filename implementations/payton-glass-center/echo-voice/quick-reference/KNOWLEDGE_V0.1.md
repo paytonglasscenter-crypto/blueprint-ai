@@ -5,6 +5,10 @@ Owner authority: Mark Payton
 Created: 2026-10-13
 Purpose: Fast retrieval for common customer questions without rereading the full Blueprint AI repository.
 
+## Current Source Note — 2026-10-15
+
+This earlier derivative is supplemented by `../../ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-053–096) and the exact `../../FUSE_IT_PRICE_CATALOG.md` and `../../FLAME_IT_FYO_PRICE_CATALOG.md`. Use those for newer field-trip, accessibility, repair, custom, class, certificate and contact facts. Exact listed projects override generic ranges for that project; catalog completeness and range/age wording remain open in the maintained question queue. The pickup-hours statement below is earlier guidance; whether it always applies remains open. Half-hour scheduling is not a promise that a 30–40 minute project finishes in 30 minutes.
+
 ## Governance
 
 1. Owner-confirmed facts outrank older draft placeholders.

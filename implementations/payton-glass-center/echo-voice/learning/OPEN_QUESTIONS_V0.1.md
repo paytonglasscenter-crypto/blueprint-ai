@@ -5,28 +5,13 @@ Created: 2026-10-13
 
 These items are not approved facts. Echo Voice should not guess answers. Questions encountered in live conversations should be added to the daily owner-review process.
 
-## High-Priority Remaining Questions
+## Current Queue — reconciled 2026-10-15
 
-1. What are the exact fused-glass project names and exact price for each?
-2. What is the ideal and maximum fused-glass workshop capacity when it is not part of a large group-tour configuration?
-3. What are the exact torch project choices and the exact price for each project?
-4. What is the maximum number of torch participants/projects Mark wants scheduled per day?
-5. Do field trips use exactly the same $11.50 tour pricing and group discounts as other tours, or are there school-specific prices?
-6. Are teachers/chaperones charged on field trips? If so, at what rate?
-7. Is there a required chaperone ratio for school/youth groups?
-8. Are demonstration-only visits available? If yes, what do they cost and what size group can attend?
-9. For birthdays/private events, are there setup/cleanup time limits or fees?
-10. Are there any restrictions on the kinds of food or drink customers may bring?
-11. Are alcoholic beverages included in "bring your own drink," and if so are there age, service, or event restrictions?
-12. What active day/evening classes are currently offered, with exact dates, duration, price, age limits, and enrollment limits?
-13. For custom commissions, what deposit is required and when is final payment due?
-14. What lead-time range should Echo Voice quote for custom commissions, if any?
-15. Does Payton Glass Center accept repairs? Which types should be accepted or declined?
-16. Are gift certificates currently available? Physical, digital, or both? What are the redemption/expiration rules?
-17. What accessibility details should Echo Voice give about entrance, restrooms, seating, wheelchairs/mobility devices, and activity stations?
-18. What exact public wording should be used for customers who disclose physical, developmental, or other accommodation needs?
-19. What is the primary public email address Echo Voice should provide?
-20. When should an inquiry go to the business phone versus Mark's cell versus an assistant?
+Use `../../ECHO_VOICE_OPEN_QUESTIONS.md` as the maintained owner-review queue. Its resolved section and `../../ECHO_VOICE_KNOWLEDGE_V0.1.md` supersede this older seed list.
+
+Resolved since this seed: exact photographed catalogs, standard field-trip tour pricing, free teachers/chaperones and 1:10 minimum supervision, free individual artist viewing versus guided group tours, custom deposit and production-start guidance, repair evaluation/$50 starting price, certificate availability/redemption/no expiry, core accessibility and public email.
+
+Remaining: catalog completeness/ranges, public workshop capacity, torch throughput/observers, event setup/cleanup and alcohol rules, class-specific offerings when scheduled, custom final payment/rush/prototype detail, repair exclusions, certificate format/tracking/custom amounts, and transfer/callback permissions. See the maintained queue for detail.
 
 ## Daily Learning Rule
 

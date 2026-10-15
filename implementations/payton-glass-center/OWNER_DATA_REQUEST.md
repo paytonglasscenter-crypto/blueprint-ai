@@ -1,5 +1,7 @@
 # Payton Glass Center Owner Data Request
 
+> Historical intake/checklist retained as written. Status as of 2026-10-15: many questions below are resolved. Use OWNER_DATA_COMPLETION_WORKSHEET.md, CURRENT_OFFER_DETAILS.md, PRICING_AND_CAPACITY_MODEL.md, and ECHO_VOICE_OPEN_QUESTIONS.md for current completion status; do not reopen answered prompts from this historical list.
+
 Status: Draft
 Blueprint AI Phase: Implementation Phase 2.1
 Business: Payton Glass Center

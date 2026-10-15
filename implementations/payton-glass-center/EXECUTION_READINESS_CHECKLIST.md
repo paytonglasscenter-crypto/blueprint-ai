@@ -83,15 +83,15 @@ Could create confusion, operational problems, or unnecessary complexity if built
 |---|---|---|---|
 | Business identity copy | Ready to Build | Core positioning is clear | Use draft copy, verify exact NAP before launch |
 | Homepage structure | Ready to Build | Page strategy and draft copy exist | Build after platform decision |
-| Group Tours page | Needs Owner Data | Core strategy exists, details missing | Confirm price, size, duration, activity options |
-| Fused Glass page | Needs Owner Data | Draft copy exists, project details missing | Confirm projects, price, age, pickup |
-| Hands-On Experiences page | Needs Owner Data | Draft copy exists, safety/details missing | Confirm age, safety, pricing, capacity |
-| Field Trips page | Needs Owner Data | Draft copy exists, school details missing | Confirm grade levels, chaperones, pricing |
-| Private Events page | Needs Owner Data | Draft copy exists, event rules missing | Confirm accepted events, food/drink, pricing |
+| Group Tours page | Ready for factual draft; final review remains | Core facts documented | Use 10–100, $11.50, 1–2 hours and catalog activity prices; finalize logistics |
+| Fused Glass page | Ready for factual draft; final review remains | Catalog and timing documented | Use catalog and age caveat; confirm public capacity |
+| Hands-On Experiences page | Ready for factual draft; final review remains | Catalog, safety and timing documented | Use FYO catalog; confirm throughput/observers and range wording |
+| Field Trips page | Ready for factual draft; final review remains | Standard pricing and supervision documented | Confirm grade-specific detail and organizer logistics |
+| Private Events page | Ready for factual draft; final review remains | Existing activities and BYO policy documented | Confirm setup/cleanup, capacity, fees and alcohol rules |
 | Classes page | Should Wait | Future opportunity, not fully active | Use interest-list language only |
 | Custom Glass page | Needs Owner Data | Policy and accepted work unclear | Confirm accepted/declined custom work |
-| Visit page | Needs Owner Data | Address/hours/parking must be exact | Confirm location details |
-| FAQ page | Needs Owner Data | Structure ready, factual answers need confirmation | Fill owner-confirmed answers |
+| Visit page | Ready for factual draft; final review remains | Identity, hours, parking and access documented | Use current confirmed facts; finalize media/pickup exceptions |
+| FAQ page | Ready for factual draft; final review remains | Owner-confirmed answers available | Use current knowledge/catalogs; retain genuine open items |
 | Contact page | Needs Platform Decision | Form model exists, tool not chosen | Choose form destination |
 | Inquiry form | Needs Platform Decision | Fields defined, system not selected | Choose email/sheet/Airtable/CRM path |
 | CRM | Should Wait | Field model exists, tool not chosen | Start after inquiry workflow is tested |
@@ -179,93 +179,23 @@ Automation should not be built yet, but the trigger model is documented.
 
 ---
 
-## 6. Needs Owner Data Before Launch
+## 6. Owner Data Status — reconciled 2026-10-15
 
-These items can be drafted but should not be finalized or published until Mark confirms details.
+Core identity, public contacts, hours, parking, accessibility, active offers, photographed project catalogs, tour/field-trip pricing and supervision, pickup timing, repair starting price, commission deposit/consultation, certificates and cancellation rules are documented. Use CURRENT_OFFER_DETAILS.md, PRICING_AND_CAPACITY_MODEL.md and OWNER_DATA_COMPLETION_WORKSHEET.md rather than the former unanswered intake lists here.
 
-### 6.1 Business Details
+Remaining launch decisions:
 
-Needs confirmation:
+- Final domain/URL choice and verified account/platform access; form routing and delivery verification.
+- Holiday hours and case-specific accommodation wording.
+- Catalog completeness and generic range/age wording; exact public workshop capacity and torch daily throughput/observer limits.
+- Activity-specific deposit applicability, balance due, tax/fees, shipping charges, pickup labeling/notification and pickup-hour exceptions.
+- Event setup/cleanup, minimum fees, supervision/time blocks and alcohol-specific restrictions.
+- Grade/curriculum detail and bus/organizer logistics beyond resolved standard field-trip rules.
+- Next class-specific dates, prices, maximum capacity and age/skill rules; no classes currently scheduled.
+- Detailed custom exclusions, prototype/rush/revision fees, delivery promises; repair exclusions/timelines; certificate tracking/format/custom amounts/refunds.
+- Final promotion order, approved images/permissions and testimonials; callback/transfer/refund authority before automation.
 
-- Exact business name
-- Exact address
-- Public phone
-- Public email
-- Current website URL
-- Preferred future website URL
-- Hours
-- Holiday hours
-- Walk-in policy
-- Appointment policy
-- Parking
-- Accessibility details
-
-### 6.2 Offer Details
-
-Needs confirmation:
-
-- Active offers
-- Limited/by-request offers
-- Future/planned offers
-- Retired or not-promoted offers
-- Best offer names
-- Most profitable offers
-- Offers that should be emphasized first
-
-### 6.3 Pricing
-
-Needs confirmation:
-
-- Price per person
-- Price per project
-- Group tour pricing
-- Field trip pricing
-- Private event pricing
-- Minimum charges
-- Deposits
-- Balance due timing
-- Public vs inquiry-based pricing
-
-### 6.4 Capacity
-
-Needs confirmation:
-
-- Minimum group size
-- Ideal group size
-- Maximum group size
-- Maximum daily capacity
-- Staff limits
-- Space limits
-- Parking limits
-- Kiln/cooling limits
-- Torch/activity limits
-
-### 6.5 Age Limits
-
-Needs confirmation:
-
-- Fused glass age limits
-- Torch experience age limits
-- Group tour age limits
-- Field trip grade levels
-- Birthday/private event age guidance
-- Chaperone requirements
-
-### 6.6 Policies
-
-Needs confirmation:
-
-- Booking policy
-- Deposit policy
-- Cancellation policy
-- Rescheduling policy
-- Refund policy
-- Late arrival policy
-- Pickup policy
-- Food/drink policy
-- Safety policy
-- Photo/video permission policy
-- Repair/custom glass policy
+These are documentation and implementation gates, not evidence of live deployment.
 
 ---
 

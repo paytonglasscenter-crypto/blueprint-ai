@@ -200,11 +200,11 @@ NAP means name, address, and phone.
 
 | Field | Current Value | Correct Value | Recommendation | Priority | Status |
 |---|---|---|---|---|---|
-| Business Name | TBD | TBD | TBD | TBD | Proposed |
-| Address | TBD | TBD | TBD | TBD | Proposed |
-| Phone | TBD | TBD | TBD | TBD | Proposed |
+| Business Name | Not reverified | Payton Glass Center | Align after platform audit | High | Prepared; not published |
+| Address | Not reverified | 815 West Market Street, Louisville, KY 40202 | Align after platform audit | High | Prepared; not published |
+| Phone | Not reverified | 502-992-3270 | Align after platform audit | High | Prepared; not published |
 | Website | TBD | TBD | TBD | TBD | Proposed |
-| Hours | TBD | TBD | TBD | TBD | Proposed |
+| Hours | Not reverified | Mon–Fri 10–4; Sat 10–5; Sunday confirmed appointment | Align after platform audit | High | Prepared; not published |
 
 ### Notes
 
