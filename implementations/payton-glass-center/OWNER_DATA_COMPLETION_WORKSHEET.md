@@ -1,6 +1,6 @@
 # Payton Glass Center Owner Data Completion Worksheet
 
-Status: Draft
+Status: Reconciled status register — 2026-10-15
 Blueprint AI Phase: Implementation Phase 3.2
 Business: Payton Glass Center
 Location: Louisville, Kentucky
@@ -64,42 +64,35 @@ This section does not apply to Payton Glass Center.
 
 ---
 
-## 4. Master Completion Tracker
+## 4. Master Completion Tracker — 2026-10-15
 
-| Section | Status | Priority | Notes |
-|---|---|---|---|
-| Business identity | Unknown | Critical | Needed for website and listings |
-| Contact details | Unknown | Critical | Needed for website, forms, listings |
-| Hours and appointment policy | Unknown | Critical | Needed before launch |
-| Active offers | Unknown | Critical | Needed before final copy |
-| Pricing | Unknown | Critical | Needed before public pricing or quoting |
-| Capacity | Unknown | Critical | Needed before booking or inquiry guidance |
-| Age limits | Unknown | Critical | Needed for safety and customer clarity |
-| Group tours | Unknown | Critical | Primary revenue system |
-| Fused glass workshops | Unknown | High | Core offer |
-| Hands-on torch experiences | Unknown | High | Core differentiator |
-| Field trips | Unknown | High | Education/group offer |
-| Private events | Unknown | Medium/High | Group offer |
-| Classes | Unknown | Medium | Future growth path |
-| Custom glass | Unknown | Medium | Professional studio offer |
-| Retail/gifts | Unknown | Medium | Add-on and gallery value |
-| Policies | Unknown | Critical | Needed before automation |
-| Pickup process | Unknown | Critical | Needed for customer expectations |
-| Media inventory | Unknown | High | Needed for website/listings |
-| GBP current state | Unknown | High | Needed before listing updates |
-| Bing current state | Unknown | Medium | Needed before listing updates |
-| Apple current state | Unknown | Medium | Needed before listing updates |
-| Website access | Unknown | Critical | Needed before build |
-| Domain/hosting | Unknown | Critical | Needed before build |
-| Form destination | Unknown | Critical | Needed before inquiry form |
-| CRM first step | Unknown | Medium | Needed after inquiry flow |
-| Automation readiness | Unknown | Low/Medium | Should wait |
+Sources: `ECHO_VOICE_KNOWLEDGE_V0.1.md`, both price catalogs, current offer/pricing models. Complete refers to documented facts, not verified deployment or account access.
 
----
+| Section | Status | Evidence / remaining work |
+|---|---|---|
+| Business identity | Complete | EV-001–004: Payton Glass Center, Mark Payton, 815 West Market Street, Louisville KY 40202 |
+| Contact details | Complete | EV-003,084–087: 502-992-3270; info@PaytonGlassCenter.com; texting; 1–2 day response target. Cell restricted to approved escalation. |
+| Hours and appointment policy | Complete | EV-005,010,015,025,040: Mon–Fri 10–4, Sat 10–5; Sunday confirmed appointment; tours phone-confirmed. |
+| Active offers | Complete | CURRENT_OFFER_DETAILS.md; events/birthdays use existing activities; no classes currently scheduled. |
+| Pricing | Partial | Both exact photographed catalogs captured; broader-range/completeness clarification remains. Tour $11.50, tour/activity $32 or $27 before discounts; repairs $50+; awards $450+. |
+| Capacity | Partial | Tours 10–100; teacher/chaperone minimum 1:10; torch one-on-one. Public workshop maximum, observers and daily throughput open. |
+| Age limits | Partial | FYO sign 5+; FUSE all ages, cutting 10+ supervised; earlier approximately 5+, help through 7. Under-5 wording and class ages open. |
+| Group tours / field trips | Partial | Core pricing, 10–100, 1–2 hours, discounts, free teachers/chaperones and phone confirmation resolved. Grade-specific/logistics exceptions open. |
+| Fused glass workshops | Partial | EV-011–019,088–092 and catalog; 1–1.5 hours activity, 1–2 weeks processing; capacity/logistics open. |
+| Hands-on torch | Partial | EV-020–029,093–096 and catalog; 30–40 min/project, overnight anneal, usually next day after 11; throughput/observers open. |
+| Private events / birthdays | Partial | EV-041–042: existing activities, BYO food/drink, phone confirmation; setup/cleanup, alcohol rules, fees and capacity open. |
+| Classes | Partial | EV-073–077: no current schedule; technique-focused, individually priced, one/multiple nights; about six to run; next offerings require details. |
+| Custom glass / repairs | Partial | EV-063–072: Mark consultation, half/full upfront, possible prototype fee, production start 2–3 weeks out, awards $450+, repairs $50+; detailed exclusions/fees/timelines open. |
+| Retail / gift certificates | Partial | EV-043–047,078–083: store/online/phone artwork, major cards, national shipping; certificates phone/email/in person, no expiry, retained balance. Inventory prices, certificate tracking/custom amounts open. |
+| Policies | Partial | EV-050–052: refund deposit more than 24 hours; within 24 nonrefundable; reschedule available; $30/person only where applicable. Activity-specific deposits and balance due open. |
+| Pickup / shipping | Partial | EV-016–017,026: fused 1–2 weeks, torch usually next day after 11; nationwide tracking. Fees, labeling, notifications and pickup-hour exceptions open. |
+| Accessibility | Complete core facts | EV-057–062: rear ramp, wheelchair movement/shorter tables, seating/routes, special-needs groups. Case-specific accommodation reviewed with staff. |
+| Media inventory | Partial / review needed | PHOTO_VIDEO_INVENTORY.md still needs selected files, rights and approvals; menu photos transcribed into catalogs do not complete website-media selection. |
+| Listings / platform access | Needs verification | Existing listing audits are planning snapshots; owner business answers do not establish current account access or published corrections. |
+| Website / domain / hosting | Needs verification | Separate build/setup plans exist; this reconciliation does not verify access or deployment. |
+| Form destination / CRM | Needs decision / verification | Existing models and first-step decision documents remain design inputs; public email does not prove form delivery or CRM operation. |
+| Automation readiness | Partial | Approved facts available; live availability, deposit applicability, transfer/refund permissions and callback policy still require controls. |
 
-## 5. Business Identity
+## 5. Remaining Owner Decisions and Conflicts
 
-### Completion Status
-
-```text
-Unknown
+See `RECONCILIATION_2026-10-15.md` and `ECHO_VOICE_OPEN_QUESTIONS.md`. Do not repeat resolved intake questions. `OWNER_DATA_REQUEST.md` remains the historical intake.

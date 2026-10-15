@@ -9,6 +9,14 @@ Depends On: WEBSITE_CONTENT_BLUEPRINT.md, WEBSITE_PAGE_MAP.md, CURRENT_OFFER_DET
 
 ---
 
+## Reconciliation — 2026-10-15
+
+Reconciled against owner-confirmed `ECHO_VOICE_KNOWLEDGE_V0.1.md` (EV-001–096), `FUSE_IT_PRICE_CATALOG.md`, and `FLAME_IT_FYO_PRICE_CATALOG.md`. These facts supersede older intake prompts. Remaining questions below are operational or editorial decisions, not requests to reconfirm resolved facts.
+
+Exact photographed projects: FUSE IT! $25–$250 (clear/colored base convention); FYO $44–$98. Earlier broader owner guidance remains approximately $32–$350 for fused glass and $58–$158 for torch. Catalog completeness and the relationship of these ranges require clarification; do not treat either broader lower bound as the cheapest listed project. FUSE IT! sign says projects for all ages, cutting ages 10+ with adult supervision; earlier guidance suggests participation around age 5 and adult help through age 7. Confirm wording for under-5 participation.
+
+Reservations: $30/person only where that deposit applies; activity-specific applicability remains open. Deposit refunded for cancellation more than 24 hours before reservation; within 24 hours nonrefundable. Rescheduling is to a future available time. Custom commissions instead typically use 50% down or full payment, depending on the project.
+
 ## 1. Purpose
 
 This document contains first-draft website copy for Payton Glass Center.
@@ -17,20 +25,7 @@ The copy is based on the Blueprint AI implementation files created so far.
 
 This is not final website copy.
 
-This document intentionally includes placeholders where owner-confirmed information is still needed, including:
-
-- Exact prices
-- Exact active offers
-- Group size limits
-- Age limits
-- Tour duration
-- Workshop duration
-- Pickup timeline
-- Deposit policy
-- Cancellation policy
-- Current hours
-- Booking process
-- Final photos and videos
+Owner-confirmed operating facts and exact photographed catalogs are now incorporated. Remaining copy decisions concern capacity, catalog completeness/ranges, event logistics, scheduled classes, media and final presentation.
 
 The goal is to move from strategy into usable page copy while avoiding unsupported claims.
 
@@ -186,16 +181,11 @@ Before visiting, check current hours, appointment requirements, activity availab
 
 ---
 
-### Home Page Owner Placeholders
+### Home Page Confirmed Facts and Remaining Decisions
 
-- Exact address
-- Current hours
-- Appointment/walk-in policy
-- Primary phone
-- Final homepage hero image/video
-- Final offer order
-- Whether prices appear on home page
-- Current review/testimonial quotes
+Address: 815 West Market Street, Louisville, KY 40202. Phone: 502-992-3270. Hours: Mon–Fri 10–4, Sat 10–5, Sunday by confirmed appointment. Gallery visits welcome; fused-glass walk-ins by space, torch by availability with booking preferred.
+
+Remaining: Hero media, final offer order, homepage price presentation and approved testimonials.
 
 ---
 
@@ -298,18 +288,11 @@ When requesting a group tour, please include:
 
 ---
 
-### Group Tours Owner Placeholders
+### Group Tours Confirmed Facts and Remaining Decisions
 
-- Exact minimum group size
-- Exact maximum group size
-- Ideal group size
-- Standard duration
-- Pricing
-- Deposit policy
-- Cancellation policy
-- Activity options
-- Pickup timeline
-- Final group tour photos/videos
+Private guided glass studio tours serve 10–100 people, typically over 1–2 hours. Tour-only admission is $11.50/person; tour plus fused-glass sun catcher is $32, magnet or pendant $27 before applicable group discounts. Phone confirmation is required. Discounts: 10% for 30–59, 15% for 60–79, 20% for 80+. Fused-glass pieces typically take 1–2 weeks; shipping available. Cancellation/deposit rules are in the reconciliation note above.
+
+Remaining: Ideal group size, deposit applicability, organizer pickup logistics, final tour media.
 
 ---
 
@@ -359,7 +342,7 @@ Fused glass workshops may be a good fit for:
 - Creative beginners
 - People looking for a unique Louisville activity
 
-Owner-confirmed guidance: fused glass is approximately ages 5+, with adults helping children age 7 and younger. Most guests spend about 1–1.5 hours. Project prices range approximately $32–$350, with most projects around $30–$60. Exact project catalog and maximum workshop capacity still need to be structured.
+Owner-confirmed guidance: fused glass is approximately ages 5+, with adults helping children age 7 and younger. Most guests spend about 1–1.5 hours. Project prices range approximately $32–$350, with most projects around $30–$60. Exact photographed projects and clear/colored base prices are in `FUSE_IT_PRICE_CATALOG.md`; public workshop capacity remains open. Listed prices span $25–$250; broader range above is not a minimum-price promise.
 
 ---
 
@@ -379,17 +362,11 @@ It can be part of group tours, field trips, private events, birthday activities,
 
 ---
 
-### Fused Glass Owner Placeholders
+### Fused Glass Confirmed Facts and Remaining Decisions
 
-- Current project options
-- Pricing
-- Minimum age
-- Workshop duration
-- Group capacity
-- Kiln firing timeline
-- Pickup process
-- Shipping option
-- Final fused glass photos/videos
+Create a fused-glass design at your own pace, typically in 1–1.5 hours. Choose a project from `FUSE_IT_PRICE_CATALOG.md`; workshop price is included in project cost. Dual prices mean clear base / colored base. Work is kiln-fired after the visit, typically ready in 1–2 weeks; nationwide shipping with tracking is available. Sign says projects for all ages, cutting 10+ with supervision; earlier guidance approximately 5+, adult help through 7.
+
+Remaining: Capacity, pickup labeling/notification, final media, range/completeness and under-5 wording.
 
 ---
 
@@ -446,7 +423,7 @@ Hands-on glass experiences may be a good fit for:
 - Small groups
 - People looking for a unique date, outing, or activity
 
-Owner-confirmed guidance: torch experiences are premium, beginner-friendly sessions guided directly by Mark Payton. Current pricing is $58–$158, with sessions typically taking about 30–40 minutes per person/project. Young children may participate with parent support, and around age 7 fuller participation is generally possible. Exact project catalog and per-project pricing still need to be structured.
+Owner-confirmed guidance: torch experiences are premium, beginner-friendly sessions guided directly by Mark Payton. Current pricing is $58–$158, with sessions typically taking about 30–40 minutes per person/project. Young children may participate with parent support, and around age 7 fuller participation is generally possible. Exact photographed project prices are in `FLAME_IT_FYO_PRICE_CATALOG.md` ($44–$98); whether additional projects account for the broader range remains open.
 
 ---
 
@@ -456,16 +433,11 @@ Guests are guided directly by a professional artist. Didymium safety glasses are
 
 ---
 
-### Hands-On Experiences Owner Placeholders
+### Hands-On Experiences Confirmed Facts and Remaining Decisions
 
-- Current project options
-- Pricing
-- Minimum age
-- Session length
-- Maximum participants
-- Safety language
-- Cooling/pickup timeline
-- Final torch/flameworking photos/videos
+FLAME IT / Flame Your Own / FYO is a beginner-friendly torch experience one-on-one with Mark. Guests do approximately 90% of the work; the sign states ages 5+. Allow about 30–40 minutes per project. Use `FLAME_IT_FYO_PRICE_CATALOG.md` for exact listed prices. Pieces are annealed overnight, usually ready next day after about 11 a.m. Didymium glasses used; remove watches and bracelets or safely secure non-removable bracelets.
+
+Remaining: Daily throughput/observers, scheduling buffers, catalog completeness/range clarification and final media.
 
 ---
 
@@ -536,17 +508,11 @@ When requesting a field trip, please include:
 
 ---
 
-### Field Trips Owner Placeholders
+### Field Trips Confirmed Facts and Remaining Decisions
 
-- Grade levels served
-- Pricing
-- Group size limits
-- Chaperone requirements
-- Tour duration
-- Activity options
-- Educational topics
-- Pickup process
-- Final field trip photos/videos with permission
+Field trips follow the private guided-tour structure: 10–100 people, approximately 1–2 hours depending on activities, $11.50 tour-only or the documented tour-plus-activity prices. Teachers/chaperones attend free; at least one per 10 participants is required. Confirm dates and logistics by phone. Activity pricing and discounts follow the group-tour table. Fused pieces take 1–2 weeks; shipping available.
+
+Remaining: Grade/curriculum detail, organizer pickup, bus arrangements and permission-cleared media.
 
 ---
 
@@ -602,21 +568,15 @@ Exact event fit depends on group size, age range, schedule, and activity choice.
 
 Private events may include fused glass, demonstrations, hands-on activities, group tours, or other artist-led experiences depending on what is currently available.
 
-Final activity options need owner confirmation before public promotion.
+Use existing tours and hands-on activities; confirm event-specific fit and availability by phone.
 
 ---
 
-### Private Events Owner Placeholders
+### Private Events Confirmed Facts and Remaining Decisions
 
-- Event types accepted
-- Pricing
-- Deposit policy
-- Food/drink policy
-- Group size limits
-- Age limits
-- Duration
-- Activity options
-- Final private event photos/videos
+Arrange birthdays, corporate, church, family or friend gatherings using existing tours and hands-on activities. There is no separate prebuilt event package. Bring your own food and drink, with details and availability confirmed by phone.
+
+Remaining: Event-specific capacity, supervision, time blocks, deposits/fees, setup/cleanup, alcohol restrictions and final media.
 
 ---
 
@@ -678,18 +638,11 @@ Join the class interest list and tell us what kind of glass class you would like
 
 ---
 
-### Classes Owner Placeholders
+### Classes Confirmed Facts and Remaining Decisions
 
-- Current class status
-- First class concepts
-- Pricing
-- Minimum enrollment
-- Maximum enrollment
-- Schedule
-- Age limits
-- Skill levels
-- Materials included
-- Final class photos/videos
+Classes explore techniques in more depth than workshops. Seasonal classes may run one night or multiple nights, with prices and maximum capacity set per class. None are currently scheduled; future offerings will be posted on the Classes page. About six or more enrolled generally needed to run.
+
+Remaining: Next class concepts, dates/prices, maximum enrollment, ages/skills, materials and final media.
 
 ---
 
@@ -740,17 +693,11 @@ Not every project is possible in glass, but clear details help the studio determ
 
 ---
 
-### Custom Glass Owner Placeholders
+### Custom Glass Confirmed Facts and Remaining Decisions
 
-- Accepted custom work
-- Work not accepted
-- Repair policy
-- Quote process
-- Deposit policy
-- Timeline
-- Shipping option
-- Price range guidance
-- Final custom glass photos
+Discuss commissions with Mark by phone, Zoom or appointment. Provide pictures/sketches, dimensions, colors, deadline and budget. Awards start at $450; other projects are quoted individually. Typically 50% down or full payment applies; prototypes may incur a charge. Production may start 2–3 weeks out, subject to schedule. Repairs are evaluated from photos or in person, starting at $50. Artwork ships nationwide; detailed delivery promises require Mark.
+
+Remaining: Accepted/declined categories, prototype/rush/revision charges, project completion dates and selected examples.
 
 ---
 
@@ -805,18 +752,11 @@ Pickup timing depends on the activity and project type.
 
 ---
 
-### Visit Owner Placeholders
+### Visit Confirmed Facts and Remaining Decisions
 
-- Exact address
-- Hours
-- Parking
-- Entrance instructions
-- Appointment policy
-- Walk-in policy
-- Pickup policy
-- Accessibility notes
-- Map embed
-- Final exterior/interior photos
+815 West Market Street, Louisville, KY 40202, between Eighth and Ninth. Mon–Fri 10–4; Sat 10–5; Sunday by confirmed appointment. Outdoor lots around block, garage across street, metered street parking. Rear ramp for step-free access, shorter tables, seating and route planning available; discuss specific accommodations. Fused pickup typically 1–2 weeks; torch usually next day after 11 a.m. See booking guidance above.
+
+Remaining: Final map/media and pickup-hour exceptions. Earlier derivative says public hours unless arranged; newer queue asks whether pickup always follows public hours.
 
 ---
 
@@ -882,7 +822,7 @@ Yes, fused glass is generally beginner-friendly and can work well for families, 
 
 ### Do fused glass projects go home the same day?
 
-Yes. Fused-glass projects are kiln-fired after the visit and typically take 1–2 weeks to process. Pickup is available, and nationwide shipping can also be arranged.
+No. Fused-glass projects are kiln-fired after the visit and typically take 1–2 weeks to process. Pickup is available, and nationwide shipping can also be arranged.
 
 ---
 
@@ -1058,16 +998,11 @@ For group requests, the more details you provide, the easier it is to respond ac
 - Approved escalation/callback cell: 502-558-4049.
 - Typical response target: within one day when possible; generally within 1–2 days.
 
-### Contact Owner Placeholders
+### Contact Confirmed Facts and Remaining Decisions
 
-- Final phone
-- Final email
-- Final response timeframe
-- Final form tool
-- Form recipient
-- Whether text messaging is used
-- Spam protection method
-- CRM connection
+Phone 502-992-3270; public email info@PaytonGlassCenter.com; texting approved. Response target within one day when possible, generally 1–2 days. Mark’s cell remains for approved escalation workflows, not general public copy.
+
+Remaining: Form tool, recipient/routing, spam protection, CRM connection and after-hours callback policy.
 
 ---
 
@@ -1110,36 +1045,19 @@ Availability changes over time, so contact the studio or visit to see what is cu
 
 ---
 
-### Gallery Owner Placeholders
+### Gallery Confirmed Facts and Remaining Decisions
 
-- Product categories
-- Price ranges
-- Gift options
-- Custom examples
-- Retail availability
-- Shipping availability
-- Final gallery photos
+Browse glass artwork made on premises by Mark and his team during public hours. Purchase in store, online or by phone; all major credit cards are accepted and artwork ships nationwide. Gift certificates are available with no expiration and retained balances.
+
+Remaining: Inventory categories/current item prices, gift options/wrapping, custom examples and final photos.
 
 ---
 
 ## 16. Copy Gaps Requiring Owner Confirmation
 
-Owner review on 2026-10-13 resolved core hours, parking, walk-in/appointment guidance, fused-glass and torch pricing ranges, group-tour base pricing, food/drink policy, pickup timing, shipping, and several age/safety rules.
+Owner reviews through 2026-10-15 resolved contacts/hours/parking, offers, photographed catalogs, tour/field-trip pricing and chaperones, demonstrations, repairs, custom consultation/deposits, gift certificates and accessibility facts.
 
-Remaining copy gaps:
-
-- Exact fused-glass project catalog and per-project pricing
-- Exact torch project catalog and per-project pricing
-- Field-trip-specific pricing and chaperone rules
-- Demonstration-only availability and pricing
-- Exact class-by-class catalog, dates, prices, and maximum enrollment when scheduled
-- Exact custom commission quote details for unusual projects, prototype charges, and rush work
-- Final public wording for accessibility/accommodation requests
-- Final field-trip table values if the Glass Tours page pricing table changes
-- Exact alcohol-specific rules, if any, within the bring-your-own-drink policy
-- Final after-hours callback policy
-- Final photos/videos and testimonials/reviews
-- Preferred calls to action by offer
+Remaining: catalog completeness and price-range/age wording described above; capacity/observer limits; activity-specific deposits and event logistics; class details when scheduled; prototype/rush/revision charges; alcohol restrictions; final media/testimonials, calls to action and public wording; after-hours callbacks and pickup-hour exceptions.
 
 ---
 
