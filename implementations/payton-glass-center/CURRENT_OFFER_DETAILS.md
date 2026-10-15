@@ -244,6 +244,8 @@ Active.
 ### Owner-Confirmed Operating Facts — 2026-10-13
 
 - Premium hands-on flameworking experience guided directly by owner and glass artist Mark Payton.
+- Customer-facing names FLAME IT, Flame Your Own, FYO, and flame-your-own refer to this same torch experience.
+- The owner-supplied photographed project catalog is captured in `FLAME_IT_FYO_PRICE_CATALOG.md`.
 - Current price range: $58–$158.
 - Typical duration is approximately 30–40 minutes per person/per project; scheduling is generally in half-hour slots.
 - No prior glassmaking experience is required.
@@ -262,7 +264,7 @@ Hands-on torch experiences strongly differentiate Payton Glass Center because gu
 
 ### Owner Confirmation Needed
 
-- Current hands-on torch options
+- Current hands-on torch options are captured in `FLAME_IT_FYO_PRICE_CATALOG.md` for the owner-supplied menu
 - What participants actually do
 - What the artist does
 - What customers make
