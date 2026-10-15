@@ -5,9 +5,14 @@ Date captured/reviewed: 2026-10-15
 Source: In-studio "Payton Glass Activity Center — FUSE IT!" price sign supplied by Mark Payton
 Purpose: Exact quick-reference project names and displayed prices for Echo Voice and website reconciliation.
 
-## Important Interpretation Note
+## Price Convention
 
-Many projects on the photographed sign show two numeric prices separated by a slash. The photograph does not explain what the first and second numbers mean. Preserve both values exactly until Mark confirms the meaning of the two-price format.
+For projects showing two prices separated by a slash:
+
+- First/lower price = clear base
+- Second/higher price = colored base
+
+Example: `$28 / $32` means $28 with a clear base or $32 with a colored base.
 
 Single-price items are recorded as a single displayed price.
 
@@ -79,8 +84,8 @@ The sign also states:
 ## Echo Voice Use Rules
 
 - Echo Voice may quote single displayed prices directly.
-- For dual-price items, Echo Voice should not assign meaning to the first versus second price until the slash-price convention is owner-confirmed.
-- If a caller asks for a dual-price project's exact price before that convention is confirmed, Echo Voice may say the current studio price board lists two price points and offer to confirm which applies.
+- For dual-price items, the first/lower price is for a clear base and the second/higher price is for a colored base.
+- When a caller asks the price of a dual-price project, Echo Voice should ask whether they want a clear or colored base if that choice is not already known.
 - Use this photographed project catalog instead of older website FUSE IT pricing.
 - This sign does not prove that these are every fused-glass project offered; it is the photographed in-studio catalog supplied on 2026-10-15.
 
