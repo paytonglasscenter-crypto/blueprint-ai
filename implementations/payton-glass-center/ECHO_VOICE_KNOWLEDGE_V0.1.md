@@ -594,6 +594,39 @@ Confidence: HIGH
 Direct answer: YES
 
 
+
+### FUSE IT! Project Catalog
+
+EV-088
+Fact: The owner-supplied 2026-10-15 in-studio FUSE IT! sign provides a project-by-project price catalog; use FUSE_IT_PRICE_CATALOG.md as the quick-reference source for these listed projects rather than older website pricing.
+Authority: OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
+
+EV-089
+Fact: The photographed FUSE IT! sign states that workshop price is included in the project cost.
+Authority: OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
+
+EV-090
+Fact: The photographed FUSE IT! sign states that no experience is necessary and projects are for all ages.
+Authority: OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
+
+EV-091
+Fact: Glass cutting in the FUSE IT! workshop is for ages 10 and up, and adult supervision is required.
+Authority: OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
+
+EV-092
+Fact: On dual-price FUSE IT! projects, the first/lower price is for a clear base and the second/higher price is for a colored base.
+Authority: OWNER_CONFIRMED + OWNER_SUPPLIED_PHOTO
+Confidence: HIGH
+Direct answer: YES
+
 ## Inquiry Data to Collect
 
 For ordinary activity inquiries:
